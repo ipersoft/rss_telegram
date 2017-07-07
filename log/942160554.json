@@ -1,0 +1,26 @@
+{
+  "update_id": 942160554,
+  "channel_post": {
+    "message_id": 1712,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499432755,
+    "text": "Comune.di.Desio\n #BilancioPartecipativo 2017: al via la prima fase di voto per i progetti senior\nMartedì 11 luglio parte la prima fase di voto per le 17 proposte presentate dai cittadini. Questa fase si concluderà il 25 luglio 2017. Online la piattaforma per registrarsi e partecipare.\nhttps://www.facebook.com/103441483073684_1470249856392833",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 286,
+        "length": 57
+      }
+    ]
+  }
+}
