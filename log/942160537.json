@@ -1,0 +1,21 @@
+{
+  "update_id": 942160537,
+  "channel_post": {
+    "message_id": 1703,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499333442,
+    "text": "INTEGRAZIONE IMPEGNO DI SPESA PER SERVIZIO DI HOSTING EMAIL ARUBA - EURO 1.342,00– CODICE Z821DA80F5\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3378890",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 101,
+        "length": 92
+      }
+    ]
+  }
+}

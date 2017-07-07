@@ -1,0 +1,21 @@
+{
+  "update_id": 942160535,
+  "channel_post": {
+    "message_id": 1701,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499330734,
+    "text": "Comune.di.Desio\n Programma:\nsabato 8 ore 14.30 presso la Bocciofila Aurora Desio in via Garibaldi: inizio torneo di bocce tra le contrade del Palio degli Zoccoli;\ndomenica 9 luglio ore 21 presso la Bocciofila Parco in via Cavalieri di Vittorio Veneto: serata danzante - ingresso libero\nhttps://www.facebook.com/103441483073684_359142744503248",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 286,
+        "length": 56
+      }
+    ]
+  }
+}

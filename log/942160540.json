@@ -1,0 +1,21 @@
+{
+  "update_id": 942160540,
+  "channel_post": {
+    "message_id": 274,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499337423,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/07/novita-per-le-scuole-di-meda-da-settembre-arriva-il-pedibus/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}

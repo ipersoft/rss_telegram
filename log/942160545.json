@@ -1,0 +1,21 @@
+{
+  "update_id": 942160545,
+  "channel_post": {
+    "message_id": 1706,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499411146,
+    "text": "1^ Festa d'Estate  \nQuartiere di San Giorgio in festa nei giorni 14-15-16 Luglio 2017 presso il campo sportivo in piazza Giotto\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44649",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 129,
+        "length": 74
+      }
+    ]
+  }
+}

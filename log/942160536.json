@@ -1,0 +1,21 @@
+{
+  "update_id": 942160536,
+  "channel_post": {
+    "message_id": 1702,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499333441,
+    "text": "IMPEGNI DI SPESA PER L’INCARICHI LEGALI DIVERSI (€ 8247.20)\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3378831",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 60,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "update_id": 942160543,
+  "channel_post": {
+    "message_id": 277,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499360117,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-caldo-e-siccita-contenere-i-consumi-di-acqua-potabile/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 82
+      }
+    ]
+  }
+}
