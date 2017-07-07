@@ -1,0 +1,21 @@
+{
+  "update_id": 942160553,
+  "channel_post": {
+    "message_id": 1711,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499430922,
+    "text": "Contenimento dell'uso dell'acqua per irrigare giardini e per il lavaggio delle auto \nDalle ore 6 alle ore 22 di ogni giorno, a decorrere dal 1° luglio 2015 e fino al 15 settembre 2016, in vigore l'ordinanza per il contenimento dei consumi di acqua potabile.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44657",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 258,
+        "length": 74
+      }
+    ]
+  }
+}

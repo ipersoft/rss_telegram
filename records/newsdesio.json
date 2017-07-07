@@ -31,7 +31,28 @@
     "ID": "278",
     "iData": 1499405421,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:21 Massima: 33 \nUmidità: 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:21 Massima: 33 \nUmiditÃ : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
+  },
+  {
+    "ID": "279",
+    "iData": 1499424913,
+    "IMG": null,
+    "Testo": "www.seregno.tv\nhttp://www.seregno.tv/seregno-lei-non-rispetta-lo-stop-e-lui-la-ribalta/",
+    "Link": "http://www.seregno.tv/seregno-lei-non-rispetta-lo-stop-e-lui-la-ribalta/"
+  },
+  {
+    "ID": "280",
+    "iData": 1499427625,
+    "IMG": null,
+    "Testo": "MonzaToday\nhttp://www.monzatoday.it/eventi/streetfood-terrone-fuori-sede-parco-tittoni.html",
+    "Link": "http://www.monzatoday.it/eventi/streetfood-terrone-fuori-sede-parco-tittoni.html"
+  },
+  {
+    "ID": "281",
+    "iData": 1499427626,
+    "IMG": null,
+    "Testo": "MonzaToday\nhttp://www.monzatoday.it/cronaca/aggresisone-cane-desio.html",
+    "Link": "http://www.monzatoday.it/cronaca/aggresisone-cane-desio.html"
   }
 ]
