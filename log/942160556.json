@@ -1,0 +1,31 @@
+{
+  "update_id": 942160556,
+  "channel_post": {
+    "message_id": 1714,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499441133,
+    "text": "Comune.di.Desio\n #Desio: contenimento dell'uso dell' #acqua per irrigare giardini e per il lavaggio delle auto\nDalle ore 6 alle ore 22 di ogni giorno, a decorrere dal 1° luglio 2015 e fino al 15 settembre 2016, in vigore l'ordinanza per il contenimento dei consumi di acqua potabile. \nSegui anche tu il vademecum salva-acqua per arrivare a risparmiare fino a 10 mila litri di acqua in un anno!\nhttps://www.facebook.com/103441483073684_1470258816391937",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 53,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 394,
+        "length": 57
+      }
+    ]
+  }
+}

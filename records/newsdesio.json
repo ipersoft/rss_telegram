@@ -31,7 +31,7 @@
     "ID": "278",
     "iData": 1499405421,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:21 Massima: 33 \nUmiditÃ : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:21 Massima: 33 \nUmiditÃƒÂ : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -54,5 +54,12 @@
     "IMG": null,
     "Testo": "MonzaToday\nhttp://www.monzatoday.it/cronaca/aggresisone-cane-desio.html",
     "Link": "http://www.monzatoday.it/cronaca/aggresisone-cane-desio.html"
+  },
+  {
+    "ID": "282",
+    "iData": 1499491817,
+    "IMG": null,
+    "Testo": "Meteo Desio\nTemperatua corrente: 25\nMinima:23 Massima: 34 \nUmidità: 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Link": "http://ifttt.com/images/weather/sunny.png"
   }
 ]
