@@ -1,0 +1,21 @@
+{
+  "update_id": 942160562,
+  "channel_post": {
+    "message_id": 286,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499603023,
+    "text": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/scienziati-internazionali-a-confronto-all-ospedale-di-desio-nell-anniversario-della-diossina.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 17,
+        "length": 132
+      }
+    ]
+  }
+}
