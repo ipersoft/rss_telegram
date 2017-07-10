@@ -1,0 +1,21 @@
+{
+  "update_id": 942160569,
+  "channel_post": {
+    "message_id": 1717,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499688283,
+    "text": "SVINCOLO DEPOSITO CAUZIONALE UNITÀ IMMOBILIARE AD USO AUTORIMESSA - CONDUTTORE C.R.\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3384981",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 84,
+        "length": 92
+      }
+    ]
+  }
+}

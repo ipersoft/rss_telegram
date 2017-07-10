@@ -1,0 +1,21 @@
+{
+  "update_id": 942160572,
+  "channel_post": {
+    "message_id": 1720,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499688287,
+    "text": "SERVIZIO INTERNET - SISTEMA PUBBLICO DI CONNETTIVITA’ SPC2- IMPEGNO DI SPESA EURO 5.605,63- CIG Z8F1F423CC\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3384987",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 107,
+        "length": 92
+      }
+    ]
+  }
+}
