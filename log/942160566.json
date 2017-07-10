@@ -1,0 +1,21 @@
+{
+  "update_id": 942160566,
+  "channel_post": {
+    "message_id": 289,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499673867,
+    "text": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/lega-nord-all-attacco-rissa-e-vandalismi-ma-per-l-assessore-la-citta-e-sicura.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 17,
+        "length": 117
+      }
+    ]
+  }
+}

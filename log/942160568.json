@@ -1,0 +1,21 @@
+{
+  "update_id": 942160568,
+  "channel_post": {
+    "message_id": 291,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499680043,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/desio-ladro-auto.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 54
+      }
+    ]
+  }
+}

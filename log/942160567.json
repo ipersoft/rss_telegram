@@ -1,0 +1,21 @@
+{
+  "update_id": 942160567,
+  "channel_post": {
+    "message_id": 290,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499680042,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/lite-elemosina-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 58
+      }
+    ]
+  }
+}
