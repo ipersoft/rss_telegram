@@ -1,0 +1,21 @@
+{
+  "update_id": 942160576,
+  "channel_post": {
+    "message_id": 1723,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499693866,
+    "text": "Yoga al Parco di Villa Tittoni  \nProsegue l'iniziativa dell'Assessorato allo Sport e Tempo Libero per avvicinare alla pratica della disciplina Hata Yoga\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44683",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 153,
+        "length": 74
+      }
+    ]
+  }
+}
