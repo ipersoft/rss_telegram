@@ -31,7 +31,7 @@
     "ID": "278",
     "iData": 1499405421,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:21 Massima: 33 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:21 Massima: 33 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -59,7 +59,7 @@
     "ID": "282",
     "iData": 1499491817,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 25\nMinima:23 Massima: 34 \nUmiditÃƒÂ : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 25\nMinima:23 Massima: 34 \nUmiditÃƒÆ’Ã‚Â : 63%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -73,7 +73,7 @@
     "ID": "287",
     "iData": 1499664627,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:19 Massima: 29 \nUmiditÃ : 71%\nMostly Sunny\n http://ifttt.com/images/weather/cloudy.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 23\nMinima:19 Massima: 29 \nUmiditÃƒÂ : 71%\nMostly Sunny\n http://ifttt.com/images/weather/cloudy.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/cloudy.png"
   },
   {
@@ -103,5 +103,12 @@
     "IMG": null,
     "Testo": "MonzaToday\nhttp://www.monzatoday.it/cronaca/desio-ladro-auto.html",
     "Link": "http://www.monzatoday.it/cronaca/desio-ladro-auto.html"
+  },
+  {
+    "ID": "292",
+    "iData": 1499689453,
+    "IMG": null,
+    "Testo": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/si-contendono-il-marciapiede-per-chiedere-l-elemosina-botte-da-orbi-in-due-all-ospedale.html",
+    "Link": "http://quibrianza.it/cronaca/desio/si-contendono-il-marciapiede-per-chiedere-l-elemosina-botte-da-orbi-in-due-all-ospedale.html"
   }
 ]
