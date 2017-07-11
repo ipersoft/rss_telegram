@@ -1,0 +1,26 @@
+{
+  "update_id": 942160593,
+  "channel_post": {
+    "message_id": 1737,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499796411,
+    "text": "Comune.di.Desio\n #desiodalvivo Anche questo mercoledì, grazie ai Campanari Basilica di Desio, potremo salire sul campanile della Basilica per una visita guidata alle famose campane 🔔 !\nhttps://www.facebook.com/103441483073684_1474844942599991",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 13
+      },
+      {
+        "type": "url",
+        "offset": 186,
+        "length": 57
+      }
+    ]
+  }
+}
