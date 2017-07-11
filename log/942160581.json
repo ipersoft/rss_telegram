@@ -1,0 +1,21 @@
+{
+  "update_id": 942160581,
+  "channel_post": {
+    "message_id": 1725,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499772987,
+    "text": "QUANTIFICAZIONE DELLE SOMME IMPIGNORABILI PER IL SECONDO SEMESTRE DELL'ESERCIZIO FINANZIARIO 2017 AI SENSI DELL'ART. 159 DEL D.LGS. 267/2000\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3387143",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 141,
+        "length": 92
+      }
+    ]
+  }
+}

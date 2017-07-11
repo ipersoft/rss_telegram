@@ -1,0 +1,21 @@
+{
+  "update_id": 942160587,
+  "channel_post": {
+    "message_id": 1731,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499772995,
+    "text": "SERATE DANZANTI - CONTRIBUTO ALLA BOCCIOFILA AURORA PARCO PER PAGAMENTO DIRITTI D’AUTORE SIAE - IMPEGNO DI SPESA\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3387262",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 113,
+        "length": 92
+      }
+    ]
+  }
+}

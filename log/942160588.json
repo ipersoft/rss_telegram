@@ -1,0 +1,21 @@
+{
+  "update_id": 942160588,
+  "channel_post": {
+    "message_id": 1732,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499772996,
+    "text": "ASSOCIAZIONE CONTRADA DUGANA - RICHIESTA PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA “FESTA DELLA CONTRADA 2017” IN PROGRAMMA PRESSO LA BOCCIOFILA PARCO DI VIA CAVALIERI DI VITTORIO VENETO NEI GIORNI 8 LUGLIO E 9 LUGLIO 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3387264",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 227,
+        "length": 92
+      }
+    ]
+  }
+}
