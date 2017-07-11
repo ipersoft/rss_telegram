@@ -1,0 +1,21 @@
+{
+  "update_id": 942160591,
+  "channel_post": {
+    "message_id": 1735,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499790714,
+    "text": "Comune.di.Desio\n Zanzare: proseguono le operazioni di disinfestazione e monitoraggio. In programma anche interventi adulticidi. Scopri alcuni consigli e buone pratiche per evitare le zanzare nelle aree di pertinenza della tua casa e contribuire così al buon esito dell'attività di prevenzione cittadina.\nhttps://www.facebook.com/103441483073684_1474780122606473",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 304,
+        "length": 57
+      }
+    ]
+  }
+}
