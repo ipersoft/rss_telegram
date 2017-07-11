@@ -1,0 +1,21 @@
+{
+  "update_id": 942160579,
+  "channel_post": {
+    "message_id": 294,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499763847,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/07/desio-continuano-gli-atti-vandalici-notturni-e-la-lega-non-ci-sta/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 96
+      }
+    ]
+  }
+}
