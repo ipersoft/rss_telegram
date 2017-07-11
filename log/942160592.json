@@ -1,0 +1,21 @@
+{
+  "update_id": 942160592,
+  "channel_post": {
+    "message_id": 1736,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499792850,
+    "text": "Zanzare: proseguono le operazioni di disinfestazione e monitoraggio \nProsegue con il 4° e 5° ciclo, il trattamento antilarvale in esecuzione da aprile in tutte le zone della Città. In calendario nei prossimi giorni anche alcuni interventi adulticidi .\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44702",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 252,
+        "length": 74
+      }
+    ]
+  }
+}
