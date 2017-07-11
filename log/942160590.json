@@ -1,0 +1,21 @@
+{
+  "update_id": 942160590,
+  "channel_post": {
+    "message_id": 1734,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499789313,
+    "text": "ATS Brianza lancia una rilevazione civica sulla qualità delle dimissioni protette \nLa rilevazione è condotta in collaborazione con l'associazione Cittadinanzattiva ed è rivolta a chi è stato dimesso in regime di dimissione protetta da un ospedale del territorio dell'ATS Brianza\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44693",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 279,
+        "length": 74
+      }
+    ]
+  }
+}
