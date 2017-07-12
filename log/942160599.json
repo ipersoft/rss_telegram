@@ -1,0 +1,21 @@
+{
+  "update_id": 942160599,
+  "channel_post": {
+    "message_id": 300,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499866782,
+    "text": "Qui Brianza\n     http://quibrianza.it/cronaca/bovisio-masciago/scontro-automoto-il-vicecomandante-della-polizia-locale-in-prognosi-riservata.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 17,
+        "length": 128
+      }
+    ]
+  }
+}
