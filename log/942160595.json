@@ -1,0 +1,21 @@
+{
+  "update_id": 942160595,
+  "channel_post": {
+    "message_id": 297,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499853859,
+    "text": "Qui Brianza\n     http://quibrianza.it/cronaca/cesano-maderno/il-cacciatore-di-rapinatori-alla-guida-della-tenenza-cittadina.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 17,
+        "length": 111
+      }
+    ]
+  }
+}
