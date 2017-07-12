@@ -1,0 +1,21 @@
+{
+  "update_id": 942160596,
+  "channel_post": {
+    "message_id": 298,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499863360,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incidente-stradale/desio-viale-sabotino.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 77
+      }
+    ]
+  }
+}
