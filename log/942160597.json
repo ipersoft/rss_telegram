@@ -1,0 +1,21 @@
+{
+  "update_id": 942160597,
+  "channel_post": {
+    "message_id": 299,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499864544,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incidente-stradale/desio-agente-polizia-locale-bovisio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 92
+      }
+    ]
+  }
+}
