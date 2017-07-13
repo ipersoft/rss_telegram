@@ -1,0 +1,21 @@
+{
+  "update_id": 942160605,
+  "channel_post": {
+    "message_id": 305,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1499951149,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/desio-rapina-villa.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 56
+      }
+    ]
+  }
+}
