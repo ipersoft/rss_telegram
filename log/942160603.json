@@ -1,0 +1,21 @@
+{
+  "update_id": 942160603,
+  "channel_post": {
+    "message_id": 1739,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1499936436,
+    "text": "Agosto in città ... istruzioni per l'uso \nTutti gli orari degli uffici e dei servizi pubblici in città. I turni di farmacie e distributori di carburante. Zona a Traffico Limitato ed esecutività divieti di sosta per spazzamento strade sospese per tutto il mese di agosto.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44712",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 271,
+        "length": 74
+      }
+    ]
+  }
+}
