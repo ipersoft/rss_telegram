@@ -1,0 +1,21 @@
+{
+  "update_id": 942160615,
+  "channel_post": {
+    "message_id": 1743,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1500023199,
+    "text": "FORNITURA DI MATERIALE DA IMBIANCHINO PER INTERVENTI DI MANUTENZIONE DA SVOLGERE IN ECONOMIA DIRETTA BIENNIO 2017/2018. DETERMINA A CONTRARRE, AFFIDAMENTO DELLA FORNITURA ALLA DITTA COLORIFICIO ATLANTIC DI SAINI PIETRO MAURO CON SEDE IN DESIO E ASSUNZIONE IMPEGNO DI SPESA € 10.000,00 OLTRE I.V.A. - CIG Z121EE4658\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3393226",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 315,
+        "length": 92
+      }
+    ]
+  }
+}

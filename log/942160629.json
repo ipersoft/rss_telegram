@@ -1,0 +1,21 @@
+{
+  "update_id": 942160629,
+  "channel_post": {
+    "message_id": 1757,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1500023216,
+    "text": "ASSOCIAZIONE COMITATO S. GIORGIO DI DESIO – RICHIESTA DI PATROCINIO COMUNALE PER LA “PRIMA FESTA ESTIVA” IN PROGRAMMA PRESSO L’IMPIANTO SPORTIVO DI PIAZZA GIOTTO DAL 14 AL 16 LUGLIO 2017\nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3393354",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 187,
+        "length": 92
+      }
+    ]
+  }
+}
