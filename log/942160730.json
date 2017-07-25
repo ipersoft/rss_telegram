@@ -1,0 +1,21 @@
+{
+  "update_id": 942160730,
+  "channel_post": {
+    "message_id": 350,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1500993737,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/07/ubriaco-finisce-fuori-strada-e-si-finge-vittima-di-rapina-denunciato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 99
+      }
+    ]
+  }
+}

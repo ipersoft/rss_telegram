@@ -17,7 +17,7 @@
     "ID": "346",
     "iData": 1500960622,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÂ : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -40,5 +40,12 @@
     "IMG": null,
     "Testo": "MBNews\nhttps://www.mbnews.it/2017/07/suoni-mobili-quattro-gli-appuntamenti-brianzoli-di-questa-settimana/",
     "Link": "https://www.mbnews.it/2017/07/suoni-mobili-quattro-gli-appuntamenti-brianzoli-di-questa-settimana/"
+  },
+  {
+    "ID": "350",
+    "iData": 1500993737,
+    "IMG": null,
+    "Testo": "MBNews\nhttps://www.mbnews.it/2017/07/ubriaco-finisce-fuori-strada-e-si-finge-vittima-di-rapina-denunciato/",
+    "Link": "https://www.mbnews.it/2017/07/ubriaco-finisce-fuori-strada-e-si-finge-vittima-di-rapina-denunciato/"
   }
 ]
