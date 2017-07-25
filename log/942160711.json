@@ -1,0 +1,21 @@
+{
+  "update_id": 942160711,
+  "channel_post": {
+    "message_id": 347,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1500970357,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/07/desio-lintervento-va-su-youtube-ed-e-un-successo-diretta-streaming-sala-operatoria-oculistica/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 124
+      }
+    ]
+  }
+}
