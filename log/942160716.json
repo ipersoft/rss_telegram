@@ -1,0 +1,21 @@
+{
+  "update_id": 942160716,
+  "channel_post": {
+    "message_id": 348,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1500978145,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/streaming-ospedale-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 62
+      }
+    ]
+  }
+}

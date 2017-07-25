@@ -17,7 +17,7 @@
     "ID": "346",
     "iData": 1500960622,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃ : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÂ : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -26,5 +26,19 @@
     "IMG": null,
     "Testo": "MBNews\nhttps://www.mbnews.it/2017/07/desio-lintervento-va-su-youtube-ed-e-un-successo-diretta-streaming-sala-operatoria-oculistica/",
     "Link": "https://www.mbnews.it/2017/07/desio-lintervento-va-su-youtube-ed-e-un-successo-diretta-streaming-sala-operatoria-oculistica/"
+  },
+  {
+    "ID": "348",
+    "iData": 1500978145,
+    "IMG": null,
+    "Testo": "MonzaToday\nhttp://www.monzatoday.it/cronaca/streaming-ospedale-desio.html",
+    "Link": "http://www.monzatoday.it/cronaca/streaming-ospedale-desio.html"
+  },
+  {
+    "ID": "349",
+    "iData": 1500978444,
+    "IMG": null,
+    "Testo": "MBNews\nhttps://www.mbnews.it/2017/07/suoni-mobili-quattro-gli-appuntamenti-brianzoli-di-questa-settimana/",
+    "Link": "https://www.mbnews.it/2017/07/suoni-mobili-quattro-gli-appuntamenti-brianzoli-di-questa-settimana/"
   }
 ]
