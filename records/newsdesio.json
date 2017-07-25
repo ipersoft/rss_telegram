@@ -12,5 +12,12 @@
     "IMG": null,
     "Testo": "MonzaToday\nhttp://www.monzatoday.it/cronaca/denuncia-falso-furto-auto.html",
     "Link": "http://www.monzatoday.it/cronaca/denuncia-falso-furto-auto.html"
+  },
+  {
+    "ID": "346",
+    "iData": 1500960622,
+    "IMG": null,
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmidità: 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Link": "http://ifttt.com/images/weather/sunny.png"
   }
 ]
