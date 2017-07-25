@@ -17,7 +17,7 @@
     "ID": "346",
     "iData": 1500960622,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -47,5 +47,12 @@
     "IMG": null,
     "Testo": "MBNews\nhttps://www.mbnews.it/2017/07/ubriaco-finisce-fuori-strada-e-si-finge-vittima-di-rapina-denunciato/",
     "Link": "https://www.mbnews.it/2017/07/ubriaco-finisce-fuori-strada-e-si-finge-vittima-di-rapina-denunciato/"
+  },
+  {
+    "ID": "351",
+    "iData": 1501010323,
+    "IMG": null,
+    "Testo": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/mi-hanno-rapinato--automobilista-bugiardo-denunciato-dai-carabinieri.html",
+    "Link": "http://quibrianza.it/cronaca/desio/mi-hanno-rapinato--automobilista-bugiardo-denunciato-dai-carabinieri.html"
   }
 ]
