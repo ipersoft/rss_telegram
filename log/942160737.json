@@ -1,0 +1,26 @@
+{
+  "update_id": 942160737,
+  "channel_post": {
+    "message_id": 356,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1501057631,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-un-giovane-desiano-salva-la-vita-ad-un-extracomunitario/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 84
+      }
+    ]
+  }
+}

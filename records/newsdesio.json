@@ -17,7 +17,7 @@
     "ID": "346",
     "iData": 1500960622,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -59,7 +59,7 @@
     "ID": "352",
     "iData": 1501047037,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃ : 49%\nMostly Sunny\n http://ifttt.com/images/weather/cloudy.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÂ : 49%\nMostly Sunny\n http://ifttt.com/images/weather/cloudy.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/cloudy.png"
   },
   {
@@ -68,5 +68,26 @@
     "IMG": null,
     "Testo": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/ventiduenne-eroe-assiste-a-un-incidente-salva-la-vita-a-un-motociclista.html",
     "Link": "http://quibrianza.it/cronaca/desio/ventiduenne-eroe-assiste-a-un-incidente-salva-la-vita-a-un-motociclista.html"
+  },
+  {
+    "ID": "354",
+    "iData": 1501057327,
+    "IMG": null,
+    "Testo": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incidente-stradale/montevecchia-volontario-cri-desio.html",
+    "Link": "http://www.monzatoday.it/cronaca/incidente-stradale/montevecchia-volontario-cri-desio.html"
+  },
+  {
+    "ID": "355",
+    "iData": 1501057428,
+    "IMG": null,
+    "Testo": "Qui Brianza\n     http://quibrianza.it/cronaca/monza/ospedale-avveniristico-l-operazione-trasmessa-in-diretta-streaming-3d.html",
+    "Link": "http://quibrianza.it/cronaca/monza/ospedale-avveniristico-l-operazione-trasmessa-in-diretta-streaming-3d.html"
+  },
+  {
+    "ID": "356",
+    "iData": 1501057631,
+    "IMG": null,
+    "Testo": "www.seregno.tv\nhttp://www.seregno.tv/desio-un-giovane-desiano-salva-la-vita-ad-un-extracomunitario/",
+    "Link": "http://www.seregno.tv/desio-un-giovane-desiano-salva-la-vita-ad-un-extracomunitario/"
   }
 ]

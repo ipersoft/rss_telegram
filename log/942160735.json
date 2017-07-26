@@ -1,0 +1,21 @@
+{
+  "update_id": 942160735,
+  "channel_post": {
+    "message_id": 354,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1501057327,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incidente-stradale/montevecchia-volontario-cri-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 90
+      }
+    ]
+  }
+}
