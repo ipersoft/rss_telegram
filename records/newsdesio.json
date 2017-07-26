@@ -17,7 +17,7 @@
     "ID": "346",
     "iData": 1500960622,
     "IMG": null,
-    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmiditÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â : 45%\nSunny\n http://ifttt.com/images/weather/sunny.png\nIFTT",
     "Link": "http://ifttt.com/images/weather/sunny.png"
   },
   {
@@ -54,5 +54,12 @@
     "IMG": null,
     "Testo": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/mi-hanno-rapinato--automobilista-bugiardo-denunciato-dai-carabinieri.html",
     "Link": "http://quibrianza.it/cronaca/desio/mi-hanno-rapinato--automobilista-bugiardo-denunciato-dai-carabinieri.html"
+  },
+  {
+    "ID": "352",
+    "iData": 1501047037,
+    "IMG": null,
+    "Testo": "Meteo Desio\nTemperatua corrente: 19\nMinima:17 Massima: 29 \nUmidità: 49%\nMostly Sunny\n http://ifttt.com/images/weather/cloudy.png\nIFTT",
+    "Link": "http://ifttt.com/images/weather/cloudy.png"
   }
 ]
