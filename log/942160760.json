@@ -1,0 +1,21 @@
+{
+  "update_id": 942160760,
+  "channel_post": {
+    "message_id": 364,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1501243565,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/bar-baffo-chiuso-nova-milanese.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 68
+      }
+    ]
+  }
+}
