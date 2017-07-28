@@ -1,0 +1,26 @@
+{
+  "update_id": 942160753,
+  "channel_post": {
+    "message_id": 361,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1501233344,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-altri-due-incidenti-allincrocio-maledetto-di-via-macalle/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 87
+      }
+    ]
+  }
+}
