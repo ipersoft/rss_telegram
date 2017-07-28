@@ -1,0 +1,21 @@
+{
+  "update_id": 942160761,
+  "channel_post": {
+    "message_id": 365,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1501244861,
+    "text": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/contromano-nel-centro-cittadino-aveva-bevuto-5-volte-piu-del-consentito.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 17,
+        "length": 111
+      }
+    ]
+  }
+}
