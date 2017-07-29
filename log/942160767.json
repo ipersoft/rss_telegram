@@ -1,0 +1,21 @@
+{
+  "update_id": 942160767,
+  "channel_post": {
+    "message_id": 371,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1501331225,
+    "text": "Qui Brianza\n     http://quibrianza.it/cronaca/desio/ko-dopo-un-quarto-d-ora-di-escursione-brianzola-in-ospedale-con-l-elicottero.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 17,
+        "length": 116
+      }
+    ]
+  }
+}
