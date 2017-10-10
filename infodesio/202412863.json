@@ -1,0 +1,21 @@
+{
+  "update_id": 202412863,
+  "channel_post": {
+    "message_id": 2154,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507656607,
+    "text": "SERVIZI DI ASSISTENZA EDUCATIVA NELLE ATTIVITA' DI PRE E POST SCUOLA PER LE SCUOLE INFANZIA E PRIMARIE STATALI - INTEGRAZIONE IMPEGNO DI SPESA A.S. 2017/18 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3555439",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 157,
+        "length": 92
+      }
+    ]
+  }
+}

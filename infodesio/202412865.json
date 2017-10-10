@@ -1,0 +1,21 @@
+{
+  "update_id": 202412865,
+  "channel_post": {
+    "message_id": 2156,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507656610,
+    "text": "FORNITURA TRAMITE MEPA DI LICENZE DATACENTER PER SALA SERVER- IMPEGNO DI SPESA EURO 5.250,59 IVA COMPRESA – CODICE CIG-Z38202A5E5 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3555443",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 131,
+        "length": 92
+      }
+    ]
+  }
+}

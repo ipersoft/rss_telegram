@@ -1,0 +1,21 @@
+{
+  "update_id": 202412864,
+  "channel_post": {
+    "message_id": 2155,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507656609,
+    "text": "IMPEGNO DI SPESA PER IL SERVIZIO DI MANUTENZIONE E ASSISTENZA TECNICA DELL’IMPIANTO RADIO IN DOTAZIONE ALLA POLIZIA LOCALE PER L’ANNO 2018. EURO 1.213,90 I.V.A. COMPRESA. CODICE CIG Z2720285DC. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3555441",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 195,
+        "length": 92
+      }
+    ]
+  }
+}
