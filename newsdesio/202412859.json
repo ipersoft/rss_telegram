@@ -1,0 +1,21 @@
+{
+  "update_id": 202412859,
+  "channel_post": {
+    "message_id": 581,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507623731,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/inseguimento-guida-senza-patente-lissone-seregno.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 86
+      }
+    ]
+  }
+}

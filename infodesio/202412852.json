@@ -1,0 +1,41 @@
+{
+  "update_id": 202412852,
+  "channel_post": {
+    "message_id": 2149,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507589256,
+    "text": "Comune.di.Desio\n #Desio #viabilita' : info dal canale #telegram di #polizialocale \n🚔🔴 INFO VIABILITÀ: 👮ATTENZIONE👮    da oggi cambia la viabilità in via Dei Cacciatori e in via Palestro; entrambe diventano a  SENSO UNICO DI MARCIA.  La via Dei Cacciatori sarà percorribile da Nord verso Sud ossia da via Per Binzago a Via Risorgimento mentre la Via Palestro sarà percorribile da Sud verso Nord ossia da Via Risorgimento a Via Per Binzago. Prestare attenzione alla nuova segnaletica! (37)\nhttps://www.facebook.com/103441483073684_1560755927342225",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 54,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 67,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 492,
+        "length": 57
+      }
+    ]
+  }
+}

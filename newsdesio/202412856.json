@@ -1,0 +1,21 @@
+{
+  "update_id": 202412856,
+  "channel_post": {
+    "message_id": 578,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507558385,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/brianzoli-mangiano-fungo-velenoso-muore-il-marito-grave-la-moglie/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 96
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "update_id": 202412857,
+  "channel_post": {
+    "message_id": 579,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507558780,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/carate-avvelenamento-da-funghi-morto-il-marito-lei-gravissima/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 84
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202412855,
+  "channel_post": {
+    "message_id": 577,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507549360,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/morto-funghi-velenosi-besana-brianza.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 74
+      }
+    ]
+  }
+}

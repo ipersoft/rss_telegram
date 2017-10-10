@@ -1,0 +1,36 @@
+{
+  "update_id": 202412853,
+  "channel_post": {
+    "message_id": 2150,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507589257,
+    "text": "Comune.di.Desio\n #Desio: sul canale Telegram di #polizialocale tutte le info sulla viabilita' cittadina in tempo reale . Iscriviti qui! https://t.me/Polizia_Locale_Desio\nhttps://www.facebook.com/103441483073684_1560757650675386",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 48,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 136,
+        "length": 33
+      },
+      {
+        "type": "url",
+        "offset": 170,
+        "length": 57
+      }
+    ]
+  }
+}
