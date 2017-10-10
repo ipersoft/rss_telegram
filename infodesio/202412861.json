@@ -1,0 +1,51 @@
+{
+  "update_id": 202412861,
+  "channel_post": {
+    "message_id": 2152,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507644739,
+    "text": "Comune.di.Desio\n #bilanciopartecipativo #senior #Desio: in corso la fase di votazione finale  che si concluderà alla mezzanotte di sabato 15 ottobre! \n\nE tu hai già votato? Puoi farlo ora, registrandoti sulla piattaforma http://iovoto.comune.desio.mb.it/index.php/registrazione \nci vogliono solo il tuo codice fiscale, un indirizzo email e... 2 minuti del tuo tempo ;) \nCon il tuo voto decidi quali tra i 10 progetti arrivati in finale verranno realizzati!\nEcco la lista dei progetti in votazione: \n- S.O.S. Scuola Obiettivo Sicurezza ... attraverso i colori \n- Riqualificazione Piazza Benefattori ECA - via Agnesi \n- Bar \"noi per voi\" - Inserimento di ragazzi con disabilità nel servizio bar - della Bocciofila. \n- SBAC Spazio Itinerante (Senza Barriere, Accessibile, Centrale) \n- Parco A.Mauri : un’area verde per imparare a conoscere e valorizzare il territorio e la sua natura\n- La Casa delle Donne: uno spazio aperto per partecipare, crescere, costruire \n- Parco Birichino - parco inclusivo e luogo di ritrovo \n- Punti di ricarica in Città per veicoli e dispositivi elettrici \n- #iotiaiutoNAVETTA \n- Una \"Bicipolitana\" per Desio\n\nREGISTRATI E VOTA QUI: http://iovoto.comune.desio.mb.it/index.php/registrazione\nhttps://www.facebook.com/103441483073684_1561365447281273",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 22
+      },
+      {
+        "type": "hashtag",
+        "offset": 40,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 48,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 221,
+        "length": 56
+      },
+      {
+        "type": "hashtag",
+        "offset": 1084,
+        "length": 17
+      },
+      {
+        "type": "url",
+        "offset": 1158,
+        "length": 56
+      },
+      {
+        "type": "url",
+        "offset": 1215,
+        "length": 57
+      }
+    ]
+  }
+}
