@@ -1,0 +1,21 @@
+{
+  "update_id": 202412868,
+  "channel_post": {
+    "message_id": 584,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507721456,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/visita-gratuite-ospedali-desio-monza.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 74
+      }
+    ]
+  }
+}
