@@ -1,0 +1,21 @@
+{
+  "update_id": 202412870,
+  "channel_post": {
+    "message_id": 586,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507818889,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/ospedale-di-desio-open-day-per-la-salute-della-donna-controlli-gratuiti-e-incontri/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 113
+      }
+    ]
+  }
+}
