@@ -1,0 +1,21 @@
+{
+  "update_id": 202412871,
+  "channel_post": {
+    "message_id": 2158,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507822636,
+    "text": "INTEGRAZIONE IMPEGNO DI SPESA PER INCARICO LEGALE ATTRIBUITO CON DELIBERA G.C. N.31/2017 - € 29,22 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3560859",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 100,
+        "length": 92
+      }
+    ]
+  }
+}

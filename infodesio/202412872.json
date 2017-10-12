@@ -1,0 +1,26 @@
+{
+  "update_id": 202412872,
+  "channel_post": {
+    "message_id": 2159,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507822637,
+    "text": "SERVIZIO DI MANUTENZIONE DEI PRESIDI ANTINCENDIO E USCITE DI SICUREZZA PRESSO LE SCUOLE ED EDIFICI COMUNALI PER IL BIENNIO 2017-2019. APPROVAZIONE AGGIUDICAZIONE ALLA SO.GE.PR.IN SRL E RIDETERMINAZIONE IMPEGNI DI SPESA. CIG 7164002179 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3560861",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 167,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 236,
+        "length": 92
+      }
+    ]
+  }
+}
