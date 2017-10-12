@@ -1,0 +1,21 @@
+{
+  "update_id": 202412874,
+  "channel_post": {
+    "message_id": 587,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507836559,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/open-golf-monza-new-york-times-platini/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 62
+      }
+    ]
+  }
+}
