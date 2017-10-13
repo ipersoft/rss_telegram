@@ -1,0 +1,21 @@
+{
+  "update_id": 202412879,
+  "channel_post": {
+    "message_id": 2161,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507887134,
+    "text": "Ma-Pa mondo \nIncontri per i genitori,  attività ludica per bambini con letture e animate e laboratori per bambini da 0 a 3 anni in biblioteca. \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45651",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 144,
+        "length": 74
+      }
+    ]
+  }
+}
