@@ -1,0 +1,21 @@
+{
+  "update_id": 202412882,
+  "channel_post": {
+    "message_id": 2164,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507894659,
+    "text": "COSTITUZIONE RISORSE DI PARTE STABILE, INTEGRAZIONE RISORSE DI PARTE VARIABILE FONDO PER LE POLITICHE DI SVILUPPO DELLE RISORSE UMANE E PER LA PRODUTTIVITA’ PERSONALE NON DIRIGENTE – ANNO 2017 – ADEMPIMENTI CONSEGUENTI ALLA DELIBERAZIONE DI G.C.N. 120/2017. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3562922",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 259,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202412880,
+  "channel_post": {
+    "message_id": 2162,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1507894657,
+    "text": "PARTECIPAZIONE DEL COMUNE DI DESIO ALL'\"AVVISO PUBBLICO IN ATTUAZIONE DELLA DGR N. X/5938/2016 PER GLI ENTI FINALIZZATO ALLA MESSA A DISPOSIZIONE DI ALLOGGI DA DARE IN LOCAZIONE A PREZZI CONTENUTI A FAVORE DEI GENITORI SEPARATI/DIVORZIATI CON FIGLI - INTERVENTO A1 SOSTEGNO ABITATIVO\" \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3562918",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 286,
+        "length": 92
+      }
+    ]
+  }
+}
