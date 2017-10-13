@@ -1,0 +1,21 @@
+{
+  "update_id": 202412877,
+  "channel_post": {
+    "message_id": 590,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507882479,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/tribunale-di-desio-chiuso-lega-nord-danno-economico-per-la-citta/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 95
+      }
+    ]
+  }
+}

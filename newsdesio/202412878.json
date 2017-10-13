@@ -1,0 +1,21 @@
+{
+  "update_id": 202412878,
+  "channel_post": {
+    "message_id": 591,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507882480,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/avvelenamento-da-tallio-deceduta-anche-la-donna-di-87/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 84
+      }
+    ]
+  }
+}
