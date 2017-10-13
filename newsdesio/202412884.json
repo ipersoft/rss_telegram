@@ -1,0 +1,21 @@
+{
+  "update_id": 202412884,
+  "channel_post": {
+    "message_id": 592,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1507900809,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/arrestata-rapinatore-taxi.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 63
+      }
+    ]
+  }
+}
