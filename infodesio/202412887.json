@@ -1,0 +1,41 @@
+{
+  "update_id": 202412887,
+  "channel_post": {
+    "message_id": 2166,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508052191,
+    "text": "Comune.di.Desio\n #Desio #BilancioPartecipativo #Senior: in corso la votazione finale. Le operazioni di voto si concluderanno alla mezzanotte di oggi domenica 15 ottobre 2017.\nPuoi esprimere il tuo voto online sulla piattaforma \"iovoto\" (se non ti sei ancora registrato/a sulla piattaforma, puoi farlo entro le ore 17 di oggi).\nEcco il link : http://iovoto.comune.desio.mb.it/index.php\nBUON VOTO! ✔️✔️✔️✔️\nhttps://www.facebook.com/103441483073684_1565848316832986",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 22
+      },
+      {
+        "type": "hashtag",
+        "offset": 47,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 342,
+        "length": 42
+      },
+      {
+        "type": "url",
+        "offset": 405,
+        "length": 57
+      }
+    ]
+  }
+}
