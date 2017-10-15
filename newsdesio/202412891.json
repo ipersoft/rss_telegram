@@ -1,0 +1,21 @@
+{
+  "update_id": 202412891,
+  "channel_post": {
+    "message_id": 597,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508086472,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/prima-categoria-il-tabellino-di-gs-vedano-ac-desio-22451",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 96
+      }
+    ]
+  }
+}

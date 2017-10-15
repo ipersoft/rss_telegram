@@ -1,0 +1,21 @@
+{
+  "update_id": 202412890,
+  "channel_post": {
+    "message_id": 596,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508086471,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/terza-categoria-il-tabellino-di-aurora-desio-1922-brioschese-22450",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 106
+      }
+    ]
+  }
+}
