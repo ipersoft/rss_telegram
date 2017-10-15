@@ -1,0 +1,26 @@
+{
+  "update_id": 202412889,
+  "channel_post": {
+    "message_id": 595,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508071419,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/paderno-rientra-ubriaco-e-picchia-la-moglie-arrestato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 76
+      }
+    ]
+  }
+}
