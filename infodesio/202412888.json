@@ -1,0 +1,21 @@
+{
+  "update_id": 202412888,
+  "channel_post": {
+    "message_id": 2167,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508057612,
+    "text": "Comune.di.Desio\n Oggi un'ottima iniziativa di Live in Desio : postazione di voto operativa davanti alla chiesa Pio X per il concorso RetiPiù - Le Reti del Cuore. \nVotiamo tutti  per far vincere il nostro progetto per il restauro del monumento a Papa Pio XI in Piazza Conciliazione !\nhttps://www.facebook.com/103441483073684_1565896520161499",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 283,
+        "length": 57
+      }
+    ]
+  }
+}
