@@ -1,0 +1,21 @@
+{
+  "update_id": 202412893,
+  "channel_post": {
+    "message_id": 2168,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508148044,
+    "text": "Il Mondo delle Idee 2017 \nLe associazioni culturali di Desio si presentano con musica, teatro, incontri, arte in Villa Tittoni nei giorni 27, 28 e 29 ottobre   \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45680",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 161,
+        "length": 74
+      }
+    ]
+  }
+}
