@@ -1,0 +1,26 @@
+{
+  "update_id": 202412897,
+  "channel_post": {
+    "message_id": 599,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508151213,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-incidenti-auto-ribaltata-moto-a-terra/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 68
+      }
+    ]
+  }
+}

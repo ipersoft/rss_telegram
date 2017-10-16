@@ -1,0 +1,21 @@
+{
+  "update_id": 202412896,
+  "channel_post": {
+    "message_id": 2171,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508150048,
+    "text": "INFORMATIVA DEL SINDACO SU AZIONI AMMINISTRATIVE RIGUARDANTI L'IMMOBILE DENOMINATO \"CENTRO STILE\" \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3565299",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 99,
+        "length": 92
+      }
+    ]
+  }
+}
