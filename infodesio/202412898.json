@@ -1,0 +1,36 @@
+{
+  "update_id": 202412898,
+  "channel_post": {
+    "message_id": 2172,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508158712,
+    "text": "Comune.di.Desio\n #Desio: si è conclusa alla mezzanotte di domenica la fase di voto finale del percorso di #BilancioPartecipativo #Senior.\nEcco i 4 progetti ‘Senior’ che si sono aggiudicati il budget di 30.000,00 € l’uno e verranno ora realizzati dal Comune: \n- Parco Birichino - parco inclusivo e luogo di ritrovo (175 voti)\n- Una \"Bicipolitana\" per Desio  (137 voti)\n- Bar \"noi per voi\" - Inserimento di ragazzi con disabilità nel servizio bar della Bocciofila. (136 voti)\n- La Casa delle Donne - Desio: uno spazio aperto per partecipare, crescere, costruire (127 voti)\n\nQuesti invece i progetti esclusi dai risultati finali di voto:\n - S.O.S. Scuola Obiettivo Sicurezza ... attraverso i colori  ( 81 voti)\n- Parco A. Mauri : un'area verde per imparare a conoscere e valorizzare il territorio e la sua natura (79 voti)\n- iotiaiutoNAVETTA (73 voti)\n- Riqualificazione Piazza Benefattori ECA - via Agnesi (66 voti)\n- Punti di ricarica in Città  per veicoli e dispositivi elettrici  (61 voti)\n- SBAC Spazio Itinerante (Senza Barriere, Accessibile, Centrale) (56 voti)\n \n“Ringraziamo tutti i cittadini e le cittadine che hanno partecipato con le loro idee progettuali e con il loro voto. Tutti progetti presentati per questa edizione del Bilancio Partecipativo ‘Senior’ erano molto interessanti e intercettavano bisogni e opportunità nuove per la Città – ha dichiarato il Sindaco Roberto Corti. – I quattro progetti premiati dal voto danno risposte ad esigenze di tutta la Città. Adesso si parte con l’operatività, l’obiettivo è quello di realizzarli nel più breve tempo possibile.”\n \n“La scelta di una nuova piattaforma, che ha eliminato il meccanismo del ‘voto negativo’, dando la possibilità di esprimere quattro preferenze equivalenti tra loro, ha creato dinamiche positive, consentendo ai cittadini di dare forza, più che di toglierla, a progetti che magari non erano i loro preferiti in assoluto, ma che hanno ritenuto idee di valore per la Città” – ha aggiunto Jennifer Moro, Assessore all’E-government e al Bilancio .\n \n“I laboratori di animazione progettuale sono stati una scelta utile a far emergere opportunità di partecipazione che altrimenti sarebbero forse rimaste nell’ombra. – Ha concluso Cristina Redi, Assessore alla Partecipazione. -  Lavorare insieme ai cittadini per trasformare la loro creatività in concretezza , coinvolgendo i tecnici comunali già nella fase di messa a punto delle proposte, è tra gli obiettivi principali del percorso di Bilancio Partecipativo: aprire la macchina comunale al confronto diretto con i cittadini per il disegno delle opportunità e delle scelte che ne conseguono,  imparando a lavorare insieme per il Bene Comune.\nhttps://www.facebook.com/103441483073684_1567011550049996",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 106,
+        "length": 22
+      },
+      {
+        "type": "hashtag",
+        "offset": 129,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 2667,
+        "length": 57
+      }
+    ]
+  }
+}
