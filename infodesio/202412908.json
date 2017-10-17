@@ -1,0 +1,21 @@
+{
+  "update_id": 202412908,
+  "channel_post": {
+    "message_id": 2179,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508239836,
+    "text": "Campus 2017 Salone dell'Orientamento  \n27 e 28 Ottobre. Un occasione per scoprire l'offerta formativa del tuo territorio. Domande online dal 16 ottobre\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45721",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 152,
+        "length": 74
+      }
+    ]
+  }
+}
