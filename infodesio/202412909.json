@@ -1,0 +1,21 @@
+{
+  "update_id": 202412909,
+  "channel_post": {
+    "message_id": 2180,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508248168,
+    "text": "Comune.di.Desio\n Sabato 28 ottobre un pomeriggio di laboratori, racconti, animazione, tradizione, arte e storia in Via Lampugnani .\n\nPROGRAMMA:\n\nDalle ore 14:30 Colorificio Centrale via Lampugnani 30 \nlaboratori di tecnica shabby e creazione saponi \n\nDalle ore 15 Castagnata e Vin Brulè cura della Contrada Dugana\n\nore 16  Cedri di Largo Baden-Powell\n“La raccontiamo sotto i Cedri”, racconto interattivo per bimbi\n\nDalle ore 15 alle 17 cortile di Villa Tittoni Traversi \nMercatino del Libro Usato con la Biblioteca Civica di Desio\n\nDalle ore 17:30 Santuario del Crocifisso \nVisita guidata con nozioni storiche\n\nDalle ore 14 alle 19 Personale fotografica di Paolo da Desio\n\ndalle ore 14 bancarelle ed hobbisti \n\nDalle ore 17 Spettacolo per grandi e piccini\nhttps://www.facebook.com/103441483073684_533773276962321",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 756,
+        "length": 56
+      }
+    ]
+  }
+}
