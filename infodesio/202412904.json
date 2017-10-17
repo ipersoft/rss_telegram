@@ -1,0 +1,21 @@
+{
+  "update_id": 202412904,
+  "channel_post": {
+    "message_id": 2176,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508224450,
+    "text": "INTEGRAZIONE DELL’IMPEGNO DI SPESA PER LA FORNITURA DEL SERVIZIO SOSTITUTIVO DI MENSA AZIENDALE AL PERSONALE DIPENDENTE. EURO 8.694,40 I.V.A COMPRESA. CODICE CIG 6641031027. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3573117",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 175,
+        "length": 92
+      }
+    ]
+  }
+}

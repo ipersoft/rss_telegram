@@ -1,0 +1,21 @@
+{
+  "update_id": 202412903,
+  "channel_post": {
+    "message_id": 2175,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508224448,
+    "text": "ASSEGNAZIONE ALLOGGIO S.A.P. IN VIA DON MILANI, 4 AL NUCLEO FAMILIARE DEL SIG. M.A. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3573115",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 85,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202412901,
+  "channel_post": {
+    "message_id": 2173,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508224446,
+    "text": "INTERVENTO FORMATIVO AD OGGETTO “LE PROCEDURE DI APPALTO E ORGANIZZAZIONE E GESTIONE DI CUC”, REALIZZATO IN COLLABORAZIONE CON IFEL FONDAZIONE ANCI, NELL’AMBITO DEL SERVIZIO GRATUITO “FORMAZIONE SU MISURA”, RIVOLTO AD AGGREGAZIONI DI COMUNI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3573111",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 242,
+        "length": 92
+      }
+    ]
+  }
+}
