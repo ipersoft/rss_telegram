@@ -1,0 +1,21 @@
+{
+  "update_id": 202412907,
+  "channel_post": {
+    "message_id": 2178,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508234477,
+    "text": "Open Day all'asilo nido di Via Diaz  \nUn'occasione per conoscere l'asilo nido di Via Diaz della tua Città.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45702",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 107,
+        "length": 74
+      }
+    ]
+  }
+}
