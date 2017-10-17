@@ -1,0 +1,21 @@
+{
+  "update_id": 202412906,
+  "channel_post": {
+    "message_id": 2177,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508232638,
+    "text": "Riapre lo Spazio Gioco! \nIscrizioni  da venerdì 20 ottobre presso la scuola per l'Infanzia comunale di Via Novara \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 115,
+        "length": 74
+      }
+    ]
+  }
+}
