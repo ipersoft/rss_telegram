@@ -1,0 +1,21 @@
+{
+  "update_id": 202412926,
+  "channel_post": {
+    "message_id": 2197,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508258566,
+    "text": "Aspettando Halloween \nPomeriggio di festa sabato 28 ottobre dalle ore 14 in via Lampugnani con bancarelle di hobbisti, animazione per bambini e molto altro a cura dei Commercianti di via Lampugnani, la Pro Loco Desio in collaborazione con la contrada Dugana\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45761",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 258,
+        "length": 74
+      }
+    ]
+  }
+}

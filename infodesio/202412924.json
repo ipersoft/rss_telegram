@@ -1,0 +1,26 @@
+{
+  "update_id": 202412924,
+  "channel_post": {
+    "message_id": 2195,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508258564,
+    "text": "Dote Scuola 2017 /2018 componente \"Merito\"  \nDal 16 Ottobre aperti i  termini per la richiesta della Dote Merito per  anno scolastico 2017/2018.\n La presentazione delle domande va effettuata entro il 15 novembre 2017\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45734",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 17,
+        "length": 5
+      },
+      {
+        "type": "url",
+        "offset": 217,
+        "length": 74
+      }
+    ]
+  }
+}

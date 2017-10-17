@@ -1,0 +1,21 @@
+{
+  "update_id": 202412925,
+  "channel_post": {
+    "message_id": 2196,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508258565,
+    "text": "Bilancio Partecipativo Senior: ecco i quattro progetti vincenti! \nSi è conclusa alla mezzanotte di domenica 15 ottobre la fase di voto finale del percorso di Bilancio Partecipativo Senior edizione 2017.\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45758",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 204,
+        "length": 74
+      }
+    ]
+  }
+}
