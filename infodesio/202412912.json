@@ -1,0 +1,41 @@
+{
+  "update_id": 202412912,
+  "channel_post": {
+    "message_id": 2183,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508251405,
+    "text": "Comune.di.Desio\n Con 'Un Arcobaleno di Emozioni\", al via il cartellone degli appuntamenti autunnali con la Biblioteca Civica di Desio per i più piccoli e per i loro genitori, insieme alle #biblioanimatrici e al gruppo #mapamondo #desio #cittachelegge Nati per Leggere Lombardia\nhttps://www.facebook.com/103441483073684_1568008583283626",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 188,
+        "length": 17
+      },
+      {
+        "type": "hashtag",
+        "offset": 218,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 229,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 236,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 278,
+        "length": 57
+      }
+    ]
+  }
+}
