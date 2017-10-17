@@ -1,0 +1,21 @@
+{
+  "update_id": 202412920,
+  "channel_post": {
+    "message_id": 2191,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253340,
+    "text": "CONCESSIONE DI AREA PER L’INSTALLAZIONE DI UNA CABINA FOTOTESSERA AUTOMATICA DIGITALE PER IL PERIODO: 01.01.2018 – 31.12.2019. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575715",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 128,
+        "length": 92
+      }
+    ]
+  }
+}

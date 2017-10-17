@@ -1,0 +1,21 @@
+{
+  "update_id": 202412917,
+  "channel_post": {
+    "message_id": 2188,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253334,
+    "text": "APPROVAZIONE VERBALE RELATIVO ALL’AVVISO DI MOBILITA’ INTERNA PER UN POSTO PRESSO L’AREA GESTIONE RISORSE/SERVIZIO POLITICHE DELLA CASA - CAT. C - PROFILO DI ASSISTENTE AI SERVIZI OPERATIVI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575709",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 191,
+        "length": 92
+      }
+    ]
+  }
+}

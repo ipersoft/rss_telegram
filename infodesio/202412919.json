@@ -1,0 +1,21 @@
+{
+  "update_id": 202412919,
+  "channel_post": {
+    "message_id": 2190,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253337,
+    "text": "IMPEGNO DI SPESA PER IL SERVIZIO DI MANUTENZIONE E ASSISTENZA TECNICA RELATIVO ALL’ELETTROARCHIVIO ROTATIVO IN DOTAZIONE ALL’UFFICIO ELETTORALE PER L’ANNO 2018. EURO 904,02 I.V.A. COMPRESA. CODICE CIG ZCB20384DD. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575713",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 214,
+        "length": 92
+      }
+    ]
+  }
+}

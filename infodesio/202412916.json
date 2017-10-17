@@ -1,0 +1,21 @@
+{
+  "update_id": 202412916,
+  "channel_post": {
+    "message_id": 2187,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253333,
+    "text": "PERCORSO FORMATIVO E PRATICO IN MATERIA DI CONTABILITA’ ECONOMICO/PATRIMONIALE INTEGRATA, PER UN GRUPPO DI LAVORO COMPOSTO DA UN TEAM DI ADDETTI DEL SETTORE FINANZIARIO DI 4 ENTI (DESIO, BRESSO, RHO, CORMANO). IMPEGNO DI SPESA DESIO € 2.300,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575707",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 245,
+        "length": 92
+      }
+    ]
+  }
+}

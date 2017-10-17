@@ -1,0 +1,21 @@
+{
+  "update_id": 202412922,
+  "channel_post": {
+    "message_id": 2193,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253345,
+    "text": "BIBLIOTECA CIVICA - PROMOZIONE DELLA LETTURA - IMPEGNO DI SPESA DI €. 440,00 PER SPETTACOLO PER BAMBINI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575719",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 105,
+        "length": 92
+      }
+    ]
+  }
+}

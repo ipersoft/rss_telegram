@@ -1,0 +1,21 @@
+{
+  "update_id": 202412921,
+  "channel_post": {
+    "message_id": 2192,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253342,
+    "text": "ASSEGNAZIONE ALLOGGIO S.A.P. IN VIA ROSSELLI, 6 AL NUCLEO DELLA SIG.RA P.M. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575717",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 77,
+        "length": 92
+      }
+    ]
+  }
+}

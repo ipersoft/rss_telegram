@@ -1,0 +1,21 @@
+{
+  "update_id": 202412915,
+  "channel_post": {
+    "message_id": 2186,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253332,
+    "text": "APPROVAZIONE VERBALE CONSEGUENTE ALL’ AVVISO DI MOBILITA’ VOLONTARIA – EX ART. 30 D.LGS. N° 165/01 - PER LA COPERTURA A TEMPO INDETERMINATO DI UN POSTO DI ASSISTENTE AI SERVIZI INFORMATICI – CAT. C – DA DESTINARE ALL’AREA DEL SEGRETARIO/SERVIZI DI STAFF SERVIZIO SISTEMI INFORMATIVI - ICT. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575705",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 291,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202412914,
+  "channel_post": {
+    "message_id": 2185,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508253331,
+    "text": "ATTIVAZIONE TIROCINIO PROFESSIONALIZZANTE PER L’AMMISSIONE ALL’ESAME DI STATO DI ABILITAZIONE ALLA PROFESSIONE DI PSICOLOGO DELLA DOTT.SSA GUELI MARTINA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3575703",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 154,
+        "length": 92
+      }
+    ]
+  }
+}
