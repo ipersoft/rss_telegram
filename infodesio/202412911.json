@@ -1,0 +1,36 @@
+{
+  "update_id": 202412911,
+  "channel_post": {
+    "message_id": 2182,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508250087,
+    "text": "Comune.di.Desio\n #DESIORIDE una serata tra comici e artisti a favore della comunità\n‘La Mongolfiera’ di #Desio. \n Venerdì 27 ottobre alle ore 21, al Teatro ‘Il Centro’ di Vial Conciliazione (Desio) andrà in scena uno spettacolo con comici e artisti che arrivano direttamente dal prestigioso palco di Zelig. La serata è organizzata dalla Cooperativa La Grande Casa e Comune di Desio e ha lo scopo di raccogliere fondi e donazioni per la comunità La Mongolfiera di Desio.\n \nGli artisti che parteciperanno sono: Claudio Batta, Andrea Di Marco, Alessandra Ierse, Max Pisu, Pablo Scarpelli, Giorgio Verduci\n \nI fondi raccolti durante la serata verranno destinati all’acquisto di un pulmino per la comunità La Mongolfiera. La comunità LA MONGOLFIERA di Desio è una casa che accoglie fino a dieci bambini di età compresa tra i cinque e i quattordici anni. È una situazione ‘di passaggio’, che permette ai bambini di allontanarsi per un poco da situazioni problematiche vissute in famiglia, in attesa che sia possibile un rientro a casa oppure che vengano accolti in una famiglia affidataria.\n \nIn comunità ci sono degli educatori professionali che si occupano 24 ore su 24 e per 365 l’anno dei bambini, con cui condividono ogni aspetto della giornata. La comunità cerca di far vivere ai bambini accolti esperienze belle e positive, per poter arricchire il proprio bagaglio personale e per poterli mettere in grado di vivere con maggior spensieratezza il periodo difficile che sta passando la loro famiglia.  Il pulmino aiuterà gli educatori nella gestione delle attività quotidiane (andare a scuola, per le attività pomeridiane e per le vacanze).\n \nLa realizzazione dell’evento avviene in collaborazione con C. Matic, In Punta di Piedi, OmniaPiega, Il-Cubo associazione. Media Partner: Radio Emotions\n \nLa Grande Casa scs onlus, cooperativa sociale con sede a Sesto San Giovanni opera da tempo sul territorio di Desio: gestisce la comunità educativa dal settembre 2001; eroga interventi di assistenza domiciliare per minori; gestisce il servizio informagiovani del Comune di Desio (Hubdesio Giovani) dal 2012; partecipa alle attività del servizio Punto Lavoro Desio dal febbraio 2013; progetta, realizza e partecipa a progetti di politiche sociali e giovanili sul territorio in collaborazione con l’Amministrazione Comunale e le istituzioni del territorio.\n \nIngresso con offerta minima 18€.\n Biglietti acquistabili all’ingresso; la prenotazione è consigliata e gradita.\n \nPer info e prenotazioni desioride@lagrandecasa.it\nhttps://www.facebook.com/103441483073684_1567996706618147",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 104,
+        "length": 6
+      },
+      {
+        "type": "email",
+        "offset": 2490,
+        "length": 25
+      },
+      {
+        "type": "url",
+        "offset": 2516,
+        "length": 57
+      }
+    ]
+  }
+}
