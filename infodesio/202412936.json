@@ -1,0 +1,26 @@
+{
+  "update_id": 202412936,
+  "channel_post": {
+    "message_id": 2203,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508339673,
+    "text": "Comune.di.Desio\n Sabato 21 ottobre #openday all’ Asilo nido Desio via Diaz. Appuntamento dalle 10 alle 12 per famiglie e bimbi da 0 a 6 anni con laboratori e giochi.\nhttps://www.facebook.com/103441483073684_1569029056514912",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 35,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 166,
+        "length": 57
+      }
+    ]
+  }
+}
