@@ -1,0 +1,21 @@
+{
+  "update_id": 202412934,
+  "channel_post": {
+    "message_id": 2201,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508328131,
+    "text": "REFERENDUM CONSULTIVO DELLA REGIONE LOMBARDIA DEL 22 OTTOBRE 2017 - AFFIDAMENTO PRESTAZIONI DI SERVIZI INDISPENSABILI ALL'ORGANIZZAZIONE TECNICA DEI VARI ADEMPIMENTI INERENTI ALLE CONSULTAZIONI REFERENDARIE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3578061",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 209,
+        "length": 92
+      }
+    ]
+  }
+}
