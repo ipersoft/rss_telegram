@@ -1,0 +1,21 @@
+{
+  "update_id": 202412928,
+  "channel_post": {
+    "message_id": 2198,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508311841,
+    "text": "Qualità dell'aria \nDa martedì 17 ottobre entrano in vigore anche a Desio le misure di primo livello per il miglioramento della qualità dell'aria, a seguito del superamento dei valori di PM10.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45767",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 192,
+        "length": 74
+      }
+    ]
+  }
+}
