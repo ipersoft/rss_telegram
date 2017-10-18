@@ -1,0 +1,46 @@
+{
+  "update_id": 202412932,
+  "channel_post": {
+    "message_id": 2199,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508326456,
+    "text": "Comune.di.Desio\n #Desio #rifiuti #raccoltadifferenziata: in corso la conferenza stampa con #gelsia ambiente per l’avvio dell’utilizzo in Città del sacco blu con tecnologia #RFID dal prossimo 11 gennaio.\nhttps://www.facebook.com/103441483073684_1568816876536130",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 8
+      },
+      {
+        "type": "hashtag",
+        "offset": 33,
+        "length": 22
+      },
+      {
+        "type": "hashtag",
+        "offset": 91,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 172,
+        "length": 5
+      },
+      {
+        "type": "url",
+        "offset": 203,
+        "length": 57
+      }
+    ]
+  }
+}
