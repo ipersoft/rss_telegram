@@ -1,0 +1,21 @@
+{
+  "update_id": 202412931,
+  "channel_post": {
+    "message_id": 606,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508317481,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/desio-falda-acquifera-sotto-lex-autobianchi-inquinata-il-m5s-chiede-controlli-video/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 114
+      }
+    ]
+  }
+}

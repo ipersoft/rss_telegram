@@ -1,0 +1,26 @@
+{
+  "update_id": 202412930,
+  "channel_post": {
+    "message_id": 605,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508317458,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-signora-esce-di-casa-in-auto-e-investe-motociclista/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 82
+      }
+    ]
+  }
+}
