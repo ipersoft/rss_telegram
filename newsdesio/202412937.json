@@ -1,0 +1,21 @@
+{
+  "update_id": 202412937,
+  "channel_post": {
+    "message_id": 607,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508391071,
+    "text": "Meteo Desio\nTemperatua corrente: 11\nMinima:9 Massima: 21 \nUmidità: 84%\nPartly Cloudy\n http://ifttt.com/images/weather/fog.png\nIFTT",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 86,
+        "length": 39
+      }
+    ]
+  }
+}
