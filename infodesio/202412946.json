@@ -1,0 +1,21 @@
+{
+  "update_id": 202412946,
+  "channel_post": {
+    "message_id": 2210,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508427146,
+    "text": "Incontro pubblico sul nuovo regolamento edilizio  \nMartedì 24 ottobre 2017 alle ore 18, presso la sede comunale di Piazza Giovanni Paolo II - Sala Pertini,  l'Amministrazione Comunale invita i professionisti e gli operatori del settore ad un incontro sul tema \"Nuovo Regolamento Edilizio\". \n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45787",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 292,
+        "length": 74
+      }
+    ]
+  }
+}

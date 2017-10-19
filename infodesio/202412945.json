@@ -1,0 +1,21 @@
+{
+  "update_id": 202412945,
+  "channel_post": {
+    "message_id": 2209,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508427140,
+    "text": "CIMITERO COMUNALE DI VIALE DELLE RIMEMBRANZE – RIFACIMENTO CAMPO DI SEPOLTURA N° 5 – PRESA D’ATTO DEL PROGETTO ESECUTIVO DEI LAVORI RIELABORATO DA G.S.D. S.R.L. IN FUNZIONE DELLE RISULTANZE DELL’ATTIVITA’ DI VALIDAZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3581378",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 221,
+        "length": 92
+      }
+    ]
+  }
+}
