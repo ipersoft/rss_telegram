@@ -1,0 +1,21 @@
+{
+  "update_id": 202412938,
+  "channel_post": {
+    "message_id": 608,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508400574,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/aurora-desio-pronte-le-maglie-squadraantibulli-sabato-28-la-presentazione/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 104
+      }
+    ]
+  }
+}
