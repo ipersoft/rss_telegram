@@ -1,0 +1,21 @@
+{
+  "update_id": 202412939,
+  "channel_post": {
+    "message_id": 609,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508405063,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/desio-e-in-arrivo-il-sacco-blu-per-il-rifiuto-secco-indifferenziato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 98
+      }
+    ]
+  }
+}
