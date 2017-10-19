@@ -1,0 +1,21 @@
+{
+  "update_id": 202412941,
+  "channel_post": {
+    "message_id": 2205,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508425409,
+    "text": "INTEGRAZIONE IMPEGNO DI SPESA PER VARI PAGAMENTI IMPOSTA DI REGISTRO PER I CONTRATTI DI ASSEGNAZIONE DI IMMOBILI AD USO DIVERSO DALL'ABITAZIONE. ANNO 2017 - € 1.000,00 - \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3581246",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 171,
+        "length": 92
+      }
+    ]
+  }
+}
