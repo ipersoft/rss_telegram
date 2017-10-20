@@ -1,0 +1,21 @@
+{
+  "update_id": 202412960,
+  "channel_post": {
+    "message_id": 614,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508506641,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/master-della-brianza-la-37esima-edizione-chiude-con-successo-e-si-pensa-gia-al-futuro/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 116
+      }
+    ]
+  }
+}
