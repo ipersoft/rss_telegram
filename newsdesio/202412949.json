@@ -1,0 +1,21 @@
+{
+  "update_id": 202412949,
+  "channel_post": {
+    "message_id": 612,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508485044,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incidente-stradale/pirata-limbiate-ieri.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 77
+      }
+    ]
+  }
+}
