@@ -1,0 +1,21 @@
+{
+  "update_id": 202412954,
+  "channel_post": {
+    "message_id": 2215,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508490383,
+    "text": "LAVORI INTEGRATIVI ALLE OPERE DI MODIFICA E INTEGRAZIONE DELL’ IMPIANTO ELETTRICO, DI ILLUMINAZIONE, TELEFONICO, E TRASMISSIONE DATI PRESSO LA SEGRETERIA DELLA SCUOLA SECONDARIA “PIROTTA”. AFFIDAMENTO DEI LAVORI ALL’IMPRESA SISAC S.A.S. DI SEREGNO - C.F E P.I. 02085520969 - € 2.147,20 - CIG ZE01F7A33A \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3582534",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 304,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202412956,
+  "channel_post": {
+    "message_id": 2217,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508490388,
+    "text": "IMPEGNO DI SPESA PER IMPOSTA DI REGISTRO SENTENZA CIVILE TRIBUNALE DI MONZA N. 2806/2015 - € 1.117,50 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3582538",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 103,
+        "length": 92
+      }
+    ]
+  }
+}

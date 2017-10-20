@@ -1,0 +1,21 @@
+{
+  "update_id": 202412957,
+  "channel_post": {
+    "message_id": 2218,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508490389,
+    "text": "FORNITURA TRAMITE MEPA ADEGUAMENTO E MIGRAZIONE SISTEMA INFORMATICO ICARO-C IMPEGNO DI SPESA – CODICE CIG-Z8D2049469. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3582540",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 119,
+        "length": 92
+      }
+    ]
+  }
+}

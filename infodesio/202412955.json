@@ -1,0 +1,21 @@
+{
+  "update_id": 202412955,
+  "channel_post": {
+    "message_id": 2216,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508490384,
+    "text": "APPROVAZIONE SCRITTURA PRIVATA CHE DISCIPLINA MODALITÀ DI PAGAMENTO PER IMPOSTA DI REGISTRO SENTENZA CIVILE TRIBUNALE DI MONZA N. 3200/2014 E ASSUNZIONE IMPEGNO DI SPESA - € 1.697,50 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3582536",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 184,
+        "length": 92
+      }
+    ]
+  }
+}

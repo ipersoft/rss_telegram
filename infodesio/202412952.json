@@ -1,0 +1,21 @@
+{
+  "update_id": 202412952,
+  "channel_post": {
+    "message_id": 2213,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508490380,
+    "text": "LAVORI DI MANUTENZIONE ORDINARIA EDIFICI RESIDENZIALI DEL PATRIMONIO COMUNALE IN LOCAZIONE - OPERE EDILI ANNO 2017 (G_01_17). APPROVAZIONE AGGIUDICAZIONE A MALEGORI SERVIZI SRL (C.F. E P.I. N. 08360040961), RIDETERMINAZIONE DEL QUADRO ECONOMICO E ASSUNZIONE DEGLI IMPEGNI DI SPESA. CIG 7142241BB7 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3582530",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 298,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202412953,
+  "channel_post": {
+    "message_id": 2214,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508490381,
+    "text": "EROGAZIONE DELL'INCENTIVO – EX ART. 92 D. LGS. 163/2006 - PER I LAVORI DI MESSA IN SICUREZZA RETE STRADALE COMUNALE NELL’AMBITO DEL 4° E 5° PROGRAMMA DI ATTUAZIONE DEL P.N.S.S. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3582532",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 178,
+        "length": 92
+      }
+    ]
+  }
+}
