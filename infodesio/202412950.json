@@ -1,0 +1,21 @@
+{
+  "update_id": 202412950,
+  "channel_post": {
+    "message_id": 2211,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508488597,
+    "text": "In distribuzione DesioCittà edizione di ottobre 2017 \nl'informatore comunale è in distribuzione. In questa edizione, le immagini delle energie strordinarie liberate dalla Città durante la Festa di Desio  \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45790",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 205,
+        "length": 74
+      }
+    ]
+  }
+}
