@@ -1,0 +1,21 @@
+{
+  "update_id": 202412958,
+  "channel_post": {
+    "message_id": 2219,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508492165,
+    "text": "Sostieni la tua biblioteca \nMercatino del libro usato sabato 28 ottobre 2017 dalle 15,00 alle 17,00 nel cortile della Villa Tittoni  (In caso di maltempo in biblioteca: Sala SoStare)\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45800",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 184,
+        "length": 74
+      }
+    ]
+  }
+}
