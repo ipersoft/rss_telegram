@@ -1,0 +1,46 @@
+{
+  "update_id": 202412963,
+  "channel_post": {
+    "message_id": 2221,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508576295,
+    "text": "Comune.di.Desio\n #Desio Città #cardioprotetta \nInstallati ieri due nuovi defibrillatori al parco di Villa Tittoni - Desio e in piazza Conciliazione. I due #DAE erano stati rubati alcuni mesi fa. \nTornano quindi ad essere 30 i defibrillatori installati nei luoghi sensibili della Città. L’operazione è stata seguita dall’assessore StefanoGuidotti (v. Foto) che, da medico anestesista e di rianimazione, conosce bene il valore dei DAE e ha sottolineato l’importanza di avere a disposizione un defibrillatore automatico durante i primi minuti successivi ad un arresto cardiaco improvviso.\n\nA questo proposito vi ricordiamo che potete cercare su Telegram App il bot @DesioServiziComunali_bot o @defibrillatori_desio_bot , per sapere sempre, dal vostro smartphone, qual è il DAE più vicino al luogo dove vi trovate .\nhttps://www.facebook.com/103441483073684_1571685146249303",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 30,
+        "length": 15
+      },
+      {
+        "type": "hashtag",
+        "offset": 155,
+        "length": 4
+      },
+      {
+        "type": "mention",
+        "offset": 662,
+        "length": 25
+      },
+      {
+        "type": "mention",
+        "offset": 690,
+        "length": 25
+      },
+      {
+        "type": "url",
+        "offset": 812,
+        "length": 57
+      }
+    ]
+  }
+}
