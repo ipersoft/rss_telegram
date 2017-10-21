@@ -1,0 +1,26 @@
+{
+  "update_id": 202412962,
+  "channel_post": {
+    "message_id": 2220,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508572104,
+    "text": "Comune.di.Desio\n Un appuntamento da mettere in agenda: il 25 novembre apre la Casa delle Donne - Desio. “La Casa sarà uno spazio inclusivo e aperto al contributo di tutt* - racconta l’Assessore alle Pari Opportunità Paola Buonvicino - un luogo dove costruire legami, consapevolezze e azioni positive per il contrasto ad ogni esclusione ed isolamento. Vi aspettiamo!”\nSeguite la pagina della Casa per conoscere il progetto e non perdere questo ed altri appuntamenti! #25nov\nhttps://www.facebook.com/103441483073684_1571651196252698",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 466,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 473,
+        "length": 57
+      }
+    ]
+  }
+}
