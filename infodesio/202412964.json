@@ -1,0 +1,36 @@
+{
+  "update_id": 202412964,
+  "channel_post": {
+    "message_id": 2222,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508614412,
+    "text": "Comune.di.Desio\n Domani mattina, dalle 9:00 alle 13:00 davanti la chiesa di San Giovanni Battista a #Desio ci sarà una postazione per votare l' #ArtBonusDesio.\npassate anche voi a votare il progetto per il restauro del monumento a Papa Pio XI, oppure votate al seguente link: https://votazioniretipiu.evoting.it/retipiu/project/progetto-3/\nhttps://www.facebook.com/103441483073684_1572087269542424",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 100,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 144,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 276,
+        "length": 63
+      },
+      {
+        "type": "url",
+        "offset": 340,
+        "length": 57
+      }
+    ]
+  }
+}
