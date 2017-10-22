@@ -1,0 +1,21 @@
+{
+  "update_id": 202412968,
+  "channel_post": {
+    "message_id": 618,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508713256,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/terza-categoria-usd-salbino-sdamiano-aurora-desio-1922-22571",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 100
+      }
+    ]
+  }
+}
