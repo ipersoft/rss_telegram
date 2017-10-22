@@ -1,0 +1,21 @@
+{
+  "update_id": 202412966,
+  "channel_post": {
+    "message_id": 2223,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508661193,
+    "text": "Comune.di.Desio\n Nell’ambito dell’iniziativa “Aspettando halloween” 🎃 , sabato 28 ottobre nel cortile di Villa Tittoni - Desio vi aspetta  il mercatino di libri usati della Biblioteca Civica di Desio.\nhttps://www.facebook.com/103441483073684_1572639842820500",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 202,
+        "length": 57
+      }
+    ]
+  }
+}
