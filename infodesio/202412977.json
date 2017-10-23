@@ -1,0 +1,21 @@
+{
+  "update_id": 202412977,
+  "channel_post": {
+    "message_id": 2231,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508758352,
+    "text": "VARIAZIONE DI COMPETENZA E CASSA AL BILANCIO DI PREVISIONE 2017-2019 - VARIAZIONE DI PEG \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586731",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 90,
+        "length": 92
+      }
+    ]
+  }
+}

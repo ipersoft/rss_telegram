@@ -1,0 +1,21 @@
+{
+  "update_id": 202412976,
+  "channel_post": {
+    "message_id": 2230,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508758351,
+    "text": "ATTO DI CITAZIONE IN OPPOSIZIONE AD INGIUNZIONE DI PAGAMENTO AVANTI IL TRIBUNALE ORDINARIO DI MONZA DA PARTE DELL’ASSOCIAZIONE BASKET SCHOOL BRIANZA CON ISTANZA DI SOSPENSIVA – AUTORIZZAZIONE ALLA COSTITUZIONE IN GIUDIZIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586729",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 223,
+        "length": 92
+      }
+    ]
+  }
+}

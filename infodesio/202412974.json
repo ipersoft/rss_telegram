@@ -1,0 +1,21 @@
+{
+  "update_id": 202412974,
+  "channel_post": {
+    "message_id": 2228,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508758349,
+    "text": "PRESA D’ATTO DELLE LINEE OPERATIVE LOCALI IN ATTUAZIONE DELLA DGR 6674 DEL 7 GIUGNO 2017: “PROGRAMMA OPERATIVO REGIONALE PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE DOPO DI NOI L. 112/2017” APPROVATE DALL’ASSEMBLEA DEI SINDACI DEL 27.09.2017 E APPROVAZIONE DELL’AVVISO PUBBLICO PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE “DOPO DI NOI” \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586725",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 465,
+        "length": 92
+      }
+    ]
+  }
+}

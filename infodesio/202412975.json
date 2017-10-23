@@ -1,0 +1,21 @@
+{
+  "update_id": 202412975,
+  "channel_post": {
+    "message_id": 2229,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508758350,
+    "text": "1^ RILEVAZIONE E VARIAZIONE PIANO ESECUTIVO DI GESTIONE E VARIAZIONE PIANO PERFORMANCE 2017/2019 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586727",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 98,
+        "length": 92
+      }
+    ]
+  }
+}

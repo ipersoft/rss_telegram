@@ -1,0 +1,21 @@
+{
+  "update_id": 202412973,
+  "channel_post": {
+    "message_id": 2227,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508758348,
+    "text": "APPROVAZIONE CONVENZIONE DI AFFITTANZA AGRARIA TRA IL COMUNE DI DESIO E IL SIG. SERGIO PINATO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586723",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 95,
+        "length": 92
+      }
+    ]
+  }
+}

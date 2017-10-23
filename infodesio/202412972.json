@@ -1,0 +1,21 @@
+{
+  "update_id": 202412972,
+  "channel_post": {
+    "message_id": 2226,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508758347,
+    "text": "APPROVAZIONE CONVENZIONE DI AFFITTANZA AGRARIA TRA IL COMUNE DI DESIO E LA SIG.RA BRUNA ZATTIN \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586721",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 96,
+        "length": 92
+      }
+    ]
+  }
+}
