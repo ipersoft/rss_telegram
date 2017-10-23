@@ -1,0 +1,21 @@
+{
+  "update_id": 202412979,
+  "channel_post": {
+    "message_id": 621,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508771230,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incidente-desio-scappa.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 60
+      }
+    ]
+  }
+}

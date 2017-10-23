@@ -1,0 +1,21 @@
+{
+  "update_id": 202412980,
+  "channel_post": {
+    "message_id": 622,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508771231,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/tallio-zuppa.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 50
+      }
+    ]
+  }
+}

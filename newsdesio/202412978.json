@@ -1,0 +1,21 @@
+{
+  "update_id": 202412978,
+  "channel_post": {
+    "message_id": 620,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508771229,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/palazzo-mobile-occupato.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 61
+      }
+    ]
+  }
+}
