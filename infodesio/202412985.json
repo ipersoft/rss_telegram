@@ -1,0 +1,21 @@
+{
+  "update_id": 202412985,
+  "channel_post": {
+    "message_id": 2235,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508857418,
+    "text": "Campagna di Vaccinazione Antinfluenzale 2017-2018 \nL’ATS  Brianza promuove la campagna di vaccinanzione antinfluenzale stagionale  gratuita .\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45829",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 142,
+        "length": 74
+      }
+    ]
+  }
+}
