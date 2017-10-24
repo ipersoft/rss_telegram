@@ -1,0 +1,91 @@
+{
+  "update_id": 202412982,
+  "channel_post": {
+    "message_id": 2232,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508824780,
+    "text": "Comune.di.Desio\n #Pm10 ancora oltre il limite il livello nell' #aria.\nDa oggi 24 #ottobre2017 scatta il livello 2 delle misure #antismog per comuni sopra 30.000 abitanti; in Provincia di Monza e della Brianza : Comune di Monza, Comune di Brugherio, Comune di Cesano Maderno, Comune Di Desio, Comune di Lissone, Comune di Limbiate, Comune di Seregno\n\nBlocco #veicoli privati #diesel fino a #Euro4 e commerciali diesel fino a #Euro3 da Lunedì a Domenica ore 8.30-18.30\n\nSTOP anche per #auto a #benzina fino a #Euro2, motocicli e ciclomotori a due tempi di classe #Euro1 da Lunedì a Venerdì ore 7.30-19.30.\n\nLa #temperatura all’interno delle abitazioni fino a 19°.\n\nTutte le info su ACCORDO ARIA Regione Lombardia http://www.l15.regione.lombardia.it/#/protocollo-aria\n(D5)\nhttps://www.facebook.com/103441483073684_1574544085963409",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 5
+      },
+      {
+        "type": "hashtag",
+        "offset": 63,
+        "length": 5
+      },
+      {
+        "type": "hashtag",
+        "offset": 81,
+        "length": 12
+      },
+      {
+        "type": "hashtag",
+        "offset": 127,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 357,
+        "length": 8
+      },
+      {
+        "type": "hashtag",
+        "offset": 374,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 389,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 424,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 483,
+        "length": 5
+      },
+      {
+        "type": "hashtag",
+        "offset": 491,
+        "length": 8
+      },
+      {
+        "type": "hashtag",
+        "offset": 507,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 561,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 608,
+        "length": 12
+      },
+      {
+        "type": "url",
+        "offset": 711,
+        "length": 53
+      },
+      {
+        "type": "url",
+        "offset": 770,
+        "length": 57
+      }
+    ]
+  }
+}
