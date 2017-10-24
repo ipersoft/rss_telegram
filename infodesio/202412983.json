@@ -1,0 +1,21 @@
+{
+  "update_id": 202412983,
+  "channel_post": {
+    "message_id": 2233,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508855593,
+    "text": "Desio Ride \nUna serata con artisti e comici di fama,  dedicata alla raccolta fondi in favore della comunità educativa per bambini e ragazzi de LA MONGOLFIERA di Desio\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45826",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 167,
+        "length": 74
+      }
+    ]
+  }
+}
