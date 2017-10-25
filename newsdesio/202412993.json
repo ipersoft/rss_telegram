@@ -1,0 +1,26 @@
+{
+  "update_id": 202412993,
+  "channel_post": {
+    "message_id": 629,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508943567,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/limbiate-anziano-cade-e-muore-mentre-vernicia-delle-travi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 80
+      }
+    ]
+  }
+}
