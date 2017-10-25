@@ -1,0 +1,36 @@
+{
+  "update_id": 202412991,
+  "channel_post": {
+    "message_id": 2237,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1508933072,
+    "text": "Comune.di.Desio\n #Gelsia Ambiente informa che le Organizzazioni Sindacali FLAICA UNITI-CUB – SGB SINDACATO GENERALE DI BASE hanno proclamato uno #sciopero per l’intera giornata di venerdì 27 ottobre 2017. \nDurante le ore di sciopero potranno verificarsi disservizi nelle normali attività svolte, tra cui i servizi di raccolta rifiuti sul territorio, la pulizia strade e l’apertura delle Piattaforme Ecologiche. Saranno comunque garantiti i servizi e le prestazioni minime indispensabili previsti per legge e saranno inoltre garantiti i servizi di risposta alle chiamate degli utenti al numero verde\n800.445.964.\nPer eventuali informazioni di carattere generale si può consultare il sito internet www.gelsiambiente.it.\nhttps://www.facebook.com/103441483073684_1575764599174691",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 145,
+        "length": 9
+      },
+      {
+        "type": "url",
+        "offset": 696,
+        "length": 20
+      },
+      {
+        "type": "url",
+        "offset": 718,
+        "length": 57
+      }
+    ]
+  }
+}

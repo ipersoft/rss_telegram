@@ -1,0 +1,21 @@
+{
+  "update_id": 202412992,
+  "channel_post": {
+    "message_id": 628,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1508933429,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/monza-in-fiamme-lex-convento-di-via-cavallotti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 77
+      }
+    ]
+  }
+}
