@@ -1,0 +1,21 @@
+{
+  "update_id": 202412995,
+  "channel_post": {
+    "message_id": 631,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509017648,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/lissone-minore-ferito-alla-schiena-intervengono-i-carabinieri/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 92
+      }
+    ]
+  }
+}
