@@ -1,0 +1,21 @@
+{
+  "update_id": 202412996,
+  "channel_post": {
+    "message_id": 2238,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509019265,
+    "text": "SERVIZI DI CONNETTIVITÀ DEL SISTEMA PUBBLICO DI CONNETTIVITÀ (GARA SPC1) PER GLI ISTITUTI SCOLASTICI. PROROGA DEL CONTRATTO PER SEI MESI A DECORRERE DAL 25.10.2017. EURO 5.985,61 I.V.A. COMPRESA. CODICE CIG Z44205E69B \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3607540",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 219,
+        "length": 92
+      }
+    ]
+  }
+}
