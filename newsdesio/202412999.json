@@ -1,0 +1,21 @@
+{
+  "update_id": 202412999,
+  "channel_post": {
+    "message_id": 634,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509030779,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/villasanta-lombarda-petroli-chiede-due-milioni-di-rimborso-al-comune/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 99
+      }
+    ]
+  }
+}
