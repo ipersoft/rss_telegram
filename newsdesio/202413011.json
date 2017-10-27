@@ -1,0 +1,21 @@
+{
+  "update_id": 202413011,
+  "channel_post": {
+    "message_id": 638,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509115425,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/desio-finto-rapinatore-scherzo.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 68
+      }
+    ]
+  }
+}
