@@ -1,0 +1,31 @@
+{
+  "update_id": 202413008,
+  "channel_post": {
+    "message_id": 2245,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509098631,
+    "text": "Comune.di.Desio\n #Halloween #desio tre appuntamenti da non perdere!\nhttps://www.facebook.com/103441483073684_1577618425655975",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 28,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 57
+      }
+    ]
+  }
+}
