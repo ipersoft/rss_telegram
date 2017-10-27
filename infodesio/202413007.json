@@ -1,0 +1,21 @@
+{
+  "update_id": 202413007,
+  "channel_post": {
+    "message_id": 2244,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509093335,
+    "text": "IMPEGNO DI SPESA PER LA LIQUIDAZIONE DELLE COMPETENZE PER L'ASSISTENZA ALLA STESURA E PER LA SOTTOSCRIZIONE DEI CONTRATTI DI CONVENZIONE DI AFFITTANZA AGRARIA, AI SENSI DELL'ART. 45 L. 203/1982, ALL'ASSOCIAZIONE PROPRIETA' FONDIARIA DELLE PROVINCE DI MILANO E LODI. CIG. ZB82064695 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3609103",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 283,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413006,
+  "channel_post": {
+    "message_id": 2243,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509093335,
+    "text": "LAVORI DI ADEGUAMENTO ANTINCENDIO BIBLIOTECA COMUNALE VIA LAMPUGNANI 66, DESIO. DETERMINA A CONTRARRE ED AFFIDAMENTO INCARICO PROFESSIONALE PER DIREZIONE LAVORI, COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE E REDAZIONE C.R.E. AL R.T.P. COMPOSTO DALL’ARCH. ANDREJ MIKUZ E DAL GEOM SANGALLI FABIO. CIG Z772013A74 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3609101",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 319,
+        "length": 92
+      }
+    ]
+  }
+}

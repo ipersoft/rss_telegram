@@ -1,0 +1,21 @@
+{
+  "update_id": 202413002,
+  "channel_post": {
+    "message_id": 2239,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509093331,
+    "text": "AFFIDAMENTO DI INCARICO PROFESSIONALE IN MATERIA DI ILLUMINAZIONE PUBBLICA PER INTERVENTI DI EFFICIENTAMENTO E RISPARMIO ENERGETICO ALL’INTERNO DEI TERRITORI COMUNALI DELL’AGGREGAZIONE DI CUI IL COMUNE DI DESIO E’ CAPOFILA (PROGETTO ILLUMINA). AGGIUDICAZIONE IN FAVORE DI ARDIZZONE DIEGO MICHELE – P.IVA 02138300161 - C.F. RDZDMC68C25A794F - € 162.821,49 OLTRE CNPAIA E IVA. CIG. 7012183C75 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3609093",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 392,
+        "length": 92
+      }
+    ]
+  }
+}

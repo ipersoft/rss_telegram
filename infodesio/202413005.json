@@ -1,0 +1,21 @@
+{
+  "update_id": 202413005,
+  "channel_post": {
+    "message_id": 2242,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509093334,
+    "text": "AFFIDAMENTO DI INCARICO DI SUPPORTO AL RUP PER L’ANALISI ENERGETICA DEGLI EDIFICI PUBBLICI DEL COMUNE DI DESIO ALLA SOCIETA’ MC2 S.R.L., P.IVA 09584070966 - € 10.000,00 OLTRE IVA– C.I.G. ZB5203AEFA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3609099",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 199,
+        "length": 92
+      }
+    ]
+  }
+}

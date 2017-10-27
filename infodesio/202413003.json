@@ -1,0 +1,26 @@
+{
+  "update_id": 202413003,
+  "channel_post": {
+    "message_id": 2240,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509093332,
+    "text": "FORNITURA DI ASFALTO A FREDDO PER INTERVENTI DI MANUTENZIONE DA SVOLGERE IN ECONOMIA DIRETTA. AFFIDAMENTO DELLA FORNITURA ALLA M.A.GE. MODERN ASPHALT GENERATION S.R.L. P.IVA 11478121004 ED ASSUNZIONE IMPEGNO DI SPESA € 14.964,5= OLTRE I.V.A. - CIG Z69204D43E \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3609095",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 127,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 260,
+        "length": 92
+      }
+    ]
+  }
+}
