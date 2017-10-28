@@ -1,0 +1,26 @@
+{
+  "update_id": 202413015,
+  "channel_post": {
+    "message_id": 2248,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509174818,
+    "text": "Comune.di.Desio\n Il Mondo delle Idee lo trovate anche oggi e domani in Villa Tittoni - Desio. Arte, storia e cultura con  le associazioni del territorio e poi una passeggiata 🚶🏼 nel parco . Vi aspettiamo ⭐️\nIl programma completo a questo link https://www.facebook.com/events/282772345549407??ti=ia\nhttps://www.facebook.com/103441483073684_1578529855564832",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 245,
+        "length": 54
+      },
+      {
+        "type": "url",
+        "offset": 300,
+        "length": 57
+      }
+    ]
+  }
+}
