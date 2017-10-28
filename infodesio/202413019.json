@@ -1,0 +1,36 @@
+{
+  "update_id": 202413019,
+  "channel_post": {
+    "message_id": 2251,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509207787,
+    "text": "Comune.di.Desio\n #desio #cittachelegge: oggi in Biblioteca comunale di Desio al via il programma autunnale delle iniziative con ma-pa mondo e le Biblioanimatrici , esperienze di lettura per i più piccoli e i loro genitori . Ingresso libero con prenotazione, scopri gli altri appuntamenti qui: https://www.comune.desio.mb.it/upload/desio/gestionedocumentale/ma-pamondo2017_784_22882.pdf\nhttps://www.facebook.com/103441483073684_1578832208867930",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 293,
+        "length": 92
+      },
+      {
+        "type": "url",
+        "offset": 386,
+        "length": 57
+      }
+    ]
+  }
+}
