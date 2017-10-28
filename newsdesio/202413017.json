@@ -1,0 +1,21 @@
+{
+  "update_id": 202413017,
+  "channel_post": {
+    "message_id": 641,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509189806,
+    "text": "Monza News\nhttp://www.monza-news.it/breaking/oggi-a-desio-la-presentazione-della-maglia-anti-bulli-22514",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 93
+      }
+    ]
+  }
+}

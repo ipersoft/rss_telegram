@@ -1,0 +1,36 @@
+{
+  "update_id": 202413016,
+  "channel_post": {
+    "message_id": 2249,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509189502,
+    "text": "Comune.di.Desio\n #desio #partecipazione #curaredesio : cittadini attivi insieme all’amministrazione comunale per il recupero delle vicinali cittadine, strade sterrate utilizzate una volta dai contadini per raggiungere i loro campi. Per oggi missione compiuta: liberata la vicinale di Via San Gennaro . 👏👏👏👏\nhttps://www.facebook.com/103441483073684_1578668602217624",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 15
+      },
+      {
+        "type": "hashtag",
+        "offset": 40,
+        "length": 12
+      },
+      {
+        "type": "url",
+        "offset": 311,
+        "length": 57
+      }
+    ]
+  }
+}
