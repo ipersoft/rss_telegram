@@ -1,0 +1,26 @@
+{
+  "update_id": 202413018,
+  "channel_post": {
+    "message_id": 2250,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509190399,
+    "text": "Comune.di.Desio\n E voi avete già votato per il progetto di #desio al concorso RetiPiù - Le Reti del Cuore? Forza!  Si vota online e ci vogliono solo tre minuti 💪💪💪\nhttps://www.facebook.com/103441483073684_1578535978897553",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 59,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 167,
+        "length": 57
+      }
+    ]
+  }
+}
