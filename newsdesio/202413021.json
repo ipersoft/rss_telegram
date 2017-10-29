@@ -1,0 +1,21 @@
+{
+  "update_id": 202413021,
+  "channel_post": {
+    "message_id": 643,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509313756,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/terza-categoria-il-tabellino-di-aurora-desio-1922-paina-calcio-2017-22634",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 113
+      }
+    ]
+  }
+}
