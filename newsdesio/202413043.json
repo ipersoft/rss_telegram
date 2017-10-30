@@ -1,0 +1,21 @@
+{
+  "update_id": 202413043,
+  "channel_post": {
+    "message_id": 647,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509358063,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/desio-intervista-a-spinelli-dellex-palazzo-del-mobile-recintare-no/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 97
+      }
+    ]
+  }
+}

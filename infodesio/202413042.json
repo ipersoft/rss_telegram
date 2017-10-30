@@ -1,0 +1,21 @@
+{
+  "update_id": 202413042,
+  "channel_post": {
+    "message_id": 2269,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509357843,
+    "text": "Halloween 2017 \nDue eventi a Desio in occasione di Halloween: ore 17 biciclettata a cura di Legambiente con partenza da parco giochi di via Galli; ore 21 Happy Halloween con BracciAperTe in piazza Don Giussani\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45877",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 210,
+        "length": 74
+      }
+    ]
+  }
+}
