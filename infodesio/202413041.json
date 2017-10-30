@@ -1,0 +1,21 @@
+{
+  "update_id": 202413041,
+  "channel_post": {
+    "message_id": 2268,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509356065,
+    "text": "Mostra Tra cielo e terra \nAl via la mostra promossa dalla Coop sociale Il Seme in collaborazione con l'associazione Amici Museo Scalvini sabato 4 novembre alle ore 18 in Villa Tittoni\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45872",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 184,
+        "length": 74
+      }
+    ]
+  }
+}

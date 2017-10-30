@@ -1,0 +1,21 @@
+{
+  "update_id": 202413040,
+  "channel_post": {
+    "message_id": 2267,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509356063,
+    "text": "Incontri Fotografici d'Autunno 2017 \nAl via  la 32^ edizione degli Incontri Fotografici d'Autunno - Villa Tittoni 11-26 novembre 2017 promossa dal Circolo Fotografico Desiano\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45859",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 175,
+        "length": 74
+      }
+    ]
+  }
+}
