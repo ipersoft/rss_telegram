@@ -1,0 +1,21 @@
+{
+  "update_id": 202413032,
+  "channel_post": {
+    "message_id": 2261,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354571,
+    "text": "SERVIZIO DI SGOMBERO NEVE E TRATTAMENTI ANTIGHIACCIO CON MEZZI MECCANICI – STAGIONI INVERNALI 2017 / 2018 E 2018/2019 – AGGIUDICAZIONE IN FAVORE DELL'OPERATORE MALACRIDA AMBIENTE VIABILITÀ COSTRUZIONI S.R.L. - P.IVA E C.F. 07377130963 - C.I.G. 72271554F9 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612940",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 256,
+        "length": 92
+      }
+    ]
+  }
+}

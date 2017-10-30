@@ -1,0 +1,21 @@
+{
+  "update_id": 202413038,
+  "channel_post": {
+    "message_id": 645,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509355653,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/varedo-grazie-alla-castagnata-raccolti-1500-euro-per-beneficenza-fotogallery/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 107
+      }
+    ]
+  }
+}

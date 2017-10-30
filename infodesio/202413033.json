@@ -1,0 +1,21 @@
+{
+  "update_id": 202413033,
+  "channel_post": {
+    "message_id": 2262,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354572,
+    "text": "SERVIZIO DI SUPPORTO ALLA PRONTA REPERIBILITÀ TECNICA SUL TERRITORIO E IMMOBILI COMUNALI (1 APRILE 2017 - 31 MARZO 2018) AFFIDATO ALL’IMPRESA ARTEDIL S.R.L. CON SEDE A BOVISIO MASCIAGO (MB), VIA O. FALLACI, 5, C.F. E P.I. 06864490963. INTEGRAZIONE IMPEGNO DI SPESA PER INTERVENTI A CHIAMATA. € 6.000,00 OLTRE IVA – CIG ZC9204D696 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612942",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 331,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413031,
+  "channel_post": {
+    "message_id": 2260,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354569,
+    "text": "AFFIDAMENTO INCARICO PROFESSIONALE PER PROGETTAZIONE ESECUTIVA E COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE RELATIVAMENTE AGLI INTERVENTI DI BONIFICA MCA PRESSO EDIFICI SCOLASTICI VARI (2° LOTTO) E RIFACIMENTO COPERTURA PRESSO SCUOLA DELL’INFANZIA DI VIA NOVARA (€ 10.150,40). CIG Z41202510F \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612938",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 305,
+        "length": 92
+      }
+    ]
+  }
+}

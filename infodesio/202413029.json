@@ -1,0 +1,21 @@
+{
+  "update_id": 202413029,
+  "channel_post": {
+    "message_id": 2258,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354567,
+    "text": "INSTALLAZIONE NUOVO IMPIANTO ANTINTRUSIONE PRESSO PALESTRE E AREA RISTORO DELLA SCUOLA MEDIA PERTINI – DETERMINA A CONTRARRE ED AFFIDAMENTO LAVORI ALLA DITTA MICROSYSTEM RAF DI RANCATI PAOLO E C. SNC. - IMPORTO € 2.300,00. OLTRE IVA - CODICE CIG Z75202D6B1 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612934",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 258,
+        "length": 92
+      }
+    ]
+  }
+}

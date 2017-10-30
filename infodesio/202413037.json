@@ -1,0 +1,21 @@
+{
+  "update_id": 202413037,
+  "channel_post": {
+    "message_id": 2266,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354853,
+    "text": "Giornata dell'Unità Nazionale e delle Forze Armate \nDomenica 5 novembre alle ore 9 celebrazione a Desio  con corteo da Parco della Resistenza con deposizione di una corona d’alloro al cippo dei Caduti per la Libertà\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45850",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 216,
+        "length": 74
+      }
+    ]
+  }
+}

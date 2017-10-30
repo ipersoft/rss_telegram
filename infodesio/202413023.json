@@ -1,0 +1,21 @@
+{
+  "update_id": 202413023,
+  "channel_post": {
+    "message_id": 2252,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354561,
+    "text": "AFFIDO MINORI A FAMIGLIE ANNO 2017 - ASSUNZIONE IMPEGNO DI SPESA DAL 01 OTTOBRE 2017 AL 31 DICEMBRE 2017 - € 13.120,50 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612919",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 120,
+        "length": 92
+      }
+    ]
+  }
+}

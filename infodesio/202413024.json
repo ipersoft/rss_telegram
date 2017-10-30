@@ -1,0 +1,21 @@
+{
+  "update_id": 202413024,
+  "channel_post": {
+    "message_id": 2253,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354562,
+    "text": "ONERI DERIVANTI DALLA FREQUENZA DEI MINORI M.R. E K.H. PRESSO L'ASSOCIAZIONE COMUNITÀ \"IL GABBIANO\" SU MANDATO DELL'AUTORITÀ GIUDIZIARIA - IMPEGNO DI SPESA PERIODO DAL 25 SETTEMBRE 2017 AL 31 DICEMBRE 2017 - € 11.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612923",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 221,
+        "length": 92
+      }
+    ]
+  }
+}

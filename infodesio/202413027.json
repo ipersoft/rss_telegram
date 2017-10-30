@@ -1,0 +1,21 @@
+{
+  "update_id": 202413027,
+  "channel_post": {
+    "message_id": 2256,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354565,
+    "text": "SOSTITUZIONE DEI CONTROSOFFITTI DEGLI AUDITORI PRESSO LA SCUOLA PRIMARIA DI VIA TOLSTOJ E LA SCUOLA MEDIA PERTINI (B/1587). AFFIDAMENTO INCARICO PROFESSIONALE PER PROGETTAZIONE ESECUTIVA E COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE E ASSUNZIONE IMPEGNO DI SPESA (€ 6.436,01) CIG Z64203DEC2 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612930",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 303,
+        "length": 92
+      }
+    ]
+  }
+}

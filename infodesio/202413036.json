@@ -1,0 +1,21 @@
+{
+  "update_id": 202413036,
+  "channel_post": {
+    "message_id": 2265,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354574,
+    "text": "ASSUNZIONE A TEMPO INDETERMINATO DELLA SIG.RA MASTROROCCO DANIELA IN QUALITA’ DI ASSISTENTE SERVIZI OPERATIVI – CAT. C – PRESSO L'AREA AFFARI GENERALI / SERVIZI DEMOGRAFICI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612948",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 174,
+        "length": 92
+      }
+    ]
+  }
+}

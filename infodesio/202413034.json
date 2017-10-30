@@ -1,0 +1,21 @@
+{
+  "update_id": 202413034,
+  "channel_post": {
+    "message_id": 2263,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354573,
+    "text": "ASSEGNAZIONE ALLOGGIO S.A.P. IN VIA SOLARO 5/A AL NUCLEO E.M.F. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612944",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 65,
+        "length": 92
+      }
+    ]
+  }
+}

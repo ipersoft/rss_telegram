@@ -1,0 +1,21 @@
+{
+  "update_id": 202413025,
+  "channel_post": {
+    "message_id": 2254,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509354563,
+    "text": "ASSUNZIONE DI IMPEGNO DI SPESA PER L'INTEGRAZIONE DEL SERVIZIO DI ACCOMPAGNAMENTO DEGLI UTENTI DEI CENTRI DIURNI DISABILI DI DESIO E DI CESANO MADERNO ALL'INTERNO DEL \"PROGETTO MOBILITÀ PER L'INTEGRAZIONE E L'AUTONOMIA DI PERSONE IN SITUAZIONE DI PARTICOLARE DISAGIO E NECESSITÀ: CONVENZIONE CON L'ASSOCIAZIONE DELLA CROCE ROSSA ITALIANA - COMITATO LOCALE DI DESIO E CON L'ASSOCIAZIONE VOLONTARIA AUTO AMICA\" - PERIODO 1/11/2017-31/12/2017 - € 14.724,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3612925",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 455,
+        "length": 92
+      }
+    ]
+  }
+}

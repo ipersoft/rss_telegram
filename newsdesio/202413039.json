@@ -1,0 +1,21 @@
+{
+  "update_id": 202413039,
+  "channel_post": {
+    "message_id": 646,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509355763,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/prima-categoria-il-tabellino-di-real-san-fermo-2010-desio-22648",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 103
+      }
+    ]
+  }
+}
