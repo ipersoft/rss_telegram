@@ -1,0 +1,21 @@
+{
+  "update_id": 202413044,
+  "channel_post": {
+    "message_id": 2270,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509368699,
+    "text": "ORDINE DIRETTO D'ACQUISTO (ODA), MEDIANTE RICORSO AL MEPA, PER L’ESECUZIONE DI INTERVENTI TECNICI NECESSARI AL COMPLETAMENTO DEL PROGETTO “DESIO, STRADE SICURE 2017 – TELECONTROLLO TRANSITI” COFINANZIATO DA REGIONE LOMBARDIA (€ 4.500,01). CIG Z1C2080CA7 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3614607",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 255,
+        "length": 92
+      }
+    ]
+  }
+}
