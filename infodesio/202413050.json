@@ -1,0 +1,46 @@
+{
+  "update_id": 202413050,
+  "channel_post": {
+    "message_id": 2275,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509460940,
+    "text": "Comune.di.Desio\n #Desio: aggiornamento periodico dell'ALBO DELLE PERSONE IDONEE A RICOPRIRE L’INCARICO DI #SCRUTATORE DI SEGGIO ELETTORALE\n(art. 3 della legge 8 Marzo 1989, n. 95, mod. da L. 30.4.1999, n. 120)\nI cittadini in possesso dei requisiti di idoneità ed iscritti nelle liste elettorali del Comune di Desio, sono invitati a presentare, entro il mese di novembre domanda per ottenere l’iscrizione nell'Albo.\nI richiedenti, che dovranno essere in possesso del titolo di studio della scuola dell’obbligo (licenza media) e non essere appartenenti ad una delle categorie elencate rispettivamente nell’art. 38 del T.U. 361/1957 e nell’art. 23 del T.U. 570/1960, nella domanda dovranno indicare le seguenti notizie:\n- luogo e data di nascita;\n- luogo di residenza;\n- titolo di studio;\n- professione, arte o mestiere.\nPer la richiesta, utilizzare il modulo che si trova a questo link: http://www.comune.desio.mb.it/servizi/moduli/moduli_fase02.aspx?ID=1821\nAttenzione: il Modulo può essere inoltrato accompagnato dalla fotocopia della carta d'identità nei seguenti modi: \n- per posta ordinaria all'indirizzo: Piazza Giovanni Paolo II - 20832 Desio (MB)\n- per fax al numero :  0362 392.233\n- via mail all'indirizzo :  anagrafe@comune.desio.mb.it\n- via PEC all'indirizzo :  protocollo.comune.desio@legalmail.it\nhttps://www.facebook.com/103441483073684_1581520728599078",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 106,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 885,
+        "length": 71
+      },
+      {
+        "type": "email",
+        "offset": 1217,
+        "length": 27
+      },
+      {
+        "type": "email",
+        "offset": 1272,
+        "length": 36
+      },
+      {
+        "type": "url",
+        "offset": 1309,
+        "length": 57
+      }
+    ]
+  }
+}
