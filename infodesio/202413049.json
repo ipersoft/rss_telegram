@@ -1,0 +1,21 @@
+{
+  "update_id": 202413049,
+  "channel_post": {
+    "message_id": 2274,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509459473,
+    "text": "Comune.di.Desio\n 11 novembre\nA l e s s i o G i o r d a n a\n\"Il gatto e il doc\"\nSilele Edizioni.\nIl nuovo veterinario di Desio presenta il suo libro di racconti\n\n16 novembre\nD a n i e l e B i a c c h e s s i\nLa fabbrica dei profumi. Seveso, 40 anni fa\ned. Jaca Book\n\n23 novembre\nWa l t e r L a z z a r i n\nVentuno vicende vagamente vergognose.\nTautogrammi\nEd. CasaSirio\n\n30 novembre\nE l i s a b e t t a Ma ù t i\nChe lingua parla il tuo bambino?\nEd. Jaca Book\nPsicologa e autrice di fiabe e filastrocche. Come farci capire, come farli parlare.\n\nC o o r d i n a E m a n u e l e P r o c a c c i \nde La Libreria Di Desio\n\nINGRESSO LIBERO\nSala SoStare della Biblioteca civica, via Cavalieri di V. Veneto 2 - Desio. Per informazioni tel. 0362-392317\nhttps://www.facebook.com/103441483073684_545797849087576",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 743,
+        "length": 56
+      }
+    ]
+  }
+}
