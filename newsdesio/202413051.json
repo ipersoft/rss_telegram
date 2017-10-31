@@ -1,0 +1,21 @@
+{
+  "update_id": 202413051,
+  "channel_post": {
+    "message_id": 649,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509466445,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/10/universita-milano-bicocca-e-polo-ospedaliero-asst-monza-ce-la-convenzione/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 104
+      }
+    ]
+  }
+}
