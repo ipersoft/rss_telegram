@@ -1,0 +1,21 @@
+{
+  "update_id": 202413046,
+  "channel_post": {
+    "message_id": 2271,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509442495,
+    "text": "Aggiornamento periodico albo scrutatori      \nAggiornamento periodico Albo delle persone idonee a ricoprire l'incarico di scrutatore \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45885",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 134,
+        "length": 74
+      }
+    ]
+  }
+}

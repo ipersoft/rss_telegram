@@ -1,0 +1,26 @@
+{
+  "update_id": 202413047,
+  "channel_post": {
+    "message_id": 2272,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509442669,
+    "text": "Comune.di.Desio\n #artbonusdesio al via le ultime due settimane di voto. Pronti per il rush finale! Da oggi si può votare anche in Biblioteca Civica di Desio e all'ufficio Anagrafe. Aiutaci a far vincere il progetto di Desio!\nhttps://www.facebook.com/103441483073684_1581412098609941",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 225,
+        "length": 57
+      }
+    ]
+  }
+}
