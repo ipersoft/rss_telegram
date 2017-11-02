@@ -1,0 +1,26 @@
+{
+  "update_id": 202413062,
+  "channel_post": {
+    "message_id": 2279,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509624191,
+    "text": "Comune.di.Desio\n in collaborazione con : Associazione Nazionale Combattenti Reduci e Simpatizzanti (Sezione di Desio) e Corpo musicale pio xi citta di desio\n\nPROGRAMMA:\n\nOre 9.00 Ritrovo delle Autorità, delle Associazioni d’Arma, Combattentistiche, Cittadinanza presso il Monumento dei Caduti per la Libertà - Parco della Resistenza. \nDeposizione corona d’alloro al cippo dei Caduti per la Libertà.\n\nOre 9.15 Formazione corteo e sfilata lungo via F.lli Cervi, corso Italia, via Diaz, viale Rimembranze.\n\nOre 9.30 Deposizione corona d’alloro al Sacrario dei Caduti\nCelebrazione Santa Messa \n\nOre 10.15 Partenza del pullman per le frazioni San Carlo, San Giuseppe, San Giorgio, San Vincenzo (Via Villoresi); C.na Bolagnos, Comando Carabinieri (Via Caduti di Nassiriya), dove verrà reso omaggio ai Caduti.\n\n[In caso di pioggia la manifestazione avrà luogo in Sala Pertini\ningresso da Piazza Don Giussani]\n\nLa cittadinanza è invitata a partecipare e ad esporre il Tricolore\nhttps://www.facebook.com/103441483073684_1360955940693554",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 706,
+        "length": 4
+      },
+      {
+        "type": "url",
+        "offset": 970,
+        "length": 57
+      }
+    ]
+  }
+}
