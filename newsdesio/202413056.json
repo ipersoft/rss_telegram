@@ -1,0 +1,21 @@
+{
+  "update_id": 202413056,
+  "channel_post": {
+    "message_id": 654,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509612192,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/controlli-autobus-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 61
+      }
+    ]
+  }
+}
