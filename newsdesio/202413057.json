@@ -1,0 +1,21 @@
+{
+  "update_id": 202413057,
+  "channel_post": {
+    "message_id": 655,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509615787,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/maxi-servizio-di-controllo-dei-carabinieri-sui-bus-43-senza-biglietto/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 100
+      }
+    ]
+  }
+}
