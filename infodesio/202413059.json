@@ -1,0 +1,26 @@
+{
+  "update_id": 202413059,
+  "channel_post": {
+    "message_id": 2276,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509622474,
+    "text": "Bando di selezione pubblica per assunzione personale presso Consorzio Desio Brianza  \nAssunzione a tempo determinato e a tempo parziale (18 ore sett.li) di n. 1 Specialista dei Servizi Giuridici \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45896",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 144,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 196,
+        "length": 74
+      }
+    ]
+  }
+}

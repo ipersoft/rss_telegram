@@ -1,0 +1,31 @@
+{
+  "update_id": 202413061,
+  "channel_post": {
+    "message_id": 2278,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509623862,
+    "text": "Comune.di.Desio\n Avviso di ricerca di proposte iniziative culturali sportive e di aggregazione\nIl Comune di #Desio invita a presentare idee e proposte di azioni, iniziative ed eventi culturali, sportivi e di aggregazione, da raccogliere in un programma condiviso, da svolgersi sul territorio della Città nell’anno 2018.\nScadenza presentazione proposte: ore 12.30 dell'11 dicembre 2017 \nTUTTE LE INFO SUL NOSTRO SITO A QUESTO LINK http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45898\nhttps://www.facebook.com/103441483073684_1583472895070528",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 108,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 430,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 505,
+        "length": 57
+      }
+    ]
+  }
+}
