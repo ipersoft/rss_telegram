@@ -1,0 +1,21 @@
+{
+  "update_id": 202413066,
+  "channel_post": {
+    "message_id": 2282,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509641778,
+    "text": "FORNITURA DEL SERVIZIO SOSTITUTIVO DI MENSA AZIENDALE AL PERSONALE DIPENDENTE MEDIANTE BUONI PASTO. ADESIONE A CONVENZIONE CONSIP S.P.A. E ASSUNZIONE DI IMPEGNO DI SPESA. EURO 19.585,28 I.V.A. COMPRESA PER UN PERIODO DI QUATTRO MESI DALLA DATA DI STIPULA. CODICE CIG ZE6208101D \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3620385",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 279,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413070,
+  "channel_post": {
+    "message_id": 2286,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509641784,
+    "text": "SERVIZIO DI IGIENE URBANA. GARA A DOPPIO OGGETTO PER LA SCELTA DEL SOCIO PRIVATO DI GELSIA AMBIENTE S.R.L. ESPLETAMENTO NUOVA PROCEDURA DI GARA AD EVIDENZA PUBBLICA PER IL TRAMITE DELLA CENTRALE UNICA DI COMMITTENZA DELLA PROVINCIA DI MONZA E DELLA BRIANZA, PROROGA DELL’ATTUALE CONTRATTO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3620674",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 290,
+        "length": 92
+      }
+    ]
+  }
+}
