@@ -1,0 +1,26 @@
+{
+  "update_id": 202413071,
+  "channel_post": {
+    "message_id": 658,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509648745,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/limbiate-pusher-sorpreso-in-hotel-con-tre-donne/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 70
+      }
+    ]
+  }
+}
