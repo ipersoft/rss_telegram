@@ -1,0 +1,21 @@
+{
+  "update_id": 202413097,
+  "channel_post": {
+    "message_id": 665,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509734305,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/truffa-lissone-gioielli.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 61
+      }
+    ]
+  }
+}
