@@ -1,0 +1,26 @@
+{
+  "update_id": 202413091,
+  "channel_post": {
+    "message_id": 2301,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509713828,
+    "text": "Comune.di.Desio\n #Desio: tutti gli eventi del fine settimana e oltre.\nhttps://www.facebook.com/103441483073684_1584441421640342",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 70,
+        "length": 57
+      }
+    ]
+  }
+}

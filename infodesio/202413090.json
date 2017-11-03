@@ -1,0 +1,21 @@
+{
+  "update_id": 202413090,
+  "channel_post": {
+    "message_id": 2300,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509712329,
+    "text": "LAVORI DI MIGLIORAMENTO DEL RENDIMENTO ENERGETICO DELL’EDIFICIO COMUNALE D’EDILIZIA RESIDENZIALE PUBBLICA DI VIA BOVISIO 9 - APPROVAZIONE PROGETTO ESECUTIVO C.U.P . G44B15000140006.LAVORI DI MIGLIORAMENTO DEL RENDIMENTO ENERGETICO DELL’EDIFICIO COMUNALE D’EDILIZIA RESIDENZIALE PUBBLICA DI VIA BOVISIO 9 - APPROVAZIONE PROGETTO ESECUTIVO C.U.P . G44B15000140006. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3622694",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 364,
+        "length": 92
+      }
+    ]
+  }
+}

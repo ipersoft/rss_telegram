@@ -1,0 +1,21 @@
+{
+  "update_id": 202413089,
+  "channel_post": {
+    "message_id": 2299,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509712328,
+    "text": "MISURE DI REGIONE LOMBARDIA \"REDDITO DI AUTONOMIA ANZIANI E DISABILI\" DI CUI AI D.D.G. N. 12405 E D.D.G. N. 12408 DEL 28.11.2016 – CHIUSURA PROGETTI ENTI EROGATORI DELL'AMBITO TERRITORIALE DI DESIO – INTEGRAZIONE ACCERTAMENTI ED IMPEGNO DI SPESA (€ 25.920,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3622691",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 261,
+        "length": 92
+      }
+    ]
+  }
+}
