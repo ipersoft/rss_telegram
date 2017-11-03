@@ -1,0 +1,21 @@
+{
+  "update_id": 202413093,
+  "channel_post": {
+    "message_id": 2303,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509714100,
+    "text": "LAVORI DI SCAVO E RIPRISTINO PER ALLACCIAMENTI ELETTRICI POSTAZIONI DI VIDEO SORVEGLIANZA NELLA CITTA’ DI DESIO. AFFIDAMENTO ALLA DITTA I.R.A.S DI ANTONIO RECALCATI S.A.S. IMPORTO € 13.875,00 OLTRE I.V.A. – CIG ZB62081BB0 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3623030",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 223,
+        "length": 92
+      }
+    ]
+  }
+}

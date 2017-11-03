@@ -1,0 +1,21 @@
+{
+  "update_id": 202413092,
+  "channel_post": {
+    "message_id": 2302,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509714098,
+    "text": "RESTITUZIONE DI SOMME VERSATE PER OBLAZIONE SANZIONI AMMINISTRATIVE AL CODICE DELLA STRADA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3623028",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 93,
+        "length": 92
+      }
+    ]
+  }
+}

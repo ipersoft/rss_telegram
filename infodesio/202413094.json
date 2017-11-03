@@ -1,0 +1,21 @@
+{
+  "update_id": 202413094,
+  "channel_post": {
+    "message_id": 2304,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509714558,
+    "text": "Manuale di lettura espressiva \nPresentazione del libro del prof. Francesco Schipani a cura del Gruppo Teatro Sonia Bonacina venerdì 10 novembre ore 17 presso la Sala Pertini\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45926",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 174,
+        "length": 74
+      }
+    ]
+  }
+}

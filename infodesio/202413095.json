@@ -1,0 +1,46 @@
+{
+  "update_id": 202413095,
+  "channel_post": {
+    "message_id": 2305,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509715036,
+    "text": "Comune.di.Desio\n #Desio #info #cantieri dal canale Telegram App di #polizialocale. Sottoscrivi anche tu il canale informativo per aggiornamenti in tempo reale https://t.me/Polizia_Locale_Desio\nhttps://www.facebook.com/103441483073684_1584460038305147",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 5
+      },
+      {
+        "type": "hashtag",
+        "offset": 30,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 67,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 33
+      },
+      {
+        "type": "url",
+        "offset": 193,
+        "length": 57
+      }
+    ]
+  }
+}
