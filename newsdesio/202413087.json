@@ -1,0 +1,21 @@
+{
+  "update_id": 202413087,
+  "channel_post": {
+    "message_id": 663,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509709464,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/polizia-locale-caso-di-omonimia-assunto-e-subito-licenziato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}
