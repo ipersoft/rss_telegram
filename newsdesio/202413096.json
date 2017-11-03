@@ -1,0 +1,21 @@
+{
+  "update_id": 202413096,
+  "channel_post": {
+    "message_id": 664,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509718991,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/seregno-sessantanni-senza-ettore-pozzoli-messa-cantata-per-ricordare-il-maestro/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 110
+      }
+    ]
+  }
+}
