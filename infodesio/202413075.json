@@ -1,0 +1,21 @@
+{
+  "update_id": 202413075,
+  "channel_post": {
+    "message_id": 2288,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509703630,
+    "text": "PROROGA DEL CONTRATTO PER IL SERVIZIO DI PULIZIA DEL PALAZZO COMUNALE E DI STABILI DIVERSI PER IL PERIODO: 01.12.2017 – 30.09.2018. EURO 124.701,56 I.V.A. COMPRESA. CODICE CIG 72579287A7. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3621651",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 189,
+        "length": 92
+      }
+    ]
+  }
+}

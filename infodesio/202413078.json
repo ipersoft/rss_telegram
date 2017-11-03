@@ -1,0 +1,21 @@
+{
+  "update_id": 202413078,
+  "channel_post": {
+    "message_id": 2291,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509703632,
+    "text": "DETERMINA CORREZIONE IN BANCA DATI ANAGRAFICA DENOMINAZIONE VIE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3621657",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 65,
+        "length": 92
+      }
+    ]
+  }
+}

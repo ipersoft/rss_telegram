@@ -1,0 +1,21 @@
+{
+  "update_id": 202413077,
+  "channel_post": {
+    "message_id": 2290,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509703631,
+    "text": "APPROVAZIONE SCHEMA DI CONVENZIONE FRA IL COMUNE DI DESIO E LA SOCIETA' SORIT SPA PER LA CONSULTAZIONE IN VIA TELEMATICA DELLA BANCA DATI ANAGRAFICA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3621655",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 150,
+        "length": 92
+      }
+    ]
+  }
+}

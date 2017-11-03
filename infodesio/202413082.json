@@ -1,0 +1,21 @@
+{
+  "update_id": 202413082,
+  "channel_post": {
+    "message_id": 2295,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509703639,
+    "text": "APPROVAZIONE AGGIUDICAZIONE IN VIA DEFINITIVA ALLA SOCIETA’ 3JUICE SRL CON SEDE A TORINO, IN PIAZZA STATUTO 10/1/A - DEL SERVIZIO NECESSARIO ALLA REALIZZAZIONE DELLE FASI DI VOTAZIONE ON LINE DEL BILANCIO PARTECIPATIVO DELLA CITTA’ DI DESIO PER LA DURATA DI TRE ANNI : 2017/2018/2019 - (ID N. 84817787 – CIG Z631E20EE9) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3621665",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 321,
+        "length": 92
+      }
+    ]
+  }
+}

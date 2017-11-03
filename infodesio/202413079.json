@@ -1,0 +1,21 @@
+{
+  "update_id": 202413079,
+  "channel_post": {
+    "message_id": 2292,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509703636,
+    "text": "TIROCINIO FORMATIVO E DI ORIENTAMENTO SOCIETA' COOPERATIVA SOCIALE IN-PRESA PRESSO LA SCUOLA DELL'INFANZIA COMUNALE DI VIA NOVARA - APPROVAZIONE DELLA CONVENZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3621659",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 164,
+        "length": 92
+      }
+    ]
+  }
+}

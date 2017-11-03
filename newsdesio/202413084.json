@@ -1,0 +1,21 @@
+{
+  "update_id": 202413084,
+  "channel_post": {
+    "message_id": 661,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509704010,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/errore-agente-polizia-locale-licenziato.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 77
+      }
+    ]
+  }
+}

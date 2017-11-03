@@ -1,0 +1,21 @@
+{
+  "update_id": 202413085,
+  "channel_post": {
+    "message_id": 662,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1509704013,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/lissone-arresto-ladro-auto.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 64
+      }
+    ]
+  }
+}
