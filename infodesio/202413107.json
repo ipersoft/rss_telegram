@@ -1,0 +1,21 @@
+{
+  "update_id": 202413107,
+  "channel_post": {
+    "message_id": 2310,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509971571,
+    "text": "“ASPETTANDO HALLOWEEN” PRESSO VIA LAMPUGNANI ANNO 2017: PRESA D’ATTO DEL PROGRAMMA DI SABATO 28 OTTOBRE 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3626320",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 110,
+        "length": 92
+      }
+    ]
+  }
+}

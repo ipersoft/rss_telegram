@@ -1,0 +1,21 @@
+{
+  "update_id": 202413106,
+  "channel_post": {
+    "message_id": 2309,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509971568,
+    "text": "INTEGRAZIONE DEL SERVIZIO DI ACCOMPAGNAMENTO DEGLI UTENTI DEI CENTRI DIURNI DISABILI DI DESIO E DI CESANO MADERNO ALL’INTERNO DEL “PROGETTO MOBILITA’ PER L’INTEGRAZIONE E L’AUTONOMIA DI PERSONE IN SITUAZIONE DI PARTICOLARE DISAGIO E NECESSITA’: CONVENZIONE CON L’ASSOCIAZIONE DELLA CROCE ROSSA ITALIANA – COMITATO LOCALE DI DESIO E CON L’ASSOCIAZIONE VOLONTARIA AUTO AMICA” - PERIODO 01/11/2017–31/07/2020 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3626318",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 407,
+        "length": 92
+      }
+    ]
+  }
+}

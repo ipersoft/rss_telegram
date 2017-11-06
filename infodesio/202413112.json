@@ -1,0 +1,21 @@
+{
+  "update_id": 202413112,
+  "channel_post": {
+    "message_id": 2315,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509971578,
+    "text": "RICORSO IN APPELLO AL CONSIGLIO DI STATO PRESENTATO DA ALER DI VARESE-COMO-MONZA BRIANZA-BUSTO ARSIZIO A SEGUITO DELLA SENTENZA TAR LOMB. N. 997/2017- COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3626330",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 194,
+        "length": 92
+      }
+    ]
+  }
+}

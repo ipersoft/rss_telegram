@@ -1,0 +1,21 @@
+{
+  "update_id": 202413109,
+  "channel_post": {
+    "message_id": 2312,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509971575,
+    "text": "SNAM RETE GAS SPA. POTENZIAMENTO TRATTO RUBBIANO-COMO DN500 20\". APPROVAZIONE COSTITUZIONE DI SERVITU' DI METANODOTTO SU AREE DI PROPRIETÀ COMUNALE AFFERENTI AL PATRIMONIO INDISPONIBILE. INTEGRAZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3626324",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 201,
+        "length": 92
+      }
+    ]
+  }
+}

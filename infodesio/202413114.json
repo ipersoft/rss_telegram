@@ -1,0 +1,21 @@
+{
+  "update_id": 202413114,
+  "channel_post": {
+    "message_id": 2317,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509971714,
+    "text": "Le attività in programma a Novembre al Centro Ricreativo 'Il Girasole' \nUn programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' di Via San Pietro.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45927",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 161,
+        "length": 74
+      }
+    ]
+  }
+}
