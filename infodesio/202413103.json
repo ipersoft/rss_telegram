@@ -1,0 +1,21 @@
+{
+  "update_id": 202413103,
+  "channel_post": {
+    "message_id": 2306,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509969769,
+    "text": "PARROCCHIA DI S. GIORGIO MARTIRE – RICHIESTA DEL PATROCINIO COMUNALE PER “FESTA ENOGASTRONOMICA D’AUTUNNO” IN PROGRAMMA PRESSO LA PARROCCHIA E ORATORIO DI S. GIORGIO DAL 21 OTTOBRE 2017 AL 22 OTTOBRE 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3626233",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 206,
+        "length": 92
+      }
+    ]
+  }
+}

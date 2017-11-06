@@ -1,0 +1,21 @@
+{
+  "update_id": 202413104,
+  "channel_post": {
+    "message_id": 2307,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1509969770,
+    "text": "CIRCOLO FOTOGRAFICO DESIANO – RICHIESTA DEL PATROCINIO COMUNALE PER “INCONTRI FOTOGRAFICI D’AUTUNNO 2017” IN PROGRAMMA PRESSO LE SALE DI VILLA TITTONI DALL'11 NOVEMBRE 2017 AL 26 NOVEMBRE 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3626235",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 194,
+        "length": 92
+      }
+    ]
+  }
+}
