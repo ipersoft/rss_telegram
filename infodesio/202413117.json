@@ -1,0 +1,21 @@
+{
+  "update_id": 202413117,
+  "channel_post": {
+    "message_id": 2318,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510042234,
+    "text": "InSiemeIncoroInDesio 2017 \nRassegna corale con i cori di Desio presso la Chiesa di S. Giovanni Battista sabato 18 novembre alle ore 21.\nIngresso libero\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45938",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 152,
+        "length": 74
+      }
+    ]
+  }
+}
