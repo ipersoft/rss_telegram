@@ -1,0 +1,21 @@
+{
+  "update_id": 202413124,
+  "channel_post": {
+    "message_id": 2324,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510070829,
+    "text": "AFFIDAMENTO INCARICO PROFESSIONALE FINALIZZATO ALLA STESURA DI UN AGGIORNATO PIANO DI EMERGENZA COMUNALE E ASSUNZIONE DI IMPEGNO DI SPESA PER € 8.000,00 - CIG Z76206185C \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629683",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 171,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413123,
+  "channel_post": {
+    "message_id": 2323,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510070828,
+    "text": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE PARZIALE DELL’ITER DELLE SANZIONI AMMINISTRATIVE RELATIVE AGLI ATTI POSTALIZZATI. ULTERIORE IMPEGNO. CIG Z352073BB0. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629681",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 155,
+        "length": 92
+      }
+    ]
+  }
+}

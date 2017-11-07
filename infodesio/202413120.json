@@ -1,0 +1,21 @@
+{
+  "update_id": 202413120,
+  "channel_post": {
+    "message_id": 2320,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510070826,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE VEICOLARE IN VIA CASSINO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629634",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 89,
+        "length": 92
+      }
+    ]
+  }
+}

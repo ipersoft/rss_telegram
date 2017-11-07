@@ -1,0 +1,21 @@
+{
+  "update_id": 202413121,
+  "channel_post": {
+    "message_id": 2321,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510070826,
+    "text": "LAVORI DI BONIFICA DELLA COPERTURA IN ETERNIT C/O EDIFICIO DI EDILIZIA RESIDENZIALE PUBBLICA DI VIA K. MARX N° 8 (G_04_16). AGGIUDICAZIONE IN FAVORE DELL'OPERATORE ADDA SERVIZI S.R.L.– P.IVA E C.F. 10076360154 CUP G44B15000120004 - CIG 7127271A15 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629636",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 248,
+        "length": 92
+      }
+    ]
+  }
+}

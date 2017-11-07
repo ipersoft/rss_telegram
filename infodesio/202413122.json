@@ -1,0 +1,21 @@
+{
+  "update_id": 202413122,
+  "channel_post": {
+    "message_id": 2322,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510070827,
+    "text": "AGGIUDICAZIONE DEFINITIVA PROCEDURA NEGOZIATA DI GARA PER AFFIDAMENTO SERVIZIO PRE E POST SCUOLE INFANZIA E PRIMARIE - A.S. 2017-18 (CIG Z041F2B2EF) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629679",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 150,
+        "length": 92
+      }
+    ]
+  }
+}
