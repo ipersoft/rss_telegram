@@ -1,0 +1,21 @@
+{
+  "update_id": 202413127,
+  "channel_post": {
+    "message_id": 2327,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510074150,
+    "text": "ORDINANZA TEMPORANEA DISCIPLINA DELLA CIRCOLAZIONE IN VIA VERCELLI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629808",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 92
+      }
+    ]
+  }
+}

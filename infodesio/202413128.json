@@ -1,0 +1,21 @@
+{
+  "update_id": 202413128,
+  "channel_post": {
+    "message_id": 2328,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510074151,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE IN VIA TRINCEA DELLE FRASCHE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629810",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 155,
+        "length": 92
+      }
+    ]
+  }
+}

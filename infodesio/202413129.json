@@ -1,0 +1,21 @@
+{
+  "update_id": 202413129,
+  "channel_post": {
+    "message_id": 2329,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510074152,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE IN VIA MAZZINI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629812",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 141,
+        "length": 92
+      }
+    ]
+  }
+}
