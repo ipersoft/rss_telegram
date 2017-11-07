@@ -1,0 +1,21 @@
+{
+  "update_id": 202413118,
+  "channel_post": {
+    "message_id": 2319,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510045819,
+    "text": "La via del tamarindo \nSpettacolo teatrale per grandi e piccini (dai 6 anni in su) presso l'auditorium della Scuola Pertini in via Milano 345 domenica 19 dicembre ore 16 a cura di ARDEN Luogo del possibile.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45954",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 206,
+        "length": 74
+      }
+    ]
+  }
+}

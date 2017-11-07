@@ -1,0 +1,21 @@
+{
+  "update_id": 202413119,
+  "channel_post": {
+    "message_id": 673,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510046165,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/le-reti-del-cuore-concorso-rete-piu-come-votare/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 78
+      }
+    ]
+  }
+}
