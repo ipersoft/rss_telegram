@@ -1,0 +1,26 @@
+{
+  "update_id": 202413149,
+  "channel_post": {
+    "message_id": 679,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510153695,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-malviventi-armati-sequestrano-tre-impiegate-e-rapinano-i-clienti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 95
+      }
+    ]
+  }
+}
