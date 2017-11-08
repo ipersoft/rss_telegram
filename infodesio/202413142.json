@@ -1,0 +1,21 @@
+{
+  "update_id": 202413142,
+  "channel_post": {
+    "message_id": 2337,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510144267,
+    "text": "PRESA D'ATTO DEI VERBALI DEL CORPO DI POLIZIA LOCALE DI DESIO RELATIVI ALL'ACCERTMANETO DELLE VIOLAZIONI DEL VIGENTE REGOLAMENTO COMUNALE PER LA GESTIONI DEI RIFIUTI URBANI ED ASSIMILATI DA PARTE DEGLI INQUILINI DEGLI STABILI COMUNALI DI VIA MARX, 8 - VIA ROSSELLI, 4 - VIA SOLARO 5/B \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3631736",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 286,
+        "length": 92
+      }
+    ]
+  }
+}

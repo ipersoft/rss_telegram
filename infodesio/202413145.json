@@ -1,0 +1,21 @@
+{
+  "update_id": 202413145,
+  "channel_post": {
+    "message_id": 2340,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510144276,
+    "text": "INCARICO PROFESSIONALE PER LA PREDISPOSIZIONE DI ATTI NECESSARI ALL’ACCATASTAMENTO DI VARI FABBRICATI DI PROPRIETA’ COMUNALE AFFIDAMENTO DEL SERVIZIO AL GEOM. PALMISANO WALTER CON STUDIO IN SEREGNO (MB) – VIA QUARTO DEI MILLE N. 5 – P.IVA 07031100964 – C.F. PLMWTR68A20D286N – ASSUNZIONE IMPEGNO DI SPESA € 3.172,00.= COMPRESO IVA 22% E CONTRIBUTO CASSA GEOMETRI 4% - CIG Z772049E2B \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3631742",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 384,
+        "length": 92
+      }
+    ]
+  }
+}

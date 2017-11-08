@@ -1,0 +1,21 @@
+{
+  "update_id": 202413139,
+  "channel_post": {
+    "message_id": 2334,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510144264,
+    "text": "LAVORI DI INSTALLAZIONE FONTANELLA PRESSO IL PARCO PUBBLICO DI VIA RISORGIMENTO. AFFIDAMENTO LAVORI ALLA DITTA TORO COSTRUZIONI SRL CON SEDE IN VIA CAMPESTRE SNC 20014 NERVIANO (MI). IMPORTO LAVORI € 3.164,80= OLTRE IVA - CIG Z332087AC8 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3631730",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 238,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413144,
+  "channel_post": {
+    "message_id": 2339,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510144275,
+    "text": "SERVIZIO DI IGIENE URBANA, RACCOLTA E TRASPORTO RIFIUTI E SPAZZAMENTO STRADE DEL COMUNE DI DESIO, AFFIDATO A GELSIA AMBIENTE S.R.L. – PROROGA TECNICA A TUTTO IL 30.04.2018 E ASSUNZIONE IMPEGNO DI SPESA. € 937.479,78 – C.I.G. 7267480238 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3631740",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 237,
+        "length": 92
+      }
+    ]
+  }
+}

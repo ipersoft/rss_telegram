@@ -1,0 +1,21 @@
+{
+  "update_id": 202413140,
+  "channel_post": {
+    "message_id": 2335,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510144265,
+    "text": "RIPRISTINO PAVIMENTO IN LEGNO PALABANCODESIO – AFFIDAMENTO LAVORI A FLOOR SERVICE SRL DI S. LORENZO DI CORTONA E ASSUNZIONE IMPEGNO DI SPESA – CODICE CIG: ZE12097D76 - € 990,00 OLTRE I.V.A. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3631732",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 191,
+        "length": 92
+      }
+    ]
+  }
+}
