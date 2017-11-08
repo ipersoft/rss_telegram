@@ -1,0 +1,26 @@
+{
+  "update_id": 202413134,
+  "channel_post": {
+    "message_id": 677,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510136610,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/bovisio-ponte-sulla-milano-meda-chiuso-per-6-giorni/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 74
+      }
+    ]
+  }
+}
