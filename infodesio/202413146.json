@@ -1,0 +1,21 @@
+{
+  "update_id": 202413146,
+  "channel_post": {
+    "message_id": 2341,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510147833,
+    "text": "Comune.di.Desio\n Parte l'11 novembre la nuova rassegna \"Libri su misura\" in Biblioteca Civica di Desio. Appuntamento alle 21 con Andrea Giordana autore di \"Il Gatto e il Doc\".\nhttps://www.facebook.com/103441483073684_1589273017823849",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 176,
+        "length": 57
+      }
+    ]
+  }
+}

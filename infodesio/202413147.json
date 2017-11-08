@@ -1,0 +1,26 @@
+{
+  "update_id": 202413147,
+  "channel_post": {
+    "message_id": 2342,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510147834,
+    "text": "Comune.di.Desio\n #HarryPotter20: il 18 novembre un evento magico in Biblioteca Civica di Desio in occasione del ventesimo anniversario della prima pubblicazione  di \"Harry Potter e la Pietra Filosofale\" di J.K. Rowling.\nhttps://www.facebook.com/103441483073684_1589276291156855",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 220,
+        "length": 57
+      }
+    ]
+  }
+}

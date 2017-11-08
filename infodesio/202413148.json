@@ -1,0 +1,26 @@
+{
+  "update_id": 202413148,
+  "channel_post": {
+    "message_id": 2343,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510148711,
+    "text": "Comune.di.Desio\n Nell'ambito di #culturando, rassegna artistica e culturale mensile,  l'Assessorato alla Cultura presenta uno spettacolo teatrale per grandi e piccini (dai 6 anni in su) presso l'auditorium della Scuola Pertini in via Milano 345, a cura di ARDEN Luogo del possibile APS.\n\n\"... una storia comune a quella di tanti piccoli profughi, in fuga dal paese natale nella speranza di trovare condizioni di vita migliori ...\"\nhttps://www.facebook.com/103441483073684_186793761883674",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 32,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 431,
+        "length": 56
+      }
+    ]
+  }
+}
