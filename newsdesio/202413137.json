@@ -1,0 +1,21 @@
+{
+  "update_id": 202413137,
+  "channel_post": {
+    "message_id": 678,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510142460,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/seregno-rapina-azienda-ristorazione-sequestro/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 76
+      }
+    ]
+  }
+}

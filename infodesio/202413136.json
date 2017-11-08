@@ -1,0 +1,31 @@
+{
+  "update_id": 202413136,
+  "channel_post": {
+    "message_id": 2332,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510142458,
+    "text": "Sfida a colpi di bacchetta con Harry Potter \nEvento magico in #biblioteca #Desio in occasione del ventesimo anniversario del libro di J.K.Rowling sabato 18 novembre dalle ore 16 \n\n\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46000",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 62,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 74,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 182,
+        "length": 74
+      }
+    ]
+  }
+}
