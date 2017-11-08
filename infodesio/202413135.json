@@ -1,0 +1,21 @@
+{
+  "update_id": 202413135,
+  "channel_post": {
+    "message_id": 2331,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510139407,
+    "text": "Laboratori per ragazzi delle Scuole Secondarie 1° \nIscrizioni entro Mercoledì 22 novembre 2017 \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45975",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 96,
+        "length": 74
+      }
+    ]
+  }
+}
