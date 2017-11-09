@@ -1,0 +1,21 @@
+{
+  "update_id": 202413157,
+  "channel_post": {
+    "message_id": 2347,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510227441,
+    "text": "Libri su Misura \nDopo la pausa estiva, in biblioteca riprende LIBRI SU MISURA, una serie d’incontri con gli autori. Sabato 11 novembre ore 17 \"Il Gatto e il doc\" di Alessio Giordana\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46037",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 182,
+        "length": 74
+      }
+    ]
+  }
+}

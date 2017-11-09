@@ -1,0 +1,21 @@
+{
+  "update_id": 202413158,
+  "channel_post": {
+    "message_id": 2348,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510227442,
+    "text": "L'Incanto del Natale \n7^ Rassegna dei Cori USCI di Monza e Brianza domenica 19 novembre 2017 ore 16 presso la Basilica dei Santi Siro e Materno\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46040",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 144,
+        "length": 74
+      }
+    ]
+  }
+}
