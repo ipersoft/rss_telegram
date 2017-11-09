@@ -1,0 +1,21 @@
+{
+  "update_id": 202413154,
+  "channel_post": {
+    "message_id": 682,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510223112,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/la-classifica-delle-scuole-in-brianza-ecco-quali-sono-le-migliori/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 96
+      }
+    ]
+  }
+}

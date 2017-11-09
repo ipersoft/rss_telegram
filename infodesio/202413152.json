@@ -1,0 +1,21 @@
+{
+  "update_id": 202413152,
+  "channel_post": {
+    "message_id": 2344,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510221889,
+    "text": "\"LiberaMente\" e “StudiAmici\" \nlaboratori per ragazzi \ndelle scuole secondarie 1°\na.s. 2017/2018\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46006",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 97,
+        "length": 74
+      }
+    ]
+  }
+}

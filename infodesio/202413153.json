@@ -1,0 +1,36 @@
+{
+  "update_id": 202413153,
+  "channel_post": {
+    "message_id": 2345,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510222517,
+    "text": "Comune.di.Desio\n Sul nostro sito tutti i dettagli degli appuntamenti con l'arte la cultura, lo svago e la lettura in programma a #Desio nei prossimi giorni  https://www.comune.desio.mb.it/servizi/notizie/notizie_homepage.aspx Gruppo Teatro Sonia Bonacina Biblioteca Civica di Desio La Libreria Di Desio ARDEN Luogo del possibile APS Circolo Fotografico Desiano Centro Ricreativo il Girasole #culturando\nhttps://www.facebook.com/103441483073684_1590117501072734",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 129,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 157,
+        "length": 68
+      },
+      {
+        "type": "hashtag",
+        "offset": 391,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 403,
+        "length": 57
+      }
+    ]
+  }
+}
