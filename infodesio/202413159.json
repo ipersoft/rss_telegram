@@ -1,0 +1,21 @@
+{
+  "update_id": 202413159,
+  "channel_post": {
+    "message_id": 2349,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510246900,
+    "text": "LAVORI DI REALIZZAZIONE IMPIANTO DI MOTORIZZAZIONE AD ORARI PROGRAMMATI DEL CANCELLETTO DI ACCESSO ALL’AREA CANI DI VIA CARAVAGGIO – AFFIDAMENTO LAVORI ALLA ELECTRONIC SYSTEM DI LENTATE S/S E ASSUNZIONE IMPEGNO DI SPESA – CODICE CIG: Z992082D5D - € 3.294,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3636030",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 259,
+        "length": 92
+      }
+    ]
+  }
+}

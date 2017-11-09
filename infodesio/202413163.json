@@ -1,0 +1,21 @@
+{
+  "update_id": 202413163,
+  "channel_post": {
+    "message_id": 2353,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510246903,
+    "text": "IMPEGNO DI SPESA PER MANUTENZIONE, RIPARAZIONE E SOSTITUZIONE ATTREZZATURE DELLE MENSE DEGLI ISTITUTI COMPRENSIVI STATALI E DELLE SCUOLE DELL’INFANZIA COMUNALI PER L’ANNO 2018. EURO 3.200,00 I.V.A. COMPRESA. CODICE CIG ZA720AA699. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3636038",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 232,
+        "length": 92
+      }
+    ]
+  }
+}

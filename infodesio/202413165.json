@@ -1,0 +1,21 @@
+{
+  "update_id": 202413165,
+  "channel_post": {
+    "message_id": 2355,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510246908,
+    "text": "BIBLIOTECA CIVICA - PRESA D'ATTO DEL CAMBIO DI GESTIONE DELL'EDICOLA FORNITRICE DEI QUOITIDIANI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3636042",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 97,
+        "length": 92
+      }
+    ]
+  }
+}

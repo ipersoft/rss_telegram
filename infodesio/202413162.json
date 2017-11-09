@@ -1,0 +1,21 @@
+{
+  "update_id": 202413162,
+  "channel_post": {
+    "message_id": 2352,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510246903,
+    "text": "IMPEGNO DI SPESA PER LA FORNITURA DI PICCOLE ATTREZZATURE DA GIARDINAGGIO PER I VOLONTARI DEL VERDE MEDIANTE RICORSO AL MEPA. EURO 2.196,93 I.V.A. COMPRESA. CODICE CIG Z2920698A3. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3636036",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 181,
+        "length": 92
+      }
+    ]
+  }
+}
