@@ -1,0 +1,21 @@
+{
+  "update_id": 202413155,
+  "channel_post": {
+    "message_id": 2346,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510225349,
+    "text": "FestivalACT 2017: raccontarsi per incontrare mondi possibili \nUna giornata ricca di workshop e molto altro dedicata alla narrazione e alla comunicazione domenica 26 novembre presso ARDEN Spazio33 in via Borghetto 33  \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46019",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 218,
+        "length": 74
+      }
+    ]
+  }
+}

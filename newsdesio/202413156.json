@@ -1,0 +1,21 @@
+{
+  "update_id": 202413156,
+  "channel_post": {
+    "message_id": 683,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510226052,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/scuole-migliori-monza-brianza/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 53
+      }
+    ]
+  }
+}
