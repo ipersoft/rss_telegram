@@ -1,0 +1,36 @@
+{
+  "update_id": 202413177,
+  "channel_post": {
+    "message_id": 2363,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510336574,
+    "text": "Comune.di.Desio\n #Desio: un luogo per ricordare padre Andrea, inaugurazione 18 novembre 2017 ore 10 in via Romagna con il Comitato di quartiere San Vincenzo - Spaccone, Desio\n\n#quartieri #memoria\nhttps://www.facebook.com/103441483073684_1591370584280759",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 176,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 187,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 196,
+        "length": 57
+      }
+    ]
+  }
+}
