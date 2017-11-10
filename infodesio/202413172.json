@@ -1,0 +1,21 @@
+{
+  "update_id": 202413172,
+  "channel_post": {
+    "message_id": 2358,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510308129,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA ACHILLE GRANDI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3637196",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 95,
+        "length": 92
+      }
+    ]
+  }
+}

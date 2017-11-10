@@ -1,0 +1,21 @@
+{
+  "update_id": 202413175,
+  "channel_post": {
+    "message_id": 2361,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510308133,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA BOVISIO E VIA MILANO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3637205",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 101,
+        "length": 92
+      }
+    ]
+  }
+}
