@@ -1,0 +1,21 @@
+{
+  "update_id": 202413168,
+  "channel_post": {
+    "message_id": 686,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510302858,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/forde-fiscale-fatture-false-per-12-milioni-indagato-imprenditore-di-desio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 104
+      }
+    ]
+  }
+}
