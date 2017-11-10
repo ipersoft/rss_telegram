@@ -1,0 +1,21 @@
+{
+  "update_id": 202413176,
+  "channel_post": {
+    "message_id": 2362,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510315352,
+    "text": "SGOMBERO NEVE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3638057",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 92
+      }
+    ]
+  }
+}
