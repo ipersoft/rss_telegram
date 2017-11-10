@@ -1,0 +1,21 @@
+{
+  "update_id": 202413169,
+  "channel_post": {
+    "message_id": 687,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510305068,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/frode-fiscale-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 57
+      }
+    ]
+  }
+}
