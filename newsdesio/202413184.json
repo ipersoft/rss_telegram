@@ -1,0 +1,21 @@
+{
+  "update_id": 202413184,
+  "channel_post": {
+    "message_id": 692,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510562778,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/rapina-banca-briosco.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 58
+      }
+    ]
+  }
+}

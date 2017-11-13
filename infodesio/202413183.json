@@ -1,0 +1,21 @@
+{
+  "update_id": 202413183,
+  "channel_post": {
+    "message_id": 2365,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510562352,
+    "text": "Libri su Misura \nUn altro appuntamento n Biblioteca a Desio con  LIBRI SU MISURA: giovedì 16 novembre ore 21 \"Ventuno vicende vagamente vergognose\" di Walter Lazzarin. .\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46045",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 171,
+        "length": 74
+      }
+    ]
+  }
+}
