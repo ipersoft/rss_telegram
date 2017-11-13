@@ -1,0 +1,66 @@
+{
+  "update_id": 202413192,
+  "channel_post": {
+    "message_id": 2373,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510578093,
+    "text": "Comune.di.Desio\n Operazione #pontisicuri Provincia di Monza e della Brianza: iniziati stamattina i #lavori di #manutenzione al ponte di Bovisio Masciago su #SP35 che dureranno, condizioni meteo permettendo, fino al 18 #novembre2017. Svincoli su #MilanoMeda aperti al #traffico, mentre sul ponte:\n- SENSO UNICO lungo #SP173 DIREZIONE Desio.\n- Percorso alternativo lungo via Europa, via Bertacciola, via Comasinella DIREZIONE #Bovisio Masciago e Milano (v. foto)\nhttps://www.facebook.com/103441483073684_1594321720652312",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 28,
+        "length": 12
+      },
+      {
+        "type": "hashtag",
+        "offset": 99,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 110,
+        "length": 13
+      },
+      {
+        "type": "hashtag",
+        "offset": 156,
+        "length": 5
+      },
+      {
+        "type": "hashtag",
+        "offset": 218,
+        "length": 13
+      },
+      {
+        "type": "hashtag",
+        "offset": 245,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 267,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 316,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 424,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 461,
+        "length": 57
+      }
+    ]
+  }
+}
