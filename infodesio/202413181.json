@@ -1,0 +1,31 @@
+{
+  "update_id": 202413181,
+  "channel_post": {
+    "message_id": 2364,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510561577,
+    "text": "Comune.di.Desio\n #artbonusdesio RetiPiù - Le Reti del Cuore \nC'è tempo fino a mercoledì 15 per votare sul sito di RetiPiù e permettere al nostro Comune di aggiudicarsi il contributo di 100.000€ per restaurare la statua di Papa Pio XI in Piazza Conciliazione.\nE' facilissimo e ci vogliono meno di due minuti: basta inserire il proprio nome, cognome e codice fiscale, digitare il proprio numero di telefono e il codice di sicurezza immediatamente inviato allo stesso numero di telefono.\nPuoi votare online cliccando qui: https://votazioniretipiu.evoting.it/retipiu/project/progetto-3/\nPuoi chiedere assistenza e votare presso:\nUfficio Relazioni con il Pubblico - atrio di ingresso principale del Comune (lunedì, martedì e mercoledì dalle 8:30 alle 12:30);\nServizio Anagrafe - Corso Italia angolo via Gramsci (lunedì, martedì e mercoledì dalle 8:30 alle 12:30, martedì anche dalle 15:30 alle 17:30);\nBiblioteca Civica - via Cavalieri di Vittorio Veneto (lunedì dalle 14:00 alle 18:30, martedì e mercoledì dalle 9 alle 12:30 e dalle 14 alle 18:30);\nCasa Natale di Papa Pio XI - via Pio XI (martedì dalle 14:30 alle 17:30).\nUltimi giorni di voto, aiuta il centro di Desio a tornare a splendere!\nhttps://www.facebook.com/103441483073684_1594130637338087",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 519,
+        "length": 63
+      },
+      {
+        "type": "url",
+        "offset": 1190,
+        "length": 57
+      }
+    ]
+  }
+}
