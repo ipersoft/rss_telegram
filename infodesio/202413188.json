@@ -1,0 +1,21 @@
+{
+  "update_id": 202413188,
+  "channel_post": {
+    "message_id": 2369,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510576250,
+    "text": "INTERVENTI STRAORDINARI PER ADEGUAMENTO ANTINCENDIO DELLE SCUOLE PRIMARIA DI VIA TOLSTOJ, SECONDARIA “PERTINI” E DELL’INFANZIA DI VIA NOVARA (B/1583). PAGAMENTO CONTRIBUTO AL COMANDO PROVINCIALE DEI VIGILI DEL FUOCO. ASSUNZIONE IMPEGNO DI SPESA (€ 1.000,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640895",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 259,
+        "length": 92
+      }
+    ]
+  }
+}

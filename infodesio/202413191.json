@@ -1,0 +1,21 @@
+{
+  "update_id": 202413191,
+  "channel_post": {
+    "message_id": 2372,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510576254,
+    "text": "LAVORI DI FORNITURA E MESSA A DIMORA DI BULBOSE E FIORI DI CAMPO PRESSO ALCUNE AREE A VERDE PUBBLICO. AFFIDAMENTO LAVORI ALLA DEMETRA SOCIETÀ COOPERATIVA SOCIALE ONLUS CON SEDE IN VIA VISCONTEA 75, 20842 BESANA IN BRIANZA (MB). IMPORTO LAVORI € 4.888,80= OLTRE IVA - CIG Z63203C018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640904",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 283,
+        "length": 92
+      }
+    ]
+  }
+}

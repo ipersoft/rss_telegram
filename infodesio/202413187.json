@@ -1,0 +1,26 @@
+{
+  "update_id": 202413187,
+  "channel_post": {
+    "message_id": 2368,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510576249,
+    "text": "SERVIZIO DI SCAVO, CARICO, TRASPORTO E SMALTIMENTO RIFIUTI ABBANDONATI LUNGO VIA LEONCAVALLO, ANGOLO  MAESTRI DEL LAVORO A DESIO (MB) – APPROVAZIONE AGGIUDICAZIONE ALLA RTI GI.MA.CO S.R.L. E S.E. SERVIZI ECOLOGICI S.R.L. E RIDETERMINAZIONE IMPEGNI DI SPESA. CIG 7103771945 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640893",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 173,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 274,
+        "length": 92
+      }
+    ]
+  }
+}

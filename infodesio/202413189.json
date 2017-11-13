@@ -1,0 +1,21 @@
+{
+  "update_id": 202413189,
+  "channel_post": {
+    "message_id": 2370,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510576251,
+    "text": "AFFIDAMENTO INCARICO PROFESSIONALE PER PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA DEGLI “INTERVENTI DI ATTUAZIONE DEL P.G.T.U. E PER LA RIQUALIFICAZIONE URBANA DEL CENTRO DEL COMUNE DI DESIO” AL R.T.P. S.G.B ARCHITETTI / STUDIO META / OPENFABRIC - € 28.995,26 OLTRE CNPAIA E I.V.A. - CIG Z8220615B6 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640898",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 303,
+        "length": 92
+      }
+    ]
+  }
+}

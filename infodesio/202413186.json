@@ -1,0 +1,21 @@
+{
+  "update_id": 202413186,
+  "channel_post": {
+    "message_id": 2367,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510576248,
+    "text": "REFERENDUM CONSULTIVO DELLA REGIONE LOMBARDIA - LIQUIDAZIONE COMPENSI PER LAVORO STRAORDINARIO EFFETTUATO DAL PERSONALE DIPENDENTE - PERIODO DAL 28 AGOSTO AL 27 OTTOBRE 2017 ( € 21.226,30 COMPENSI ED € 7.004,68 ONERI RIFLESSI) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640891",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 228,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413185,
+  "channel_post": {
+    "message_id": 2366,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510576247,
+    "text": "INDIZIONE DI ASTA PUBBLICA PER ALIENAZIONE DI MOTOCICLO HONDA TRANSALP TARGATA BF87860 DI PROPRIETA' COMUNALE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640887",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 112,
+        "length": 92
+      }
+    ]
+  }
+}
