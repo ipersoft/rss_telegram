@@ -1,0 +1,31 @@
+{
+  "update_id": 202413193,
+  "channel_post": {
+    "message_id": 2374,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510583489,
+    "text": "Comune.di.Desio\n #gruppidicammino Provincia di Monza e della Brianza unisciti a quello di #Desio!L’appuntamento è ogni mercoledì alle ore 15, si parte da via San Pietro 14 (sede del Centro Ricreativo Il Girasole)\nhttps://www.facebook.com/103441483073684_1594389847312166",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 16
+      },
+      {
+        "type": "hashtag",
+        "offset": 90,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 213,
+        "length": 57
+      }
+    ]
+  }
+}
