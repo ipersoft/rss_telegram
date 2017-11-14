@@ -1,0 +1,26 @@
+{
+  "update_id": 202413198,
+  "channel_post": {
+    "message_id": 2377,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510659966,
+    "text": "Comune.di.Desio\n L'Amministrazione Comunale di Desio e #BrianzaSiCura \norganizzano \n\nINCONTRO PUBBLICO \n\"Le mafie nella gestione d'impresa e nell'economia\"\n\nVenerdì 1° dicembre alle 21:00\nDesio (MB), sala civica Pertini, Piazza Don Giussani. \n \nINTERVENGONO:\n- Roberto Corti, sindaco della Città di Desio\n- Sen. Lucrezia Ricchiuti, membro della Commissione Parlamentare Antimafia\n- Prof. Nicola Pecchiari dell’Università Bocconi\n- Dott. Antonio Calabrò, vicepresidente di Assolombarda\n\nMODERA:\n- Dott. Roberto Galullo, inviato de Il Sole 24 Ore\nhttps://www.facebook.com/103441483073684_128149841234405",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 55,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 545,
+        "length": 56
+      }
+    ]
+  }
+}
