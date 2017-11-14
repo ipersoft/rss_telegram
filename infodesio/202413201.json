@@ -1,0 +1,21 @@
+{
+  "update_id": 202413201,
+  "channel_post": {
+    "message_id": 2380,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510668498,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA NAZARIO SAURO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643654",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 94,
+        "length": 92
+      }
+    ]
+  }
+}

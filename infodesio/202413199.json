@@ -1,0 +1,21 @@
+{
+  "update_id": 202413199,
+  "channel_post": {
+    "message_id": 2378,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510668496,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA XXV APRILE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643650",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 91,
+        "length": 92
+      }
+    ]
+  }
+}
