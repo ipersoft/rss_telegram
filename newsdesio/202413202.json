@@ -1,0 +1,21 @@
+{
+  "update_id": 202413202,
+  "channel_post": {
+    "message_id": 695,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510675151,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/porta-il-cane-nel-parco-della-groane-trova-quasi-1-kg-di-droga/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 93
+      }
+    ]
+  }
+}
