@@ -1,0 +1,21 @@
+{
+  "update_id": 202413195,
+  "channel_post": {
+    "message_id": 2375,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510657452,
+    "text": "Avviso d'Asta pubblica alienazione di mezzo di proprietà comunale \nAvviso d'Asta pubblica alienazione di mezzo di proprietà comunale\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46063",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 134,
+        "length": 74
+      }
+    ]
+  }
+}
