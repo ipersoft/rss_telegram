@@ -1,0 +1,21 @@
+{
+  "update_id": 202413207,
+  "channel_post": {
+    "message_id": 700,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510761565,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/scherma-desio-bella-prestazione-di-leandro-levorin-a-ravenna/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 91
+      }
+    ]
+  }
+}
