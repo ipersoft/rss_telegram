@@ -1,0 +1,26 @@
+{
+  "update_id": 202413209,
+  "channel_post": {
+    "message_id": 2382,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510769489,
+    "text": "Comune.di.Desio\n Punto Lavoro #desio: il 23 novembre, all’Hub Desio Giovani, un  incontro dedicato ai giovani che voglio e prepararsi all’ingresso nel mondo del lavoro\nhttps://www.facebook.com/103441483073684_1596432060441278",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 30,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 168,
+        "length": 57
+      }
+    ]
+  }
+}
