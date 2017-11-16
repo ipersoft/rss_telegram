@@ -1,0 +1,21 @@
+{
+  "update_id": 202413217,
+  "channel_post": {
+    "message_id": 706,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510841289,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/matteo-renzi-a-lissone-treno-in-ritardo-ma-poi-arriva/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 84
+      }
+    ]
+  }
+}
