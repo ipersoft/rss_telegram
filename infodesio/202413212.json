@@ -1,0 +1,26 @@
+{
+  "update_id": 202413212,
+  "channel_post": {
+    "message_id": 2383,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510814478,
+    "text": "Comune.di.Desio\n #Desio: III edizione della rassegna corale “InSieme, InCoro, InDesio”, sabato 18 novembre alle ore 21 presso la chiesa di San Giovanni Battista, in via G. Di Vittorio 45.\nhttps://www.facebook.com/103441483073684_1597035557047595",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 188,
+        "length": 57
+      }
+    ]
+  }
+}
