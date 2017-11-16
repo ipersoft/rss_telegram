@@ -1,0 +1,21 @@
+{
+  "update_id": 202413210,
+  "channel_post": {
+    "message_id": 701,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510790350,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/cesano-la-discarica-a-cielo-apertoa-pochi-metri-dalla-piattaforma-ecologica/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 106
+      }
+    ]
+  }
+}
