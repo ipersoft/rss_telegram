@@ -1,0 +1,36 @@
+{
+  "update_id": 202413221,
+  "channel_post": {
+    "message_id": 2387,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510849538,
+    "text": "Comune.di.Desio\n 🚔🔴 INFO VIABILITÀ  dal canale Telegram di #polizialocale: \nDa oggi, in Via Milano, all'intersezione con via Ambrosoli, causa lavori di estensione pubblica fognatura, modifica dei tempi semaforici. \nPossibili rallentamenti ed incolonnamenti  in direzione Nova Milanese e Desio Centro. \nDurata prevista per il cantiere #BrianzaAcque: 45 giorni \n\n[Segui il canale Telegram per rimanere informato in tempo reale sulla viabilità cittadina: https://t.me/Polizia_Locale_Desio ]\nhttps://www.facebook.com/103441483073684_1597429733674844",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 61,
+        "length": 14
+      },
+      {
+        "type": "hashtag",
+        "offset": 336,
+        "length": 13
+      },
+      {
+        "type": "url",
+        "offset": 454,
+        "length": 33
+      },
+      {
+        "type": "url",
+        "offset": 490,
+        "length": 57
+      }
+    ]
+  }
+}
