@@ -1,0 +1,21 @@
+{
+  "update_id": 202413218,
+  "channel_post": {
+    "message_id": 707,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510844656,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/arresto-droga-letto-figlia.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 64
+      }
+    ]
+  }
+}

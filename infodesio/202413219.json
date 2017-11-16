@@ -1,0 +1,21 @@
+{
+  "update_id": 202413219,
+  "channel_post": {
+    "message_id": 2385,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510844891,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE VEICOLARE LUNGO LE VIE: MONTE BIANCO - DELLE ALPI - DOLOMITI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3650291",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 92
+      }
+    ]
+  }
+}
