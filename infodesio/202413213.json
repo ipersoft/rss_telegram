@@ -1,0 +1,31 @@
+{
+  "update_id": 202413213,
+  "channel_post": {
+    "message_id": 2384,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510820424,
+    "text": "Comune.di.Desio\n #Desio: dal 28 novembre “figli e newmedia”, un ciclo di incontri dedicati ai genitori, proposto dall’assessorato alle #politichescolastiche\nhttps://www.facebook.com/103441483073684_1596434127107738",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 135,
+        "length": 21
+      },
+      {
+        "type": "url",
+        "offset": 157,
+        "length": 57
+      }
+    ]
+  }
+}
