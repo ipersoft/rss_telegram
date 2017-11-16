@@ -1,0 +1,21 @@
+{
+  "update_id": 202413215,
+  "channel_post": {
+    "message_id": 704,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510823310,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/cartelle-pazze-tari-lissone-e-desio-tranquillizzano-i-cittadini/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 94
+      }
+    ]
+  }
+}

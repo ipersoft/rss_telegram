@@ -1,0 +1,21 @@
+{
+  "update_id": 202413216,
+  "channel_post": {
+    "message_id": 705,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510824554,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/video/tallio-cause-morti.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 54
+      }
+    ]
+  }
+}
