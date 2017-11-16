@@ -1,0 +1,21 @@
+{
+  "update_id": 202413214,
+  "channel_post": {
+    "message_id": 703,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510822723,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/punto-lavoro-e-giovani-a-varedo-unalleanza-vincente/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 82
+      }
+    ]
+  }
+}
