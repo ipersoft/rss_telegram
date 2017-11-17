@@ -1,0 +1,21 @@
+{
+  "update_id": 202413262,
+  "channel_post": {
+    "message_id": 714,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510940646,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/furto-eurospin-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 58
+      }
+    ]
+  }
+}
