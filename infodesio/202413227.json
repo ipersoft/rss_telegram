@@ -1,0 +1,21 @@
+{
+  "update_id": 202413227,
+  "channel_post": {
+    "message_id": 2390,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510909389,
+    "text": "INDIZIONE DI PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DELLA FORNITURA DI STAMPATI PER GLI UFFICI E SERVIZI COMUNALI PER IL PERIODO DI VENTIQUATTRO MESI DALLA DATA DI STIPULA MEDIANTE RICORSO AL MEPA. EURO 5.075,20 I.V.A. COMPRESA. CODICE CIG Z3420BB0AF. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3651386",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 252,
+        "length": 92
+      }
+    ]
+  }
+}
