@@ -1,0 +1,21 @@
+{
+  "update_id": 202413244,
+  "channel_post": {
+    "message_id": 2406,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510921843,
+    "text": "APPROVAZIONE ACCORDO TRA LE AMMINISTRAZIONI COMUNALI DI DESIO E SEREGNO PER L’UTILIZZAZIONE PARZIALE E TEMPORANEA DEL DIPENDENTE TODARO WALTER (ART. 14 CCNL 22.01.2004) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652667",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 170,
+        "length": 92
+      }
+    ]
+  }
+}

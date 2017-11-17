@@ -1,0 +1,21 @@
+{
+  "update_id": 202413250,
+  "channel_post": {
+    "message_id": 2412,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510922237,
+    "text": "Giornata Internazionale contro la violenza sulle donne \nParole, gesti e immagini per dire NO alla violenza contro le donne. Sabato 25 novembre ore 15 manifestazione in piazza Conciliazione - ore 16.30 inaugurazione della Casa delle Donne in via Lampugnani 80\n \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46123",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 261,
+        "length": 74
+      }
+    ]
+  }
+}

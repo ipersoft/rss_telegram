@@ -1,0 +1,21 @@
+{
+  "update_id": 202413249,
+  "channel_post": {
+    "message_id": 2411,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510921851,
+    "text": "ASSOCIAZIONE CULTURALE “CORO CITTA’ DI DESIO” – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA MANIFESTAZIONE “INCANTO DEL NATALE” IN PROGRAMMA IL GIORNO 19/11/2017 PRESSO LA BASILICA DEI SS. SIRO E MATERNO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652677",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 220,
+        "length": 92
+      }
+    ]
+  }
+}

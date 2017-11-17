@@ -1,0 +1,21 @@
+{
+  "update_id": 202413245,
+  "channel_post": {
+    "message_id": 2407,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510921844,
+    "text": "ASSOCIAZIONE CULTURALE “GRUPPO TEATRO SONIA BONACINA” – RICHIESTA PATROCINIO COMUNALE PER PRESENTAZIONE LIBRO “MANUALE DI LETTURA ESPRESSIVA” IN PROGRAMMA PRESSO LA SALA “S. PERTINI” IL GIORNO 10 NOVEMBRE 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652669",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 211,
+        "length": 92
+      }
+    ]
+  }
+}

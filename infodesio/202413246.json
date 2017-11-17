@@ -1,0 +1,21 @@
+{
+  "update_id": 202413246,
+  "channel_post": {
+    "message_id": 2408,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510921845,
+    "text": "ASSOCIAZIONE COMITATO DI QUARTIERE S. VINCENZO/SPACCONE – RICHIESTA DI PATROCINIO COMUNALE PER LA MANIFESTAZIONE “UN LUOGO PER RICORDARE PADRE ANDREA” IN PROGRAMMA IL 18 NOVEMBRE 2017 (O, IN CASO DI MALTEMPO, IL 25 NOVEMBRE 2017) PRESSO IL CENTRO DI AGGREGAZIONE DI VIA MAJORANA ANG. VIA ROMAGNA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652671",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 297,
+        "length": 92
+      }
+    ]
+  }
+}
