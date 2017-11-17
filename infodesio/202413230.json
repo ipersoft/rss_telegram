@@ -1,0 +1,21 @@
+{
+  "update_id": 202413230,
+  "channel_post": {
+    "message_id": 2393,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510911202,
+    "text": "IMPEGNO DI SPESA PER RIMBORSO SPESE SOSTENUTE PER CAUSA DI SERVIZIO- SOVRINTENDENTE POLIZIA LOCALE VINCENZO COLACITTI- € 115,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3651471",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 129,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413234,
+  "channel_post": {
+    "message_id": 2397,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510911205,
+    "text": "RETRIBUZIONI DI RISULTATO DEL SEGRETARIO GENERALE ANNO 2016 - LIQUIDAZIONE (€8.487,65) – ADEGUAMENTO RETRIBUZIONE DI POSIZIONE EX ART.41, CO5, CCNL 16/05/01 (€327,33). \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3651479",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 169,
+        "length": 92
+      }
+    ]
+  }
+}

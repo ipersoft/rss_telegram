@@ -1,0 +1,21 @@
+{
+  "update_id": 202413229,
+  "channel_post": {
+    "message_id": 2392,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510911201,
+    "text": "INCARICO LEGALE PER COSTITUZIONE IN GIUDIZIO AUTORIZZATA CON DELIBERA G.C. N. 188/2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3651469",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 88,
+        "length": 92
+      }
+    ]
+  }
+}

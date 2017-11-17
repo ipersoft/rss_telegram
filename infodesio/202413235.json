@@ -1,0 +1,21 @@
+{
+  "update_id": 202413235,
+  "channel_post": {
+    "message_id": 2398,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510911206,
+    "text": "AGGIORNAMENTO, PER L’ANNO 2018, DEL COSTO BASE A MQ PER LA DETERMINAZIONE DEL CONTRIBUTO COMMISURATO AL COSTO DI COSTRUZIONE, AI SENSI DELL’ART. 48 -COMMA 2- DELLA LEGGE REGIONALE 11 MARZO 2005, N. 12 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3651481",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 202,
+        "length": 92
+      }
+    ]
+  }
+}
