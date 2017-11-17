@@ -1,0 +1,21 @@
+{
+  "update_id": 202413256,
+  "channel_post": {
+    "message_id": 2418,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510923744,
+    "text": "Giovedì 23 e venerdì 24 novembre 2017 sedute straordinarie di Consiglio Comunale \nLe sedute sono convocate il 23 per le ore 20 e il 24  per le ore 20.30 \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46131",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 154,
+        "length": 74
+      }
+    ]
+  }
+}

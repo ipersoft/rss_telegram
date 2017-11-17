@@ -1,0 +1,21 @@
+{
+  "update_id": 202413255,
+  "channel_post": {
+    "message_id": 2417,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510923650,
+    "text": "LIQUIDAZIONE ISTANZE DI RIMBORSO ICI, IMU,TASI, TASSA RIFIUTI ANNO 2017 E ANNO 2018. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652842",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 86,
+        "length": 92
+      }
+    ]
+  }
+}

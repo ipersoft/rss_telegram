@@ -1,0 +1,21 @@
+{
+  "update_id": 202413253,
+  "channel_post": {
+    "message_id": 2415,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510923648,
+    "text": "ALLACCIAMENTO AL PUBBLICO ACQUEDOTTO CON ANNESSA POSA DI UN NUOVO CONTATORE ACQUA PRESSO IL PARCO PUBBLICO DI VIA RISORGIMENTO. AFFIDAMENTO LAVORI A BRIANZACQUE S.R.L., VIA E. FERMI, 105 MONZA. IMPORTO € 1.056,00= - CIG: ZCF20BBF02 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652838",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 233,
+        "length": 92
+      }
+    ]
+  }
+}

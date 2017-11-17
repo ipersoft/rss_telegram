@@ -1,0 +1,21 @@
+{
+  "update_id": 202413251,
+  "channel_post": {
+    "message_id": 2413,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510923646,
+    "text": "ADEGUAMENTO ISTAT TARIFFE SERVIZI CIMITERIALI - ANNO 2018 - ISTITUZIONE DIRITTO DI PRENOTAZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652775",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 97,
+        "length": 92
+      }
+    ]
+  }
+}

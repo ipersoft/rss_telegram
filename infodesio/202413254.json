@@ -1,0 +1,21 @@
+{
+  "update_id": 202413254,
+  "channel_post": {
+    "message_id": 2416,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510923650,
+    "text": "ACCORDO DI COLLABORAZIONE CON C.A.N.T. - CENTRO ACCOGLIENZA NOTTURNA TEMPORANEA DAL 15 NOVEMBRE 2017 AL 30 APRILE 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652840",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 120,
+        "length": 92
+      }
+    ]
+  }
+}

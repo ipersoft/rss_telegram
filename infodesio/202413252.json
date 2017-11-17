@@ -1,0 +1,21 @@
+{
+  "update_id": 202413252,
+  "channel_post": {
+    "message_id": 2414,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510923648,
+    "text": "NOMINA DI UN INGEGNERE ELETTRONICO PER LA VALIDAZIONE DEL PROGETTO PER LA REALIZZAZIONE DI UN SISTEMA DI COMUNICAZIONE FONIA E TRASMISSIONE DATI – VOIP IN CONVENZIONE CONSIP CT7. EURO 3.000,00 I.V.A. COMPRESA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652777",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 211,
+        "length": 92
+      }
+    ]
+  }
+}
