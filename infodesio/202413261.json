@@ -1,0 +1,46 @@
+{
+  "update_id": 202413261,
+  "channel_post": {
+    "message_id": 2421,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510939252,
+    "text": "Comune.di.Desio\n sul nostro sito www.comune.desio.mb.it tutti gli appuntamenti del fine settimana e oltre in Città. Prendete nota! \n#cultura #culturando Biblioteca Civica di Desio ARDEN Luogo del possibile APS Casa delle Donne - DesioCoro Città di Desio #mapamondo @Circolo Fotografico Desiano\nhttps://www.facebook.com/103441483073684_1598310480253436",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 33,
+        "length": 22
+      },
+      {
+        "type": "hashtag",
+        "offset": 132,
+        "length": 8
+      },
+      {
+        "type": "hashtag",
+        "offset": 141,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 254,
+        "length": 10
+      },
+      {
+        "type": "mention",
+        "offset": 265,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 294,
+        "length": 57
+      }
+    ]
+  }
+}
