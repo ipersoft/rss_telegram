@@ -1,0 +1,21 @@
+{
+  "update_id": 202413257,
+  "channel_post": {
+    "message_id": 2419,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510925831,
+    "text": "Rifiuti: arriva il Sacco Blu \nA partire dal prossimo 11 gennaio 2018, il rifiuto secco indifferenziato dovrà essere esposto nei nuovi sacchi di colore blu muniti di microchip (tag rfid) e non più nei sacchi grigi. \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46140",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 215,
+        "length": 74
+      }
+    ]
+  }
+}
