@@ -1,0 +1,21 @@
+{
+  "update_id": 202413236,
+  "channel_post": {
+    "message_id": 711,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1510917197,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/sardegna-in-piazza-a-desio-torna-il-mercatino-tra-sapori-e-prodotti-tipici/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 105
+      }
+    ]
+  }
+}
