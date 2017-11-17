@@ -1,0 +1,21 @@
+{
+  "update_id": 202413242,
+  "channel_post": {
+    "message_id": 2404,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510920069,
+    "text": "LAVORI DI BONIFICA MATERIALI CONTENENTI AMIANTO PRESSO EDIFICI SCOLASTICI DIVERSI (B/1581). APPROVAZIONE DELLA PERIZIA DI VARIANTE SUPPLETIVA (€ 13.295,00 OLTRE I.V.A.) - CUP G44H17000030004 - CIG 7081307F62 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652351",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 209,
+        "length": 92
+      }
+    ]
+  }
+}

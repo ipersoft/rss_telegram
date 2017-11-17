@@ -1,0 +1,21 @@
+{
+  "update_id": 202413240,
+  "channel_post": {
+    "message_id": 2402,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510920067,
+    "text": "LAVORI DI RIMOZIONE AMIANTO LOCALI TECNICI SCUOLA PRIMARIA DI VIA TOLSTOJ E SECONDARIA “PERTINI” VIA MILANO DESIO. INTEGRAZIONE IMPEGNO DI SPESA PER ACCERTAMENTI ANALITICI ALLA DITTA 2M SRL DI MOZZATE P.IVA 02759950138 E ASSUNZIONE IMPEGNO DI SPESA € 3.261,80 OLTRE IVA 22 %. CIG Z501D7E196 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652347",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 292,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413237,
+  "channel_post": {
+    "message_id": 2399,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510920065,
+    "text": "APPENDICE AL CONTRATTO DI LOCAZIONE INTESTATO A S.F. PER CORREZIONE IMPORTO CANONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652254",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 84,
+        "length": 92
+      }
+    ]
+  }
+}

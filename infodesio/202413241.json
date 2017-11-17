@@ -1,0 +1,21 @@
+{
+  "update_id": 202413241,
+  "channel_post": {
+    "message_id": 2403,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510920068,
+    "text": "LAVORI DI MANUTENZIONE STRAORDINARIA EDIFICI RESIDENZIALI DEL PATRIMONIO COMUNALE IN LOCAZIONE – OPERE EDILI ANNO 2017 (G_02_17)- AGGIUDICAZIONE IN FAVORE DELL'OPERATORE EDILCEREDA S.R.L.– C.F. E P.IVA 02350010969 - CIG. 7187596FD7 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3652349",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 233,
+        "length": 92
+      }
+    ]
+  }
+}
