@@ -1,0 +1,51 @@
+{
+  "update_id": 202413259,
+  "channel_post": {
+    "message_id": 2420,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1510927291,
+    "text": "Comune.di.Desio\n Lunedì 20 novembre in Biblioteca Civica di Desio in occasione della Giornata Mondiale dei #Diritti dell' #Infanzia, i nostri bibliotecari proporranno uno scaffale di letture selezionate sul tema. \nSi prosegue poi, sempre in #Biblioteca, sabato 25 novembre con un nuovo appuntamento di #mapamondo: \"LitighiAmo, quando litigare fa bene!\" Un incontro dedicato ai genitori durante il quale le #biblioanimatrici animeranno letture per i più piccoli (ingresso libero, prenotazione obbligatoria) Tutti i dettagli e gli altri appuntamenti in programma qui: http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45651\nhttps://www.facebook.com/103441483073684_1598303840254100",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 107,
+        "length": 8
+      },
+      {
+        "type": "hashtag",
+        "offset": 122,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 241,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 302,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 406,
+        "length": 17
+      },
+      {
+        "type": "url",
+        "offset": 566,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 641,
+        "length": 57
+      }
+    ]
+  }
+}
