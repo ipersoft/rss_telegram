@@ -1,0 +1,41 @@
+{
+  "update_id": 202413265,
+  "channel_post": {
+    "message_id": 2422,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511089468,
+    "text": "Comune.di.Desio\n #25novembre #25nov #desio: inaugurazione della #casadelledonne\nhttps://www.facebook.com/103441483073684_1600208556730295",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 29,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 36,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 64,
+        "length": 15
+      },
+      {
+        "type": "url",
+        "offset": 80,
+        "length": 57
+      }
+    ]
+  }
+}
