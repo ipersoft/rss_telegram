@@ -1,0 +1,21 @@
+{
+  "update_id": 202413279,
+  "channel_post": {
+    "message_id": 720,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511190558,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/lite-tra-vicini-finisce-con-coltellata-alla-spalla-e-auto-distrutta/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 98
+      }
+    ]
+  }
+}
