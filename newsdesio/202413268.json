@@ -1,0 +1,21 @@
+{
+  "update_id": 202413268,
+  "channel_post": {
+    "message_id": 719,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511169003,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/terza-categoria-il-tabellino-di-stella-azzurra-aurora-desio-22884",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 105
+      }
+    ]
+  }
+}
