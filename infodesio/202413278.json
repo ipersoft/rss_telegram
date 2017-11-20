@@ -1,0 +1,21 @@
+{
+  "update_id": 202413278,
+  "channel_post": {
+    "message_id": 2432,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511179460,
+    "text": "INTEGRAZIONE DELL’IMPEGNO DI SPESA PER IL COMPLETAMENTO DELLA FORNITURA DI ARMADI PER L’ISTITUTO COMPRENSIVO TOLSTOJ – A.S. 2017/2018. EURO 1.918,43 I.V.A. COMPRESA. CODICE CIG Z62208BE5B. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3655061",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 190,
+        "length": 92
+      }
+    ]
+  }
+}

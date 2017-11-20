@@ -1,0 +1,21 @@
+{
+  "update_id": 202413277,
+  "channel_post": {
+    "message_id": 2431,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511179459,
+    "text": "CONTRIBUTO REGIONALE DI SOLIDARIETÀ AGLI ASSEGNATARI DEI SERVIZI ABITATIVI PUBBLICI IN COMPROVATE DIFFICOLTÀ ECONOMICHE DI CARATTERE TRANSITORIO - ANNO 2017 - DGR X/6755 DEL 21/06/2017 E DGR X/7257 DEL 23/10/2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3655059",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 214,
+        "length": 92
+      }
+    ]
+  }
+}
