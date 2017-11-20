@@ -1,0 +1,26 @@
+{
+  "update_id": 202413280,
+  "channel_post": {
+    "message_id": 721,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511194776,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-incidenti-nel-week-end-multa-di-3500-a-motociclista/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 82
+      }
+    ]
+  }
+}
