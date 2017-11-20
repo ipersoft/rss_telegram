@@ -1,0 +1,21 @@
+{
+  "update_id": 202413275,
+  "channel_post": {
+    "message_id": 2429,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511174062,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA G. GALLI IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3654695",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 117,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413269,
+  "channel_post": {
+    "message_id": 2423,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511174057,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIALE SABOTINO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3654683",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 119,
+        "length": 92
+      }
+    ]
+  }
+}
