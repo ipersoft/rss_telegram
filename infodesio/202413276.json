@@ -1,0 +1,21 @@
+{
+  "update_id": 202413276,
+  "channel_post": {
+    "message_id": 2430,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511175925,
+    "text": "Desio per il Cuore con AVIS  \nTest di prevenzione e gratuiti a cura dell'AVIS  e della Croce Rossa di Desio domenica 26 novembre 2017 presso la sede dell'AVIS in via Gramsci, 12 e in Sala Pertini dalle ore 9.30 alle 12.30\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46153",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 223,
+        "length": 74
+      }
+    ]
+  }
+}
