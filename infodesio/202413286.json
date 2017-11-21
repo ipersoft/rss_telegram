@@ -1,0 +1,21 @@
+{
+  "update_id": 202413286,
+  "channel_post": {
+    "message_id": 2436,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511264359,
+    "text": "ACCORDI TRANSATTIVI TRA BANCA MONTE DEI PASCHI DI SIENA SPA, COMUNE DI DESIO E ATRADIUS CREDITO Y CAUCION S.A. DE SEGUROS Y REASEGUROS (GIÀ ATRADIUS CREDIT INSURANCE-N.V) - AUTORIZZAZIONE AL SINDACO ALLA SOTTOSCRIZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3657368",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 220,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413287,
+  "channel_post": {
+    "message_id": 2437,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511264359,
+    "text": "GIUDIZIO RISARCITORIO AVANTI CORTE DI APPELLO DI MILAMO A SEGUITO DELLA SENTENZA EMESSA DALLA CORTE SUPREMA DI CASSAZIONE VI SEZ. PENALE NEL PROCEDIMENTO R.G. CASS. N. 8350/15 - APPROVAZIONE ACCORDO TRANSATTIVO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3657370",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 212,
+        "length": 92
+      }
+    ]
+  }
+}

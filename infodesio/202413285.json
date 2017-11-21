@@ -1,0 +1,21 @@
+{
+  "update_id": 202413285,
+  "channel_post": {
+    "message_id": 2435,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511264358,
+    "text": "INTERVENTI DI MANUTENZIONE STRAORDINARIA DELLA PAVIMENTAZIONE DELLE SEDI STRADALI CITTADINE, RIFACIMENTO SEDI MARCIAPIEDE E ATTUAZIONE PGTU (A/1637).APPROVAZIONE DEL PROGETTO DEFINITIVO – ESECUTIVO C.U.P. G47H17001160004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3657366",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 222,
+        "length": 92
+      }
+    ]
+  }
+}

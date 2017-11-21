@@ -1,0 +1,21 @@
+{
+  "update_id": 202413284,
+  "channel_post": {
+    "message_id": 2434,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511264357,
+    "text": "REALIZZAZIONE DI UN PARCO GIOCHI INCLUSIVO PRESSO L'AREA A VERDE PUBBLICO DI VIALE RIMEMBRANZE (F/187). APPROVAZIONE DEL PROGETTO DI FATTIBILITA’ TECNICO-ECONOMICA E RELATIVO QUADRO ECONOMICO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3657319",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 193,
+        "length": 92
+      }
+    ]
+  }
+}

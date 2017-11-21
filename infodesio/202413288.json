@@ -1,0 +1,21 @@
+{
+  "update_id": 202413288,
+  "channel_post": {
+    "message_id": 2438,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511264360,
+    "text": "AFFIDAMENTO INCARICO PROFESSIONALE PER COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE PER LA REALIZZAZIONE DI UN PARCO GIOCHI INCLUSIVO ALL’ARCH. MAURO MONGUZZI (€ 1.941,26) - CIG Z6A20B7E87 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3657372",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 200,
+        "length": 92
+      }
+    ]
+  }
+}
