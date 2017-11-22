@@ -1,0 +1,21 @@
+{
+  "update_id": 202413306,
+  "channel_post": {
+    "message_id": 2453,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511352257,
+    "text": "CONCESSIONE ASPETTATIVA NON RETRIBUITA PER MOTIVI PERSONALI EX ARTT. 11 E 14 CCNL 14.09.2000 AL DIPENDENTE SIG. MARCO ROMANO' \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3660032",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 127,
+        "length": 92
+      }
+    ]
+  }
+}

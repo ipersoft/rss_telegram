@@ -1,0 +1,21 @@
+{
+  "update_id": 202413309,
+  "channel_post": {
+    "message_id": 727,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511352700,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/desio-ex-autobianchi-deliberati-accordi-transattivi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 82
+      }
+    ]
+  }
+}
