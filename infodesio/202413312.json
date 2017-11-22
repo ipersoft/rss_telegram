@@ -1,0 +1,21 @@
+{
+  "update_id": 202413312,
+  "channel_post": {
+    "message_id": 2457,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511354072,
+    "text": "ORDINANZA DI ESECUZIONE LAVORI DI IMMEDIATO INTERVENTO PRESSO IL FABBRICATO SITO IN VIA GARIBALDI, 99/101 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3660318",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 107,
+        "length": 92
+      }
+    ]
+  }
+}
