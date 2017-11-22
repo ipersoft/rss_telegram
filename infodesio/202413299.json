@@ -1,0 +1,21 @@
+{
+  "update_id": 202413299,
+  "channel_post": {
+    "message_id": 2447,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511350478,
+    "text": "ONERI DERIVANTI DALL'INSERIMENTO DEL MINORE K.H. PRESSO LA COMUNITÀ \"ARIMO SOCIETÀ COOPERATIVA SOCIALE\" SU MANDATO DELL'AUTORITÀ GIUDIZIARIA - IMPEGNO DI SPESA - € 693,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3659945",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 172,
+        "length": 92
+      }
+    ]
+  }
+}

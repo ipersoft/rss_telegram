@@ -1,0 +1,21 @@
+{
+  "update_id": 202413303,
+  "channel_post": {
+    "message_id": 2451,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511350483,
+    "text": "MISURE DI REGIONE LOMBARDIA \"REDDITO DI AUTONOMIA ANZIANI E DISABILI\" DI CUI AI D.D.G. N. 12405 E D.D.G. N. 12408 DEL 28.11.2016 - PRESA D'ATTO APPROVAZIONE GRADUATORIA REGIONALE, INDIVIDUAZIONE DEGLI ENTI EROGATORI DEGLI INTERVENTI DELL'AMBITO TERRITORIALE DI DESIO – ACCERTAMENTO ED IMPEGNO DI SPESA QUOTA ANNO 2017 (ACCERTAMENTO  ED IMPEGNO DI SPESA PER € 46.193, 60)   \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3659953",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 374,
+        "length": 92
+      }
+    ]
+  }
+}

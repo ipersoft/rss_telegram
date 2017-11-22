@@ -1,0 +1,21 @@
+{
+  "update_id": 202413300,
+  "channel_post": {
+    "message_id": 2448,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511350481,
+    "text": "ATTIVAZIONE TIROCINIO DELLA STUDENTESSA MARILENA LEONI, PSICOLOGA SPECIALIZZANDA DELLA SCUOLA DI PSICOTERAPIA SISTEMICA CMTF \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3659947",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 126,
+        "length": 92
+      }
+    ]
+  }
+}

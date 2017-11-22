@@ -1,0 +1,21 @@
+{
+  "update_id": 202413301,
+  "channel_post": {
+    "message_id": 2449,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511350481,
+    "text": "INTEGRAZIONE ONERI DERIVANTI DALL'INSERIMENTO DI MINORI PRESSO STRUTTURE RESIDENZIALI SU MANDATO DELL'AUTORITÀ GIUDIZIARIA FINO AL 31 DICEMBRE 2017 - € 67.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3659949",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 163,
+        "length": 92
+      }
+    ]
+  }
+}
