@@ -1,0 +1,31 @@
+{
+  "update_id": 202413313,
+  "channel_post": {
+    "message_id": 2458,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511356578,
+    "text": "Comune.di.Desio\n #TARI: a #Desio tutto regolare. «Desio ha applicato correttamente la normativa di riferimento in materia». L’assessore Jennifer Moro interviene sulla questione della tassa rifiuti «gonfiata»\n\nNei giorni scorsi  la stampa nazionale ha riportato la notizia che molti Comuni negli ultimi cinque anni avrebbero fatto pagare ai propri cittadini una tassa rifiuti più alta. Un errore nel computo della quota variabile della tassa rifiuti, infatti, avrebbe fatto lievitare a dismisura il prelievo, in alcuni casi fino al doppio.\n \nUn errore che, però, non interessa Desio dove si è applicata correttamente la normativa di riferimento in materia. L’assessore alla Gestione delle risorse e Controllo del territorio, Jennifer Moro (foto), precisa che il Comune di Desio ha applicato correttamente la normativa di riferimento in materia: «La quota variabile della Tari è calcolata esclusivamente sull’abitazione principale, mentre le pertinenze ne sono escluse».\n \nLa Tari è stata introdotta nel 2014 (legge 147/2013) al posto della vecchia Tares e comprende una quota fissa e una variabile. La tassa è calcolata, tenendo conto di una quota fissa correlata alle dimensioni della casa e di una quota che varia in base ai membri di un nucleo famigliare. A causare l’errore in alcuni comuni è proprio la parte variabile che è stata calcolata tenendo conto anche delle cosiddette pertinenze (soffitte, box auto e cantine), come se determinassero una maggiore produzione di rifiuti. Un errore che avrebbe «gonfiato» la tassa, facendo lievitare i prelievi anche fino al 100 per cento.\nhttps://www.facebook.com/103441483073684_1603185489765935",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 5
+      },
+      {
+        "type": "hashtag",
+        "offset": 26,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 1585,
+        "length": 57
+      }
+    ]
+  }
+}
