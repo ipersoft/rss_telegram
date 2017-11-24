@@ -1,0 +1,21 @@
+{
+  "update_id": 202413325,
+  "channel_post": {
+    "message_id": 2466,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511516207,
+    "text": "ASSUNZIONE A TEMPO DETERMINATO DELLA SIG.RA BENVEGNU' BIANCA MARIA IN QUALITA’ DI COLLABORATORE AI SERVIZI DI SUPPORTO – CAT. B3 – PRESSO L'AREA PERSONA E FAMIGLIA / SETTORE INTERVENTI E SERVIZI SOCIALI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3665172",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 204,
+        "length": 92
+      }
+    ]
+  }
+}

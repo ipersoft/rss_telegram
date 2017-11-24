@@ -1,0 +1,21 @@
+{
+  "update_id": 202413322,
+  "channel_post": {
+    "message_id": 2463,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511515877,
+    "text": "Avviso Pubblico manifestazione interesse candidatura incarico presso G.S.D. S.r.l. \nAvviso pubblico per manifestazione di interesse a presentare la candidatura per l'individuazione della figura professionale cui affidare l'incarico della gestione paghe e contributi - Gestione Servizi Desio s.r.l.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46195",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 298,
+        "length": 74
+      }
+    ]
+  }
+}

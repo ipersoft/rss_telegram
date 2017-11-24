@@ -1,0 +1,21 @@
+{
+  "update_id": 202413323,
+  "channel_post": {
+    "message_id": 2464,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511516205,
+    "text": "FORNITURA DI MATERIALE DA IDRAULICO PER INTERVENTI DI MANUTENZIONE DA SVOLGERE IN ECONOMIA DIRETTA. AFFIDAMENTO DELLA FORNITURA A PRESSIANI SPA P.IVA E C.F.: 00381170133 E ASSUNZIONE IMPEGNO DI SPESA € 7.377,05= OLTRE I.V.A. - CIG ZA720CDD4F \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3665167",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 243,
+        "length": 92
+      }
+    ]
+  }
+}

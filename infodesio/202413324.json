@@ -1,0 +1,21 @@
+{
+  "update_id": 202413324,
+  "channel_post": {
+    "message_id": 2465,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511516206,
+    "text": "INCARICO PER L’ESECUZIONE IN HOUSE DI UN PERCORSO FORMATIVO IN MATERIA DI SICUREZZA E SALUTE SUI LUOGHI DI LAVORO AI SENSI DEL D.LGS. 81/2008 E S.M.I., DESTINATO AI VOLONTARI DEL VERDE / VOLONTARI BIBLIOTECA – IMPEGNO DI SPESA TOTALE € 1.159,00 – (CIG: ZD620E431A). \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3665170",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 267,
+        "length": 92
+      }
+    ]
+  }
+}
