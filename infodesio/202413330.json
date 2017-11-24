@@ -1,0 +1,21 @@
+{
+  "update_id": 202413330,
+  "channel_post": {
+    "message_id": 2470,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511529370,
+    "text": "Comune.di.Desio\n Le Associazioni e gli Enti che lavorano sulla disabilità continuano la collaborazione per FARE RETE, con lo scopo di affiancare le famiglie in tutto quello che il territorio può offrire. Da qui il 4° appuntamento in P.zza Conciliazione.\n\nCosa rappresenta questa giornata ?\n\nL’opportunità di diffondere maggiore consapevolezza sul tema dell’inclusione sociale delle persone con disabilità, nel rispetto del diritto di ciascuna persona all’affermazione della propria identità. L’opportunità per le persone con disabilità di creare valore sociale ed essere parte attiva all’interno della cittadinanza, favorendo l’integrazione di bambini , giovani e adulti per un reciproco arricchimento.\n\nProgramma in Piazza Conciliazione - Sabato 2 dicembre 2017  dalle 15:00 alle 18:00\n\n- Laboratorio per bambini e ragazzi: “Il pentolino di Antonino”\n- h. 16:30 grande sorpresa che coinvolgerà tutti i presenti\n- Stand TikiTaka e Associazioni con attività, laboratori interattivi, regali natalizi e materiale informativo\n- tè, cioccolata e caldarroste, a cura dell’A.S.D. “Cannisti” Muggiò\n\nIn caso di maltempo, la manifestazione si terrà presso l’Oratorio Centrale Beata Vergine Immacolata di via Grandi 32- Desio\nhttps://www.facebook.com/103441483073684_148293022478460",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1216,
+        "length": 56
+      }
+    ]
+  }
+}
