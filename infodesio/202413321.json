@@ -1,0 +1,21 @@
+{
+  "update_id": 202413321,
+  "channel_post": {
+    "message_id": 2462,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511514373,
+    "text": "Avviso di riqualificazione immobile ex Casa di Riposo Gavazzi e attivazione servizi socio-sanitari \nAvviso di riqualificazione immobile ex Casa di Riposo Gavazzi e attivazione servizi di assistenza socio-sanitaria\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46185",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 214,
+        "length": 74
+      }
+    ]
+  }
+}
