@@ -1,0 +1,21 @@
+{
+  "update_id": 202413320,
+  "channel_post": {
+    "message_id": 2461,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511507773,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA CARCANO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3664390",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 116,
+        "length": 92
+      }
+    ]
+  }
+}
