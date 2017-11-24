@@ -1,0 +1,21 @@
+{
+  "update_id": 202413328,
+  "channel_post": {
+    "message_id": 733,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511526074,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/inceneritore-desio-lo-studio-epidemiologico-a-che-punto-e-il-comune-risponde/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 107
+      }
+    ]
+  }
+}

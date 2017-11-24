@@ -1,0 +1,21 @@
+{
+  "update_id": 202413327,
+  "channel_post": {
+    "message_id": 2468,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511525166,
+    "text": "Le mafie nella gestione di impresa e nell'economia \nIncontro pubblico venerdì 1° dicembre alle 21 in Sala Pertini, promosso dall'Amministrazione Comunale in collaborazione con BrianzaSiCura.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46220",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 191,
+        "length": 74
+      }
+    ]
+  }
+}
