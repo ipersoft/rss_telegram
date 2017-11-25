@@ -1,0 +1,31 @@
+{
+  "update_id": 202413334,
+  "channel_post": {
+    "message_id": 2471,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511618620,
+    "text": "Comune.di.Desio\n Siamo pronti in piazza Conciliazione! Insieme per dire no alla violenza contro le donne ##25novembre  #desio\nhttps://www.facebook.com/103441483073684_1606238786127272",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 106,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 119,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 126,
+        "length": 57
+      }
+    ]
+  }
+}
