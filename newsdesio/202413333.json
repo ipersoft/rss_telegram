@@ -1,0 +1,26 @@
+{
+  "update_id": 202413333,
+  "channel_post": {
+    "message_id": 736,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511618107,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/cogliate-colpito-alla-testa-dalla-sua-ex-perde-la-vita/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 77
+      }
+    ]
+  }
+}
