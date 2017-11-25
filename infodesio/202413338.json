@@ -1,0 +1,46 @@
+{
+  "update_id": 202413338,
+  "channel_post": {
+    "message_id": 2473,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511632686,
+    "text": "Comune.di.Desio\n #saccoblu #rifiuti #desio : il 30 novembre al centro ricreativo il girasole di via San Pietro un incontro pubblico per informare sulle nuove modalità di conferimento e raccolta della frazione secca (rifiuti indifferenziati) . Sarà presente anche un interprete #LIS.\n Sul nostro sito trovi il calendario con questo e tutti gli altri appuntamenti in programma  https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46140\nhttps://www.facebook.com/103441483073684_1606333549451129",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 27,
+        "length": 8
+      },
+      {
+        "type": "hashtag",
+        "offset": 36,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 277,
+        "length": 4
+      },
+      {
+        "type": "url",
+        "offset": 376,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 452,
+        "length": 57
+      }
+    ]
+  }
+}
