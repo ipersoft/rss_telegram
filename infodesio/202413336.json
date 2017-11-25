@@ -1,0 +1,31 @@
+{
+  "update_id": 202413336,
+  "channel_post": {
+    "message_id": 2472,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511625513,
+    "text": "Comune.di.Desio\n L'apertura della Casa delle Donne - Desio è il nostro modo concreto per celebrare oggi la Giornata Internazionale contro la violenza sulle donne. Siamo in via lampugnani 80 e vi aspettiamo con le vostre idee e voglia di fare per rendere questo nuovo spazio civico un luogo per tutti e tutte, dove crescere insieme. #25novembre #desio\nhttps://www.facebook.com/103441483073684_1606324879451996",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 332,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 344,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 351,
+        "length": 57
+      }
+    ]
+  }
+}
