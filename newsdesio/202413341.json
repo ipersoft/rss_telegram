@@ -1,0 +1,21 @@
+{
+  "update_id": 202413341,
+  "channel_post": {
+    "message_id": 741,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511720731,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/prima-categoria-il-tabellino-di-campagnola-don-bosco-desio-22931",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 104
+      }
+    ]
+  }
+}
