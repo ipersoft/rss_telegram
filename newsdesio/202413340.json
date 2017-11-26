@@ -1,0 +1,21 @@
+{
+  "update_id": 202413340,
+  "channel_post": {
+    "message_id": 740,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511693242,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/monza-e-brianza-tutti-i-collegi-camera/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 62
+      }
+    ]
+  }
+}
