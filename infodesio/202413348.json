@@ -1,0 +1,21 @@
+{
+  "update_id": 202413348,
+  "channel_post": {
+    "message_id": 2476,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511786055,
+    "text": "Mostra \"Disegni\" del Laboratorio dei ragazzi delle primarie \nFumetti in mostra con i disegni dei ragazzi delle scuole primarie promossa dall'associazione Amici Museo Scalvini. Inaugurazione sabato 2 dicembre alle ore 17 Villa Tittoni. Aperta anche domenica 3 dicembre \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46245",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 269,
+        "length": 74
+      }
+    ]
+  }
+}
