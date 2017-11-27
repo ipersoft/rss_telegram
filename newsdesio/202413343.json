@@ -1,0 +1,26 @@
+{
+  "update_id": 202413343,
+  "channel_post": {
+    "message_id": 743,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1511769921,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/brugherio-ancora-mistero-sulla-sparizione-di-andrea-la-rosa/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 82
+      }
+    ]
+  }
+}
