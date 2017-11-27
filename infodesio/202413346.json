@@ -1,0 +1,21 @@
+{
+  "update_id": 202413346,
+  "channel_post": {
+    "message_id": 2474,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511777392,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA POZZO ANTICO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3681207",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 121,
+        "length": 92
+      }
+    ]
+  }
+}

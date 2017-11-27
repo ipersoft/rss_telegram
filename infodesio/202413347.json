@@ -1,0 +1,21 @@
+{
+  "update_id": 202413347,
+  "channel_post": {
+    "message_id": 2475,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511777393,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FILIPPO DA DESIO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3681211",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 92
+      }
+    ]
+  }
+}
