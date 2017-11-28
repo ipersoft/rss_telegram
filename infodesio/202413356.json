@@ -1,0 +1,21 @@
+{
+  "update_id": 202413356,
+  "channel_post": {
+    "message_id": 2481,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887723,
+    "text": "LAVORI DI MANUTENZIONE STRAORDINARIA PER RIPRISTINO PERDITA IMPINATI IDRICO SANITARIO PRESSO LA SCUOLA PRIMARIA U. TAGLIABUE (ALLOGGIO CUSTODE). DETERMINA A CONTRARRE E AFFIDAMENTO LAVORI ALLA DITTA FALCO RENZO SRL DI MILANO - ASSUNZIONE IMPEGNO DI SPESA € 9.479,40 IVA COMPRESA CUP G47B14000460004 - CIG: ZD620D87D5 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685730",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 318,
+        "length": 92
+      }
+    ]
+  }
+}

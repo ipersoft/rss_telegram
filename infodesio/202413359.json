@@ -1,0 +1,21 @@
+{
+  "update_id": 202413359,
+  "channel_post": {
+    "message_id": 2484,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887738,
+    "text": "AGGIUDICAZIONE DELLA PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DELLA FORNITURA DI UN SISTEMA DI GESTIONE DELL’ACCOGLIENZA DELL’UTENZA PRESSO I SERVIZI DEMOGRAFICI MEDIANTE RICORSO AL MEPA. EURO 13.388,28 I.V.A. COMPRESA. CODICE CIG Z532008B0D. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685736",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 241,
+        "length": 92
+      }
+    ]
+  }
+}

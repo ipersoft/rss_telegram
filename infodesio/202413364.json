@@ -1,0 +1,21 @@
+{
+  "update_id": 202413364,
+  "channel_post": {
+    "message_id": 2489,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511888055,
+    "text": "Avviso di mobilità volontaria - Cat. B1 - Area Lavori Pubblici       \nAvviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46262",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 130,
+        "length": 74
+      }
+    ]
+  }
+}

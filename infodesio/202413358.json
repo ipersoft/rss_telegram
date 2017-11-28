@@ -1,0 +1,21 @@
+{
+  "update_id": 202413358,
+  "channel_post": {
+    "message_id": 2483,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887725,
+    "text": "LAVORI DI RIFUNZIONALIZZAZIONE ALA OVEST VILLA TITTONI TRAVERSI (A69VT) - CUP G42C15000180004 – CIG 70258391C2 PRESA D’ATTO DELL’EFFICACIA DELL’AGGIUDICAZIONE AL CONSORZIO STABILE MEDIL S.C.A.R.L. DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N° 605 DEL 04.09.2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685734",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 260,
+        "length": 92
+      }
+    ]
+  }
+}

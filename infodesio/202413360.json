@@ -1,0 +1,21 @@
+{
+  "update_id": 202413360,
+  "channel_post": {
+    "message_id": 2485,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887739,
+    "text": "ASSUNZIONE A TEMPO DETERMINATO DELLA SIG.RA FERRARA MARIA ELENA IN QUALITA’ DI EDUCATORE - INSEGNANTE DI RELIGIONE CATTOLICA – CAT. C1 – A TEMPO PARZIALE (11H/SETT.) E DETERMINATO – PERIODO 01.12.2017/31.05.2018 – PRESSO L’AREA PERSONA E FAMIGLIA/SETTORE SERVIZI EDUCATIVI E CULTURALI/SERVIZI PER L’INFANZIA-SCUOLA MATERNA COMUNALE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685738",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 334,
+        "length": 92
+      }
+    ]
+  }
+}

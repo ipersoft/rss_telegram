@@ -1,0 +1,21 @@
+{
+  "update_id": 202413355,
+  "channel_post": {
+    "message_id": 2480,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887723,
+    "text": "SERVIZIO DI DISOTTURAZIONE E/O LA PULIZIA DELLE CONDOTTE FOGNARIE ALL’INTERNO DEGLI EDIFICI PUBBLICI DI PROPRIETÀ COMUNALE ANNO 2017 AFFIDATO ALL’IMPRESA STUCCHI SERVIZI ECOLOGICI S.R.L. CON SEDE A VIMERCATE (MB), VIA N. TOMMASEO N. 4, C.F. 08142100158 P.I. 00895130961. INTEGRAZIONE IMPEGNO DI SPESA € 3.368,10 OLTRE IVA – CIG ZE120D3A66 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685728",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 340,
+        "length": 92
+      }
+    ]
+  }
+}

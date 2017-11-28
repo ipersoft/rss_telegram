@@ -1,0 +1,21 @@
+{
+  "update_id": 202413353,
+  "channel_post": {
+    "message_id": 2478,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887708,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA CONCILIAZIONE - IN OCCASIONE DEL PERIODO PRE-NATALIZIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685698",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 135,
+        "length": 92
+      }
+    ]
+  }
+}

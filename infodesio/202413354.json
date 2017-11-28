@@ -1,0 +1,21 @@
+{
+  "update_id": 202413354,
+  "channel_post": {
+    "message_id": 2479,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511887708,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO PROTRAZIONE DELLA \"ZONA A TRAFFICO LIMITATO\" IN OCCASIONE DEL PERIODO PRE-NATALIZIO OVVERO NELLE GIORNATE DI SABATO 09 DICEMBRE E DOMENICA 10 E 17 DICEMBRE 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685700",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 195,
+        "length": 92
+      }
+    ]
+  }
+}
