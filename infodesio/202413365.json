@@ -1,0 +1,46 @@
+{
+  "update_id": 202413365,
+  "channel_post": {
+    "message_id": 2490,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511890999,
+    "text": "Comune.di.Desio\n #Natale a #Desio: pronto il programma di tutti gli eventi proposti dall'Amministrazione Comunale insieme alle associazioni del Territorio #desiodalvivo #culturando #comunitapastorale 🎄🎄🎄⛄❄️⛸️⛸️⛸️✨🎅🎅🎅\nhttps://www.facebook.com/103441483073684_1609739419110542",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 27,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 155,
+        "length": 13
+      },
+      {
+        "type": "hashtag",
+        "offset": 169,
+        "length": 11
+      },
+      {
+        "type": "hashtag",
+        "offset": 181,
+        "length": 18
+      },
+      {
+        "type": "url",
+        "offset": 223,
+        "length": 57
+      }
+    ]
+  }
+}
