@@ -1,0 +1,21 @@
+{
+  "update_id": 202413352,
+  "channel_post": {
+    "message_id": 2477,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511874510,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE PER LA REALIZZAZIONE DI UNA CABINA ELETTRICA ENEL DI MEDIA TENSIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3685100",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 194,
+        "length": 92
+      }
+    ]
+  }
+}
