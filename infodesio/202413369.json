@@ -1,0 +1,21 @@
+{
+  "update_id": 202413369,
+  "channel_post": {
+    "message_id": 2493,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511946210,
+    "text": "GIORNATA INTERNAZIONALE CONTRO LA VIOLENZA SULLE DONNE - CONTRIBUTO DEGLI STUDENTI DEL LICEO MAJORANA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3686772",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 103,
+        "length": 92
+      }
+    ]
+  }
+}

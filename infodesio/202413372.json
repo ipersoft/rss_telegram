@@ -1,0 +1,21 @@
+{
+  "update_id": 202413372,
+  "channel_post": {
+    "message_id": 2496,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511946212,
+    "text": "LAVORI DI REALIZZAZIONE NUOVA PALESTRA SCUOLA PRIMARIA U. TAGLIABUE 2° LOTTO FUNZIONALE – REALIZZAZIONE NUOVA PALESTRA E ADEGUAMENTO NORMATIVO PLESSO ESISTENTE (B/1567_LOTTO_2). APPROVAZIONE DELLA DEROGA ALLA DISTANZA MINIMA DEL FABBRICATO DALLA SEDE STRADALE C.U.P. G47B14000460004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3686778",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 284,
+        "length": 92
+      }
+    ]
+  }
+}

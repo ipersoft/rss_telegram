@@ -1,0 +1,21 @@
+{
+  "update_id": 202413371,
+  "channel_post": {
+    "message_id": 2495,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511946211,
+    "text": "ACCORDO TRANSATTIVO CON I SIG. NOCERA GIUSEPPE, CARLO E LUISA MASOLO, ROSA ANGELA E LUIGI TRABATTONI, COMUNE DI DESIO A SEGUITO DI PROVVEDIMENTO AVANTI LA CORTE DI APPELLO DI MILANO. APPROVAZIONE SCHEMA TRANSAZIONE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3686776",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 217,
+        "length": 92
+      }
+    ]
+  }
+}
