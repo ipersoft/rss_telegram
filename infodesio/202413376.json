@@ -1,0 +1,21 @@
+{
+  "update_id": 202413376,
+  "channel_post": {
+    "message_id": 2500,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956872,
+    "text": "ASSOCIAZIONE CULTURALE ARDEN LUOGO DEL POSSIBILE APS – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA MANIFESTAZIONE DENOMINATA \"FESTIVALACT 2017\", IN PROGRAMMA IL GIORNO 26/11/2017 PRESSO LA SEDE DELLA ASSOCIAZIONE STESSA IN DESIO - VIA BORGHETTO 33 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3687809",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 264,
+        "length": 92
+      }
+    ]
+  }
+}

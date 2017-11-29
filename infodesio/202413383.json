@@ -1,0 +1,21 @@
+{
+  "update_id": 202413383,
+  "channel_post": {
+    "message_id": 2507,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956883,
+    "text": "LAVORI DI SOSTITUZIONE CONTROSOFFITTI PRESSO LA SCUOLA PRIMARIA DI VIA TOLSTOJ E LA SCUOLA SECONDARIA DI PRIMO GRADO PERTINI (B/1582). APPROVAZIONE MODALITA’ APPALTO LAVORI E ASSUNZIONE IMPEGNO DI SPESA. G44H17000060004– CIG 7254587294 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688005",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 237,
+        "length": 92
+      }
+    ]
+  }
+}

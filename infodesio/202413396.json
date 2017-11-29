@@ -1,0 +1,21 @@
+{
+  "update_id": 202413396,
+  "channel_post": {
+    "message_id": 2520,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956931,
+    "text": "AFFIDAMENTO TRAMITE MEPA,DEL SERVIZIO DI MANUTENZIONE SISTEMI SOFTWARE DITTA DATAGRAPH -CIG Z5820BE77D \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688031",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 104,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413375,
+  "channel_post": {
+    "message_id": 2499,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956871,
+    "text": "ASSOCIAZIONE CULTURALE “CORALE S. PIO X” – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA MANIFESTAZIONE DENOMINATA “3 ° RASSEGNA INSIEME INCORO INDESIO“ IN PROGRAMMA IL GIORNO 18/11/2017 PRESSO LA CHIESA PARROCCHIALE DI S. GIOVANNI BATTISTA IN DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3687805",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 264,
+        "length": 92
+      }
+    ]
+  }
+}

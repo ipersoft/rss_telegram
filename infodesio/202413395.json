@@ -1,0 +1,21 @@
+{
+  "update_id": 202413395,
+  "channel_post": {
+    "message_id": 2519,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956931,
+    "text": "TRASFERIMENTO DELLA SIG.RA PULICI CLAUDIA DAL COMUNE DI DESIO ( EX D.LGS N° 165/2001 – ART 30) AL COMUNE DI TRIUGGIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688029",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 118,
+        "length": 92
+      }
+    ]
+  }
+}

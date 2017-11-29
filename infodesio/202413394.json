@@ -1,0 +1,21 @@
+{
+  "update_id": 202413394,
+  "channel_post": {
+    "message_id": 2518,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956930,
+    "text": "TRASFERIMENTO DEL SIG. BESOZZI OSCAR DAL COMUNE DI DESIO ( EX D.LGS N° 165/2001 – ART 30) AL COMUNE DI COMO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688027",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 109,
+        "length": 92
+      }
+    ]
+  }
+}

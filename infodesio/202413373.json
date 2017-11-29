@@ -1,0 +1,21 @@
+{
+  "update_id": 202413373,
+  "channel_post": {
+    "message_id": 2497,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956869,
+    "text": "5^ INTEGRAZIONE/MODIFICA PIANO PROGRAMMATICO FABBISOGNO DEL PERSONALE ANNI 2017/2019 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3687798",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 86,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413374,
+  "channel_post": {
+    "message_id": 2498,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956870,
+    "text": "DETERMINAZIONE DEI VALORI VENALI DI RIFERIMENTO DELLE AREE EDIFICABILI AI FINI DELL’IMPOSTA MUNICIPALE PROPRIA (IMU) E DELLA TASSA SUI SERVIZI INDIVISIBILI (TASI) PER L’ANNO 2018. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3687802",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 181,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413397,
+  "channel_post": {
+    "message_id": 2521,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956932,
+    "text": "FORNITURA TRAMITE MERCATO MEPA-CONSIP DI ATTREZZATURE INFORMATICHE PER UFFICI COMUNALI -DIVERSI FORNITORI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688033",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 107,
+        "length": 92
+      }
+    ]
+  }
+}

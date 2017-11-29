@@ -1,0 +1,21 @@
+{
+  "update_id": 202413388,
+  "channel_post": {
+    "message_id": 2512,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956888,
+    "text": "AFFIDAMENTO INCARICO PROFESSIONALE PER PROGETTAZIONE ESECUTIVA DEI LAVORI DI CABLAGGIO DEGLI EDIFICI SCOLASTICI (B/1590) A FAVORE DELL'ING. AZZIMONTI EDOARDO MARIO – DETERMINA A CONTRARRE E ASSUNZIONE IMPEGNO DI SPESA DI € 12.707,00 OLTRE CNPAIA E I.V.A. - CIG ZA920E6DE1 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688015",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 273,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413389,
+  "channel_post": {
+    "message_id": 2513,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956889,
+    "text": "IMPEGNO DI SPESA PER LA RIPARAZIONE DELL’APPARECCHIATURA COPIATRICE TIPO GESTETNER MP 1600 IN DOTAZIONE ALL’UFFICIO CATASTO. EURO 524,60 I.V.A. COMPRESA. CODICE CIG ZF320EADF2. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688017",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 178,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413377,
+  "channel_post": {
+    "message_id": 2501,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956873,
+    "text": "DETERMINAZIONE DELLE TARIFFE PER I SERVIZI PUBBLICI A DOMANDA INDIVIDUALE E DELLE COMPARTECIPAZIONI AI SERVIZI SOCIALI: ANNO 2018. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3687812",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 132,
+        "length": 92
+      }
+    ]
+  }
+}

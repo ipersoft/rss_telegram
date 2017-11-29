@@ -1,0 +1,21 @@
+{
+  "update_id": 202413391,
+  "channel_post": {
+    "message_id": 2515,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956894,
+    "text": "AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE AD ESSERE INSERITI NELL’ELENCO DELLE STRUTTURE DISPONIBILI ALL’ACCOGLIENZA – MISURA 1 – ED ACCERTAMENTO RISORSE DESTINATE ALL'AMBITO TERRITORIALE DI DESIO DGR 6465/2017 ( € 204.445,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688021",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 237,
+        "length": 92
+      }
+    ]
+  }
+}

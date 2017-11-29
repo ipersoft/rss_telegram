@@ -1,0 +1,21 @@
+{
+  "update_id": 202413393,
+  "channel_post": {
+    "message_id": 2517,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956930,
+    "text": "BIBLIOTECA CIVICA. PROROGA APPALTO DEI SERVIZI MULTIMEDIALI PER IL PERIODO 01.01.2018 - 31.12.2019. IMPEGNO DI SPESA DI €. 70.000,00 - CIG: 6479659FBF \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688025",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 152,
+        "length": 92
+      }
+    ]
+  }
+}

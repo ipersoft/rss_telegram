@@ -1,0 +1,21 @@
+{
+  "update_id": 202413392,
+  "channel_post": {
+    "message_id": 2516,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1511956895,
+    "text": "REVOCA DELL'ASSEGNAZIONE ALLA COOP. AUTONOMIA LA SPIGA DEI BENI SITI IN DESIO – VIA MOLINO ARESE - CONFISCATI ALLA CRIMINALITÀ ORGANIZZATA ACQUISITI AL PATRIMONIO COMUNALE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3688023",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 173,
+        "length": 92
+      }
+    ]
+  }
+}
