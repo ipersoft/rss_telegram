@@ -1,0 +1,21 @@
+{
+  "update_id": 202413415,
+  "channel_post": {
+    "message_id": 753,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512051131,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/11/tre-rapine-e-poi-la-folle-fuga-per-il-centro-di-monza-arrestati/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 94
+      }
+    ]
+  }
+}
