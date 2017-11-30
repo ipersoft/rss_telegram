@@ -1,0 +1,21 @@
+{
+  "update_id": 202413417,
+  "channel_post": {
+    "message_id": 2536,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512056173,
+    "text": "Natale a Desio 2017 \nIl programma completo degli appuntamenti, culturali, sportivi e per il tempo libero proposti nell'ambito di Culturando e DesiodalVivo, in collaborazione con le associazioni e i commercianti di Desio.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46279",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 221,
+        "length": 74
+      }
+    ]
+  }
+}
