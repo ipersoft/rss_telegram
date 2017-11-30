@@ -1,0 +1,21 @@
+{
+  "update_id": 202413414,
+  "channel_post": {
+    "message_id": 2535,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047429,
+    "text": "INCONVENIENTE IGIENICO-SANITARIO PRESSO L’ABITAZIONE SITA IN DESIO, VIA MESSINA N° 7, CAUSATO DALLA FUORIUSCITA DI FUMO ACRE E NAUSEABONDO DAL COMIGNOLO DELL’ABITAZIONE SITA IN VIA PADOVA, 6. REVOCA DELLA SOSPENSIONE TEMPORANEA DI UTILIZZO DEL CAMINETTO DI CUI ALL’ORDINANZA N. 142 DEL 28/04/2017. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691523",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 299,
+        "length": 92
+      }
+    ]
+  }
+}

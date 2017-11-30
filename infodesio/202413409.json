@@ -1,0 +1,21 @@
+{
+  "update_id": 202413409,
+  "channel_post": {
+    "message_id": 2530,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047422,
+    "text": "ASSUNZIONE IMPEGNO DI SPESA PER I VARI PAGAMENTI IMPOSTA DI REGISTRO PER I CONTRATTI DI ASSEGNAZIONE IMMOBILI AD USO DIVERSO DALL'ABITAZIONE - ANNO 2018 - \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691443",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 156,
+        "length": 92
+      }
+    ]
+  }
+}

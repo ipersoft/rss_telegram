@@ -1,0 +1,21 @@
+{
+  "update_id": 202413411,
+  "channel_post": {
+    "message_id": 2532,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047427,
+    "text": "IMPEGNO DI SPESA PER RIMBORSO ONERI DATORI DI LAVORO EX ART. 80 TUEL € 447,61 AFAVORE DI TRENORD SRL PER EX CONSIGLIERE COMUNALE ALONGI GIOVANNI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691447",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 146,
+        "length": 92
+      }
+    ]
+  }
+}

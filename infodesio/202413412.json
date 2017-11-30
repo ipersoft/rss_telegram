@@ -1,0 +1,21 @@
+{
+  "update_id": 202413412,
+  "channel_post": {
+    "message_id": 2533,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047428,
+    "text": "IMPEGNO DI SPESA PER IMPOSTA DI REGISTRO SENTENZA CIVILE CORTE D’APPELLO DI MILANO N. 3051/2015 - € 217,50 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691449",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 108,
+        "length": 92
+      }
+    ]
+  }
+}

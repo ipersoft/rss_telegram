@@ -1,0 +1,21 @@
+{
+  "update_id": 202413407,
+  "channel_post": {
+    "message_id": 2528,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047420,
+    "text": "INCARICO PER L’ESECUZIONE IN HOUSE DI UN INTERVENTO FORMATIVO IN MATERIA DI SICUREZZA E SALUTE SUI LUOGHI DI LAVORO AI SENSI DEL D.LGS. 81/2008 E S.M.I. - ADDESTRAMENTO TEORICO-PRATICO PER I VOLONTARI DEL VERDE – IMPEGNO DI SPESA TOTALE € 488,00 – (CIG: Z3F2104E2C). \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691439",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 268,
+        "length": 92
+      }
+    ]
+  }
+}

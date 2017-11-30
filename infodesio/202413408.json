@@ -1,0 +1,21 @@
+{
+  "update_id": 202413408,
+  "channel_post": {
+    "message_id": 2529,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047421,
+    "text": "ACCORDO DI COLLABORAZIONE TRA I COMUNI DI DESIO, LISSONE E MUGGIO’ PER IL POTENZIAMENTO DEI COMANDI E LA GESTIONE ASSOCIATA DEL SERVIZIO SERALE DI POLIZIA LOCALE – ATTIVITA’ RESE NEL COMUNE DI LISSONE NEL 2017 IN OCCASIONI DIVERSE – INTEGRAZIONE ACCERTAMENTO IN ENTRATA E IMPEGNI DI SPESA (€8.564,19). \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691441",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 303,
+        "length": 92
+      }
+    ]
+  }
+}

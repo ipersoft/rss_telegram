@@ -1,0 +1,21 @@
+{
+  "update_id": 202413401,
+  "channel_post": {
+    "message_id": 2522,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047415,
+    "text": "RINNOVO DEL CONTRATTO DI SPONSORIZZAZIONE TECNICA PER LA MANUTENZIONE DELLA ROTATORIA STRADALE POSTA ALL’INCROCIO TRA LA VIA FERRAVILLA E LA VIA DI VITTORIO CON L’IMPRESA “LA TEGLIA” - ANNI 2017/2018 – CIG Z51204C202. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691427",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 219,
+        "length": 92
+      }
+    ]
+  }
+}

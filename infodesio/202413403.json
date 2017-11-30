@@ -1,0 +1,26 @@
+{
+  "update_id": 202413403,
+  "channel_post": {
+    "message_id": 2524,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512047417,
+    "text": "RINNOVO DEL CONTRATTO DI SPONSORIZZAZIONE TECNICA PER LA MANUTENZIONE DELLE ROTATORIE STRADALI POSTE TRA LE VIE LOMBARDIA/VOLTA E LOMBARDIA /XXV APRILE CON L’IMPRESA “PIZZERIA IL POETA” - ANNI 2017/2018 – CIG ZDD204C27C. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3691431",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 140,
+        "length": 4
+      },
+      {
+        "type": "url",
+        "offset": 222,
+        "length": 92
+      }
+    ]
+  }
+}
