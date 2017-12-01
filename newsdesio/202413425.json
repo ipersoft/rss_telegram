@@ -1,0 +1,26 @@
+{
+  "update_id": 202413425,
+  "channel_post": {
+    "message_id": 758,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512137677,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-il-pd-forze-di-estrema-destra-una-minaccia-per-la-democrazia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 91
+      }
+    ]
+  }
+}
