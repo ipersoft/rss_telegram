@@ -1,0 +1,21 @@
+{
+  "update_id": 202413423,
+  "channel_post": {
+    "message_id": 756,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512134721,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/monza-al-binario-7-la-seconda-edizione-della-mostra-scatti-di-sport/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 98
+      }
+    ]
+  }
+}

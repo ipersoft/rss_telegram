@@ -1,0 +1,21 @@
+{
+  "update_id": 202413422,
+  "channel_post": {
+    "message_id": 2540,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512133539,
+    "text": "Reddito di Inclusione (ReI) \nCondizioni e modalità per l’erogazione di un beneficio tramite Carta ReI prepagata alle famiglie in condizioni economiche disagiate.\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46302",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 163,
+        "length": 74
+      }
+    ]
+  }
+}
