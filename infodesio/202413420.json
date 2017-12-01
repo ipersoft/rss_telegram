@@ -1,0 +1,21 @@
+{
+  "update_id": 202413420,
+  "channel_post": {
+    "message_id": 2538,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512124507,
+    "text": "Martedì 5 e mercoledì 6 dicembre 2017 sedute straordinarie di Consiglio Comunale \nLe sedute sono convocate per le ore 20.30 \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46292",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 74
+      }
+    ]
+  }
+}
