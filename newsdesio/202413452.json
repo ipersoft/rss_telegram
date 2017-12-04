@@ -1,0 +1,21 @@
+{
+  "update_id": 202413452,
+  "channel_post": {
+    "message_id": 765,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512398794,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/ospedale-di-desio-allanestesia-e-rianimazione-arriva-giuseppe-citerio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 100
+      }
+    ]
+  }
+}
