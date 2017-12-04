@@ -1,0 +1,21 @@
+{
+  "update_id": 202413453,
+  "channel_post": {
+    "message_id": 766,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512402084,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/morosita-incolpevole-regione-rifinanzia-nove-comuni-meritevoli/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 93
+      }
+    ]
+  }
+}
