@@ -1,0 +1,21 @@
+{
+  "update_id": 202413444,
+  "channel_post": {
+    "message_id": 2553,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390659,
+    "text": "INTEGRAZIONE DELL’IMPEGNO DI SPESA PER LA FORNITURA DI CARBURANTE DA AUTOTRAZIONE MEDIANTE FUEL-CARD. EURO 1.000,00 I.V.A COMPRESA. CODICE CIG 6459540509. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698904",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 156,
+        "length": 92
+      }
+    ]
+  }
+}

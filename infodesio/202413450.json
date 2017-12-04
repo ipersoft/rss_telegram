@@ -1,0 +1,21 @@
+{
+  "update_id": 202413450,
+  "channel_post": {
+    "message_id": 2559,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390668,
+    "text": "SERVIZIO REFEZIONE SCOLASTICA ANNO 2017 - INTEGRAZIONE IMPEGNO DI SPESA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3699039",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 73,
+        "length": 92
+      }
+    ]
+  }
+}

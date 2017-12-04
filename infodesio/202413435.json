@@ -1,0 +1,21 @@
+{
+  "update_id": 202413435,
+  "channel_post": {
+    "message_id": 2544,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390643,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA BALLERIO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698886",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 117,
+        "length": 92
+      }
+    ]
+  }
+}

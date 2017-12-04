@@ -1,0 +1,21 @@
+{
+  "update_id": 202413447,
+  "channel_post": {
+    "message_id": 2556,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390662,
+    "text": "AFFIDAMENTO ALL'AZIENDA SPECIALE CONSORTILE DESIO-BRIANZA DEI SERVIZI RIVOLTI A SOGGETTI DISABILI - INTEGRAZIONE IMPEGNO DI SPESA ANNO 2017 ( EURO 57.050,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698910",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 92
+      }
+    ]
+  }
+}

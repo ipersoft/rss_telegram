@@ -1,0 +1,21 @@
+{
+  "update_id": 202413448,
+  "channel_post": {
+    "message_id": 2557,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390663,
+    "text": "AZIONI DI CONTRASTO AL GIOCO D'AZZARDO PATOLOGICO: PROGETTO \"GASTONE\" - IMPEGNO DI SPESA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698912",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 90,
+        "length": 92
+      }
+    ]
+  }
+}

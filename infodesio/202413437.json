@@ -1,0 +1,21 @@
+{
+  "update_id": 202413437,
+  "channel_post": {
+    "message_id": 2546,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390645,
+    "text": "2^ EMISSIONE 2017 AVVISI DI ACCERTAMENTO IMU PER L'ANNO DI IMPOSTA 2013. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698890",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 74,
+        "length": 92
+      }
+    ]
+  }
+}

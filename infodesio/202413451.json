@@ -1,0 +1,21 @@
+{
+  "update_id": 202413451,
+  "channel_post": {
+    "message_id": 2560,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390669,
+    "text": "BIBLIOTECA CIVICA - ACQUISTO GRIGLIE PER ESPOSIZIONE LIBRI - IMPEGNO DI SPESA DI € 993,86 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3699041",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 91,
+        "length": 92
+      }
+    ]
+  }
+}

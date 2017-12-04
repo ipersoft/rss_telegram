@@ -1,0 +1,21 @@
+{
+  "update_id": 202413439,
+  "channel_post": {
+    "message_id": 2548,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390652,
+    "text": "INTEGRAZIONE DELL’IMPEGNO DI SPESA PER IL SERVIZIO DI MANUTENZIONE E RIPARAZIONE DEGLI AUTOVEICOLI E MEZZI COMUNALI. EURO 2.000,00 I.V.A COMPRESA. CODICE CIG Z7A1C43B56. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698894",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 171,
+        "length": 92
+      }
+    ]
+  }
+}

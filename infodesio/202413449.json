@@ -1,0 +1,21 @@
+{
+  "update_id": 202413449,
+  "channel_post": {
+    "message_id": 2558,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390667,
+    "text": "APPROVAZIONE SCHEMA DI CONVENZIONE QUADRO PER LA FRUIBILITA' TELEMATICA DELLE BANCHE DATI DELL'ISTITUTO NAZIONALE DELLA PREVIDENZA SOCIALE (INPS) AI SENSI DELL'ART. 58 DECRETO LEGISLATIVO 07/03/2005, N. 82 DAL 01/12/2017 AL 30/11/2020 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698914",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 236,
+        "length": 92
+      }
+    ]
+  }
+}

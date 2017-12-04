@@ -1,0 +1,21 @@
+{
+  "update_id": 202413446,
+  "channel_post": {
+    "message_id": 2555,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390661,
+    "text": "ACCORDO TRANSATTIVO CON I SIGG. NOCERA GIUSEPPE, CARLO E LUISA MASOLO, ROSA ANGELA E LUIGI TRABATTONI, COMUNE DI DESIO A SEGUITO DI PROVVEDIMENTO AVANTI LA CORTE DI APPELLO DI MILANO. ASSUNZIONE IMPEGNO DI SPESA PER LE SPETTANZE DA CORRISPONDERE AL SIG. NOCERA GIUSEPPE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698908",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 272,
+        "length": 92
+      }
+    ]
+  }
+}

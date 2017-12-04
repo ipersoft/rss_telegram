@@ -1,0 +1,21 @@
+{
+  "update_id": 202413438,
+  "channel_post": {
+    "message_id": 2547,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512390649,
+    "text": "INTEGRAZIONE IMPEGNI DI SPESA ANNO 2017 RELATIVI ALLE SPESE A CONTATORE DI ENERGIA ELETTRICA, GAS NATURALE, ACQUA POTABILE E TELERISCALDAMENTO (€ 79.300,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3698892",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 158,
+        "length": 92
+      }
+    ]
+  }
+}
