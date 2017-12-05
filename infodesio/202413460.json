@@ -1,0 +1,21 @@
+{
+  "update_id": 202413460,
+  "channel_post": {
+    "message_id": 2564,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512484812,
+    "text": "Lunedì 18 dicembre  scadenza termini versamento a saldo per IMU e TASI  \nScade il 18 dicembre il termine per i contribuenti per effettuare il versamento a saldo  dell’Imposta Municipale Propria (IMU), e della Tassa sui servizi indivisibili   (TASI)\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46345",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 249,
+        "length": 74
+      }
+    ]
+  }
+}
