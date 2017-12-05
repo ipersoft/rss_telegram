@@ -1,0 +1,21 @@
+{
+  "update_id": 202413457,
+  "channel_post": {
+    "message_id": 2562,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512470233,
+    "text": "INTEGRAZIONE DI IMPEGNO PER SPESE POSTALI ANNO 2017 - NEXIVE S.P.A. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3701776",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 69,
+        "length": 92
+      }
+    ]
+  }
+}
