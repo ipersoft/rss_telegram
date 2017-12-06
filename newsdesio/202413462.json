@@ -1,0 +1,21 @@
+{
+  "update_id": 202413462,
+  "channel_post": {
+    "message_id": 771,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512561376,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/cinque-ospedali-brianzoli-sono-bollini-rosa/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 74
+      }
+    ]
+  }
+}
