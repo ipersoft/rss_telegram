@@ -1,0 +1,41 @@
+{
+  "update_id": 202413463,
+  "channel_post": {
+    "message_id": 2565,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512569121,
+    "text": "Comune.di.Desio\n #Desio Iscriviti al canale telegram di #polizialocale  \nricevi sul tuo smartphone a PC informazioni in tempo reale su: modifiche alla viabilità, situazioni di traffico congestionato, emergenze collegate al piano di protezione civile\ne a fenomeni atmosferici \n\nscarica qui la app https://telegram.org/ \nsegui https://t.me/Polizia_Locale_Desio\nhttps://www.facebook.com/103441483073684_1618061438278340",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 56,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 296,
+        "length": 21
+      },
+      {
+        "type": "url",
+        "offset": 325,
+        "length": 33
+      },
+      {
+        "type": "url",
+        "offset": 359,
+        "length": 57
+      }
+    ]
+  }
+}
