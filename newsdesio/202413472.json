@@ -1,0 +1,21 @@
+{
+  "update_id": 202413472,
+  "channel_post": {
+    "message_id": 780,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512647894,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/avvelenamento-da-tallio-il-nipote-arrestato-volevo-punire-persone-impure/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 103
+      }
+    ]
+  }
+}
