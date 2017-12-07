@@ -1,0 +1,21 @@
+{
+  "update_id": 202413467,
+  "channel_post": {
+    "message_id": 775,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512635243,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/tallio-arrestato-nipote.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 61
+      }
+    ]
+  }
+}
