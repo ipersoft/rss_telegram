@@ -1,0 +1,21 @@
+{
+  "update_id": 202413475,
+  "channel_post": {
+    "message_id": 783,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512663197,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/atletica-runner-brianzolo-squalificato-perche-corre-con-il-passeggino/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 100
+      }
+    ]
+  }
+}
