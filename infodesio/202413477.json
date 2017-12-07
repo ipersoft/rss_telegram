@@ -1,0 +1,31 @@
+{
+  "update_id": 202413477,
+  "channel_post": {
+    "message_id": 2567,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512669498,
+    "text": "Comune.di.Desio\n Notizie in evidenza dal nostro sito www.comune.desio.mb.it \n- Campus Natalizio gratuito per i bambini delle scuole primarie\n- Reddito di Inclusione (ReI) \n- Rifiuti: arriva il Sacco Blu\n- Natale a Desio 2017, tutti gli appuntamenti\n- Parcheggi in zona Stazione. Tutte le informazioni e i moduli per chiedere o rinnovare i pass.\n- Sgombero neve: le regole da seguire\n\nhttps://www.comune.desio.mb.it/servizi/notizie/notizie_homepage.aspx\nhttps://www.facebook.com/103441483073684_1619239888160495",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 53,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 384,
+        "length": 68
+      },
+      {
+        "type": "url",
+        "offset": 453,
+        "length": 57
+      }
+    ]
+  }
+}

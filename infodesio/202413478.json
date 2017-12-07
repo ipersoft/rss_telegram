@@ -1,0 +1,26 @@
+{
+  "update_id": 202413478,
+  "channel_post": {
+    "message_id": 2568,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512669499,
+    "text": "Comune.di.Desio\n La pista di pattinaggio in Piazza Conciliazione per il #nataledesio2017 (ph. Betty Hope)\nhttps://www.facebook.com/103441483073684_1619250601492757",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 72,
+        "length": 16
+      },
+      {
+        "type": "url",
+        "offset": 106,
+        "length": 57
+      }
+    ]
+  }
+}

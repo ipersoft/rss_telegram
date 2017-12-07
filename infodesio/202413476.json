@@ -1,0 +1,21 @@
+{
+  "update_id": 202413476,
+  "channel_post": {
+    "message_id": 2566,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512667841,
+    "text": "Campus Natalizio gratuito per i bambini delle scuole primarie \nNel periodo di chiusura delle scuole per le festività natalizie, l'ufficio di Piano propone attività di supporto compiti di gruppo e spazi educativi per i bambini e le bambine della Scuola Primaria.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46366",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 262,
+        "length": 74
+      }
+    ]
+  }
+}
