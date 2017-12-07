@@ -1,0 +1,26 @@
+{
+  "update_id": 202413473,
+  "channel_post": {
+    "message_id": 781,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512657260,
+    "text": "Jobsnews.it\nhttp://www.jobsnews.it/2017/12/voleva-sterminare-lintera-famiglia-risolto-il-giallo-del-tallio-arrestato-il-nipote-delle-vittime/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 12,
+        "length": 129
+      }
+    ]
+  }
+}
