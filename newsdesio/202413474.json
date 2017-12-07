@@ -1,0 +1,21 @@
+{
+  "update_id": 202413474,
+  "channel_post": {
+    "message_id": 782,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512659690,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/unieuro-assunzioni-in-corso-per-lavorare-tra-la-tecnologia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 89
+      }
+    ]
+  }
+}
