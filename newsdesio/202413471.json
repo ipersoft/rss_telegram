@@ -1,0 +1,21 @@
+{
+  "update_id": 202413471,
+  "channel_post": {
+    "message_id": 779,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512644884,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/iovedodicorsa-lincontro-di-marco-olmo-a-meda-e-stato-un-successo/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 95
+      }
+    ]
+  }
+}
