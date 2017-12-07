@@ -1,0 +1,36 @@
+{
+  "update_id": 202413479,
+  "channel_post": {
+    "message_id": 2569,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512683890,
+    "text": "Comune.di.Desio\n #Desio #Natale: Campus Natalizio gratuito per i bambini delle scuole primarie.\nNel periodo di chiusura delle scuole per le festività natalizie, l'ufficio di Piano propone attività di supporto compiti di gruppo e spazi educativi per i bambini e le bambine della Scuola Primaria. \n\nhttps://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46366\nhttps://www.facebook.com/103441483073684_1619230768161407",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 297,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 373,
+        "length": 57
+      }
+    ]
+  }
+}
