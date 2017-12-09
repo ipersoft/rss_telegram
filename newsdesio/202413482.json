@@ -1,0 +1,26 @@
+{
+  "update_id": 202413482,
+  "channel_post": {
+    "message_id": 786,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512815961,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-colto-da-infarto-viene-salvato-in-extremis-dal-118/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 81
+      }
+    ]
+  }
+}
