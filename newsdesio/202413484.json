@@ -1,0 +1,21 @@
+{
+  "update_id": 202413484,
+  "channel_post": {
+    "message_id": 788,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1512943715,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/terza-categoria-il-tabellino-di-giussano-aurora-desio-1922-23075",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 104
+      }
+    ]
+  }
+}
