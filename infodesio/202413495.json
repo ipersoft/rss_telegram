@@ -1,0 +1,21 @@
+{
+  "update_id": 202413495,
+  "channel_post": {
+    "message_id": 2578,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995447,
+    "text": "REALIZZAZIONE DI UN SISTEMA DI COMUNICAZIONE FONIA E TRASMISSIONE DATI – VOIP MEDIANTE ADESIONE ALL’ACCORDO QUADRO CONSIP S.P.A. “CENTRALI TELEFONICHE 7”. EURO 101.594,40 I.V.A. COMPRESA. CODICE CIG 729967498A. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713846",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 212,
+        "length": 92
+      }
+    ]
+  }
+}

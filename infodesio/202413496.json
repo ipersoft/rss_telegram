@@ -1,0 +1,21 @@
+{
+  "update_id": 202413496,
+  "channel_post": {
+    "message_id": 2579,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995448,
+    "text": "QUOTA DIRITTI DI NOTIFICA DA CORRISPONDERE AI MESSI COMUNALI.ANNO 2016. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713848",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 73,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413497,
+  "channel_post": {
+    "message_id": 2580,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995452,
+    "text": "INTEGRAZIONE IMPEGNI SPESA DI PERSONALE - BILANCI 2017 E 2018 - CONSEGUENTI A VARIAZIONI DI BILANCIO DIVERSE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713850",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 111,
+        "length": 92
+      }
+    ]
+  }
+}

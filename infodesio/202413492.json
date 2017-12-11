@@ -1,0 +1,21 @@
+{
+  "update_id": 202413492,
+  "channel_post": {
+    "message_id": 2575,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995444,
+    "text": "IMPEGNO DI SPESA PER LA FORNITURA DI BANDIERE DA ESTERNO PER PENNONI E ASTE MEDIANTE RICORSO AL MEPA. EURO 1.193,16 I.V.A. COMPRESA. CODICE CIG Z3F2121CF4. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713838",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 157,
+        "length": 92
+      }
+    ]
+  }
+}

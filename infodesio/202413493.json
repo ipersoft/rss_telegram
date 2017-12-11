@@ -1,0 +1,21 @@
+{
+  "update_id": 202413493,
+  "channel_post": {
+    "message_id": 2576,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995445,
+    "text": "NOMINA COMMISSIONE DI GARA PER L’AFFIDAMENTO DELLA FORNITURA, INSTALLAZIONE, CONFIGURAZIONE, FORMAZIONE, MIGRAZIONE DATI ED AVVIO IN ESERCIZIO DI UN SISTEMA SOFTWARE GESTIONALE INCLUSI I SERVIZI DI ASSISTENZA, AGGIORNAMENTO E MANUTENZIONE PER 5 ANNI. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713842",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 252,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413498,
+  "channel_post": {
+    "message_id": 2581,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995453,
+    "text": "SERVIZIO DI IGIENE URBANA, RACCOLTA RIFIUTI E SPAZZAMENTO STRADE AFFIDATO, IN REGIME DI PROROGA, A GELSIA AMBIENTE SRL – ANNO 2017. IMPEGNO DI SPESA PER INTERVENTI A CHIAMATA PER RIFIUTI ABBANDONATI SUL TERRITORIO COMUNALE. € 41.000,00 IVA COMPRESA - CIG:ZD820FF407 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713953",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 267,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413494,
+  "channel_post": {
+    "message_id": 2577,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512995446,
+    "text": "RENDICONTO DELLE SPESE ECONOMALI SOSTENUTE DAL 01.10.2017 AL 30.11.2017. CHIUSURA ANTICIPATA DEL IV TRIMESTRE 2017. EURO 3.275,16.- I.V.A. COMPRESA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713844",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 150,
+        "length": 92
+      }
+    ]
+  }
+}
