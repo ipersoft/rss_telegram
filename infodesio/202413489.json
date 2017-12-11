@@ -1,0 +1,21 @@
+{
+  "update_id": 202413489,
+  "channel_post": {
+    "message_id": 2572,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1512991850,
+    "text": "ORDINANZA A CARATTERE TEMPORANEA DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA MILANO - PROROGA VALIDITA' - \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3713435",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 151,
+        "length": 92
+      }
+    ]
+  }
+}
