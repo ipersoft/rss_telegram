@@ -1,0 +1,21 @@
+{
+  "update_id": 202413505,
+  "channel_post": {
+    "message_id": 793,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513076046,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/lentate-camionista-legato-nel-suo-mezzo-indagini-in-corso/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 88
+      }
+    ]
+  }
+}

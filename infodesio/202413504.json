@@ -1,0 +1,21 @@
+{
+  "update_id": 202413504,
+  "channel_post": {
+    "message_id": 2585,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513075584,
+    "text": "Comune.di.Desio\n Sabato 16 dicembre 2017 \nLe associazioni desiane vi aspettano in Piazza Don Giussani\ndalle ore 14.30 per il tradizionale scambio degli auguri natalizi\n\nAllieteranno il pomeriggio il CORO A.N.A. NICOLAJEWSKA\ndi Desio e la FANFARA DEI BERSAGLIERI DON FELICE COZZI\n\nDurante la manifestazione verranno offerte patatine fritte\ne tante altre leccornie\n\n[Le offerte saranno devolute ad una Associazione desiana a sostegno del suo progetto]\nhttps://www.facebook.com/103441483073684_149455652445007",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 450,
+        "length": 56
+      }
+    ]
+  }
+}
