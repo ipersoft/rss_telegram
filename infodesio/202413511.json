@@ -1,0 +1,21 @@
+{
+  "update_id": 202413511,
+  "channel_post": {
+    "message_id": 2589,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513095909,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN CORSO ITALIA IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3718977",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 117,
+        "length": 92
+      }
+    ]
+  }
+}

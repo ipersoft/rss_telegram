@@ -1,0 +1,21 @@
+{
+  "update_id": 202413512,
+  "channel_post": {
+    "message_id": 2590,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513095910,
+    "text": "RETE DEI GIARDINI STORICI DEL NORD - MILANO E BRIANZA. APPROVAZIONE IMPEGNO DI SPESA PER QUOTA ASSOCIATIVA ANNUALE 2017 (€ 2.500,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3718979",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 134,
+        "length": 92
+      }
+    ]
+  }
+}

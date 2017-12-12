@@ -1,0 +1,21 @@
+{
+  "update_id": 202413509,
+  "channel_post": {
+    "message_id": 2587,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513095907,
+    "text": "“PETRAZZUOLO RAFFAELE”. C.F. PTRRFL74M24F205O. ABUSIVA ATTIVAZIONE DELL’ATTIVITÀ DI “MEDIAZIONE CREDITIZIA, FINANZIAMENTI, PRESTITI, CESSIONE QUINTO, MUTUI” UBICATA IN VIA GARIBALDI, 271. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3718973",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 189,
+        "length": 92
+      }
+    ]
+  }
+}
