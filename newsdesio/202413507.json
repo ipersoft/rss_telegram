@@ -1,0 +1,21 @@
+{
+  "update_id": 202413507,
+  "channel_post": {
+    "message_id": 795,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513093740,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/gatto-panceri-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 56
+      }
+    ]
+  }
+}
