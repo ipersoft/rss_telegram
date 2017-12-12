@@ -1,0 +1,21 @@
+{
+  "update_id": 202413501,
+  "channel_post": {
+    "message_id": 2583,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513072846,
+    "text": "ORDINANZA DI CONFISCA ED AUTORIZZAZIONE ALL’ALIENAZIONE - ART. 27, COMMA 5 L.R. N. 6/2010 -. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3716328",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 94,
+        "length": 92
+      }
+    ]
+  }
+}

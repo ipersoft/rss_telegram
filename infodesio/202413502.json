@@ -1,0 +1,21 @@
+{
+  "update_id": 202413502,
+  "channel_post": {
+    "message_id": 2584,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513073132,
+    "text": "Natale con le Associazioni di Desio \nSabato 16 dicembre in Piazza Don Giussani a partire dalle ore 14.30 le associazioni di Desio invitano la cittadinanza al tradizionale di scambio di auguri\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46383",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 192,
+        "length": 74
+      }
+    ]
+  }
+}
