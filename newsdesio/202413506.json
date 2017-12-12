@@ -1,0 +1,21 @@
+{
+  "update_id": 202413506,
+  "channel_post": {
+    "message_id": 794,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513090706,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/video/armi-box-bovisio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 52
+      }
+    ]
+  }
+}
