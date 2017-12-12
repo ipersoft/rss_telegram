@@ -1,0 +1,21 @@
+{
+  "update_id": 202413525,
+  "channel_post": {
+    "message_id": 2603,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110324,
+    "text": "ORDINE DEL GIORNO PRESENTATO DA FORZA ITALIA AD OGGETTO: \"LOTTA ALL'EVASIONE FISCALE\" \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719161",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 87,
+        "length": 92
+      }
+    ]
+  }
+}

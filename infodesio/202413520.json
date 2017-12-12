@@ -1,0 +1,21 @@
+{
+  "update_id": 202413520,
+  "channel_post": {
+    "message_id": 2598,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110320,
+    "text": "ULTERIORE INTEGRAZIONE IMPEGNO DI SPESA PER VERSAMENTO DIRITTI CARTE D'IDENTITA' ELETTRONICHE ALLO STATO - ANNO 2017 ( € 6.000,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719021",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 132,
+        "length": 92
+      }
+    ]
+  }
+}

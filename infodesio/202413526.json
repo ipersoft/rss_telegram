@@ -1,0 +1,21 @@
+{
+  "update_id": 202413526,
+  "channel_post": {
+    "message_id": 2604,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110325,
+    "text": "ORDINE DEL GIORNO PRESENTATO DA FORZA ITALIA AD OGGETTO: \"PROGETTO ALTERNANZA SCUOLA LAVORO\" \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719163",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 94,
+        "length": 92
+      }
+    ]
+  }
+}

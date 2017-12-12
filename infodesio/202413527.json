@@ -1,0 +1,21 @@
+{
+  "update_id": 202413527,
+  "channel_post": {
+    "message_id": 2605,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110326,
+    "text": "VERBALE DI PRESENTAZIONE DEL BILANCIO DI PREVISIONE 2018/2020 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719165",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 63,
+        "length": 92
+      }
+    ]
+  }
+}

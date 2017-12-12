@@ -1,0 +1,21 @@
+{
+  "update_id": 202413530,
+  "channel_post": {
+    "message_id": 2608,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110331,
+    "text": "DETERMINAZIONE PREZZI DELLE AREE DA CEDERE IN PROPRIETÀ O IN DIRITTO DI SUPERFICIE DA DESTINARE A RESIDENZA O AD ATTIVITÀ PRODUTTIVA AI SENSI DELLE LEGGI N. 167/1962, N. 865/1971, N. 457/1978, PER L'ANNO 2018. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719172",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 211,
+        "length": 92
+      }
+    ]
+  }
+}

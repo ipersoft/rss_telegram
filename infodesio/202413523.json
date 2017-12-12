@@ -1,0 +1,21 @@
+{
+  "update_id": 202413523,
+  "channel_post": {
+    "message_id": 2601,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110322,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA DI VITTORIO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719027",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 120,
+        "length": 92
+      }
+    ]
+  }
+}

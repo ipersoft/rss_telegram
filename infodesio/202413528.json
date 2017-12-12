@@ -1,0 +1,21 @@
+{
+  "update_id": 202413528,
+  "channel_post": {
+    "message_id": 2606,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110330,
+    "text": "MODIFICA REGOLAMENTO PER LA DISCIPLINA DELL’IMPOSTA UNICA COMUNALE (IUC) RELATIVAMENTE AD AGEVOLAZIONE TARI PER LA RIDUZIONE DELLO SPRECO ALIMENTARE. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719167",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 151,
+        "length": 92
+      }
+    ]
+  }
+}

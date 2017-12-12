@@ -1,0 +1,21 @@
+{
+  "update_id": 202413519,
+  "channel_post": {
+    "message_id": 2597,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513110317,
+    "text": "APPROVAZIONE DEL VERBALE DI GARA DI NON AGGIUDICAZIONE DELL'ASTA PUBBLICA PER ALIENAZIONE MOTOCICLO HONDA TRANSALP TARGATO BF87860 DI PROPRIETA' COMUNALE. INDIZIONE DI NUOVA GARA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3719019",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 181,
+        "length": 92
+      }
+    ]
+  }
+}
