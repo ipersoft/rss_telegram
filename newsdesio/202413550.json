@@ -1,0 +1,21 @@
+{
+  "update_id": 202413550,
+  "channel_post": {
+    "message_id": 797,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513171177,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/monza-assistenza-domiciliare-malati-sissi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 65
+      }
+    ]
+  }
+}

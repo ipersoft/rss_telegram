@@ -1,0 +1,21 @@
+{
+  "update_id": 202413546,
+  "channel_post": {
+    "message_id": 2623,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513170082,
+    "text": "SERVIZIO DI SUPPORTO ALLA GESTIONE DELLA COMUNICAZIONE SISTEMA VILLE GENTILIZIE LOMBARDE ANNI 2017/2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721928",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 105,
+        "length": 92
+      }
+    ]
+  }
+}

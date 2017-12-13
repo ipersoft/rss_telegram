@@ -1,0 +1,21 @@
+{
+  "update_id": 202413544,
+  "channel_post": {
+    "message_id": 2621,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513170080,
+    "text": "IMPEGNO DI SPESA PER IL FINANZIAMENTO DI N. 2 PROGETTI DI HOUSING SOCIALE A VALERE SUI FONDI DISPONIBILI EX DGR N. 5450 DEL 25/07/2016 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721924",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 136,
+        "length": 92
+      }
+    ]
+  }
+}

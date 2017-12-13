@@ -1,0 +1,21 @@
+{
+  "update_id": 202413545,
+  "channel_post": {
+    "message_id": 2622,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513170081,
+    "text": "EROGAZIONE CONTRIBUTI ECONOMICI A SOGGETTI E NUCLEI FAMILIARI IN DISAGIO SOCIO ECONOMICO - INTEGRAZIONE IMPEGNO DI SPESA ANNO 2017 - € 5.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721926",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 145,
+        "length": 92
+      }
+    ]
+  }
+}
