@@ -1,0 +1,21 @@
+{
+  "update_id": 202413551,
+  "channel_post": {
+    "message_id": 2627,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513172119,
+    "text": "Truffe, raggiri e sicurezza residenziale \nDue incontri pubblici con la Polizia Locale, dedicati ai cittadini e alle loro domande\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46416",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 129,
+        "length": 74
+      }
+    ]
+  }
+}
