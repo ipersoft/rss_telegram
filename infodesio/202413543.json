@@ -1,0 +1,21 @@
+{
+  "update_id": 202413543,
+  "channel_post": {
+    "message_id": 2620,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513168251,
+    "text": "ANTICIPAZIONE DEL FONDO ECONOMALE PER L’ESERCIZIO FINANZIARIO 2018. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721743",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 69,
+        "length": 92
+      }
+    ]
+  }
+}

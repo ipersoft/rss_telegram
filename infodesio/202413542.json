@@ -1,0 +1,21 @@
+{
+  "update_id": 202413542,
+  "channel_post": {
+    "message_id": 2619,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513168250,
+    "text": "IMPEGNO PER LE SPESE ECONOMALI DA SOSTENERE NELL’ESERCIZIO FINANZIARIO 2018. EURO 24.500,00 I.V.A. COMPRESA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721741",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 110,
+        "length": 92
+      }
+    ]
+  }
+}
