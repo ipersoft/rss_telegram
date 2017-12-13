@@ -1,0 +1,21 @@
+{
+  "update_id": 202413541,
+  "channel_post": {
+    "message_id": 2618,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513166740,
+    "text": "Turni distributori di carburante anno 2018 \ncalendario dei turni di apertura festiva e domenicale e dei turni di chiusura per ferie estive degli impianti stradali di distribuzione carburanti per l'anno 2018.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 208,
+        "length": 74
+      }
+    ]
+  }
+}
