@@ -1,0 +1,21 @@
+{
+  "update_id": 202413533,
+  "channel_post": {
+    "message_id": 2610,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513165229,
+    "text": "INTEGRAZIONE IMPEGNO DI SPESA DI EURO 20.000,00 PER LA CONCESSIONE DI VOUCHER SOCIALI PER L’ACQUISTO DEL SERVIZIO DI ASSISTENZA DOMICILIARE DESTINATO AD ANZIANI, PRESSO SOGGETTI PROFIT E NON PROFIT ACCREDITATI - ANNO 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721225",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 223,
+        "length": 92
+      }
+    ]
+  }
+}

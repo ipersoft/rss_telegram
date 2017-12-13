@@ -1,0 +1,21 @@
+{
+  "update_id": 202413537,
+  "channel_post": {
+    "message_id": 2614,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513165232,
+    "text": "PROGETTO “DIADE FASE 2.0 – DEPLOYMENT OF INTERVENTION AGAINST DOMESTIC VIOLENCE”: COFINANZIAMENTO AMBITO TERRITORIALE DI DESIO SECONDO SEMESTRE 2017 (IMPEGNO EURO 3.246,80) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721233",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 174,
+        "length": 92
+      }
+    ]
+  }
+}

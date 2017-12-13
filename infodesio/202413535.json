@@ -1,0 +1,21 @@
+{
+  "update_id": 202413535,
+  "channel_post": {
+    "message_id": 2612,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513165231,
+    "text": "ORTI PER ANZIANI: ASSEGNAZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721229",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 32,
+        "length": 92
+      }
+    ]
+  }
+}

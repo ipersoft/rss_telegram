@@ -1,0 +1,21 @@
+{
+  "update_id": 202413534,
+  "channel_post": {
+    "message_id": 2611,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513165230,
+    "text": "AFFIDO MINORI E FAMIGLIE ANNO 2017 - INTEGRAZIONE IMPEGNO DI SPESA FINO AL 31 DICEMBRE 2017 - € 5.446,50 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721227",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 106,
+        "length": 92
+      }
+    ]
+  }
+}

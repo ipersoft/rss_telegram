@@ -1,0 +1,21 @@
+{
+  "update_id": 202413540,
+  "channel_post": {
+    "message_id": 2617,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513165235,
+    "text": "PROROGA FORNITURA GAS NATURALE VIA PARTIGIANI D’ITALIA N. 21. CONVENZIONE CONSIP S.P.A. “GAS NATURALE 8 - LOTTO 2” MESE DI GENNAIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721239",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 132,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413536,
+  "channel_post": {
+    "message_id": 2613,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513165232,
+    "text": "SERVIZIO DI PROTEZIONE GIURIDICA DI AMBITO GESTITO DALL'AZIENDA SPECIALE CONSORTILE \"CONSORZIO DESIO-BRIANZA\" – IMPEGNO DI SPESA FASE PROPEDEUTICA ANNO 2017 E FASE GESTIONALE ANNO 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3721231",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 186,
+        "length": 92
+      }
+    ]
+  }
+}
