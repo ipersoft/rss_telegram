@@ -1,0 +1,21 @@
+{
+  "update_id": 202413558,
+  "channel_post": {
+    "message_id": 800,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513255995,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/presa-la-banda-dei-buoni-pasto-furto-per-60-mila-euro-video/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}

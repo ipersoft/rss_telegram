@@ -1,0 +1,21 @@
+{
+  "update_id": 202413556,
+  "channel_post": {
+    "message_id": 2630,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513254810,
+    "text": "D.G.R. 5342 DEL 23/06/2016: MINORI IN COMUNITA’ - ACCERTAMENTO E IMPEGNO DI SPESA RELATIVO AL PERIODO AGOSTO 2016–SETTEMBRE 2017 (EURO 34.299,60) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3725805",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 147,
+        "length": 92
+      }
+    ]
+  }
+}
