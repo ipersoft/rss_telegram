@@ -1,0 +1,21 @@
+{
+  "update_id": 202413579,
+  "channel_post": {
+    "message_id": 2647,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341209,
+    "text": "IMPEGNO DI SPESA PER LE SPESE LIQUIDATE IN SENTENZA NEL PROCEDIMENTO PENALE N. 3183/11 R.G.N.R. - € 2.655,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731171",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 110,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413575,
+  "channel_post": {
+    "message_id": 2643,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341205,
+    "text": "BENEDIZIONE NATALIZIA PRESSO IL PALAZZO MUNICIPALE. IMPEGNO DI SPESA €. 150. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731163",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 78,
+        "length": 92
+      }
+    ]
+  }
+}

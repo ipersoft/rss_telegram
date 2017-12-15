@@ -1,0 +1,21 @@
+{
+  "update_id": 202413570,
+  "channel_post": {
+    "message_id": 2638,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341201,
+    "text": "SCUOLE DELL'INFANZIA PARITARIE - INTEGRAZIONE IMPEGNO DI SPESA 2017 ED IMPEGNO DI SPESA 2018 (€ 605.000) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731153",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 106,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413569,
+  "channel_post": {
+    "message_id": 2637,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341197,
+    "text": "NOMINA COMMISSIONE PER LA VALUTAZIONE DELLE DOMANDE RELATIVE AL BANDO DI ACCREDITAMENTO PER L’EROGAZIONE DI INTERVENTI IN ATTUAZIONE DELLA DGR X/6674 DEL 7 GIUGNO 2017: “PROGRAMMA OPERATIVO REGIONALE PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE – DOPO DI NOI – LEGGE 112/2017” \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731151",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 341,
+        "length": 92
+      }
+    ]
+  }
+}

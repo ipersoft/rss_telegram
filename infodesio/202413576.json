@@ -1,0 +1,21 @@
+{
+  "update_id": 202413576,
+  "channel_post": {
+    "message_id": 2644,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341206,
+    "text": "FORNITURA TRAMITE MEPA DEL RINNOVO LICENZA SISTEMA DI SICUREZZA BACKUP VEEAM –IMPEGNO DI SPESA EURO 1.134,6 – CIG ZD9212777C. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731165",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 127,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413568,
+  "channel_post": {
+    "message_id": 2636,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341197,
+    "text": "S.P.R.A.R. “SISTEMA NAZIONALE DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI” – PROGETTO SPRAR DESIO 2017-2019 (DI CUI AL DECRETO MINISTERO INTERNO 10.08.2016) - ATTIVAZIONE PROCEDURA COMPARATIVA PER SOLI TITOLI PER IL CONFERIMENTO DI INCARICO DI REVISORE CONTABILE INDIPENDENTE MEDIANTE SINTEL \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731149",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 297,
+        "length": 92
+      }
+    ]
+  }
+}

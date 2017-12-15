@@ -1,0 +1,21 @@
+{
+  "update_id": 202413580,
+  "channel_post": {
+    "message_id": 2648,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341213,
+    "text": "D.G.R. N. X/1081 DEL 12.12.2013 CONCILIAZIONE FAMIGLIA/LAVORO – INTEGRAZIONE QUOTA A FAVORE DEL PARTNER PROGETTUALE “CONSORZIO DESIO-BRIANZA” PROGETTO “WELFARE A CONTATTO – WELFARE ARTIGIANO” (IMPEGNO EURO 4.150,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731173",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 217,
+        "length": 92
+      }
+    ]
+  }
+}

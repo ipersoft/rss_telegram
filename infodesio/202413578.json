@@ -1,0 +1,21 @@
+{
+  "update_id": 202413578,
+  "channel_post": {
+    "message_id": 2646,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341208,
+    "text": "ARCHIVIO STORICO COMUNE DI DESIO (A.S.C.D.) - PRESA D’ATTO ATTIVITA’ SVOLTA ANNO 2017 IMPEGNO DI SPESA € 4.700,00 PER RIMBORSO SPESA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731169",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 134,
+        "length": 92
+      }
+    ]
+  }
+}

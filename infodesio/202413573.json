@@ -1,0 +1,21 @@
+{
+  "update_id": 202413573,
+  "channel_post": {
+    "message_id": 2641,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513341204,
+    "text": "IMPEGNO DI SPESA PER LA FORNITURA DI ATTREZZATURE PER LA MANUTENZIONE STRADALE PER IL SERVIZIO LAVORI PUBBLICI MEDIANTE RICORSO AL MEPA. EURO 2.165,50 I.V.A. COMPRESA. CODICE CIG Z5221424D2. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3731159",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 192,
+        "length": 92
+      }
+    ]
+  }
+}
