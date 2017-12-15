@@ -1,0 +1,36 @@
+{
+  "update_id": 202413564,
+  "channel_post": {
+    "message_id": 2632,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513340774,
+    "text": "Comune.di.Desio\n Notizie dal canale Telegram di #polizialocale: lunedì 18 dicembre riapertura al traffico veicolare del sottopasso ferroviario #RFI su via Tagliabue . \n\nUnisciti al canale per ricevere sul tuo smartphone notizie in tempo reale su modifiche alla viabilità, situazioni di traffico congestionato, emergenze collegate al piano di protezione civile e a fenomeni atmosferici https://t.me/Polizia_Locale_Desio\nhttps://www.facebook.com/103441483073684_1626975477386936",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 48,
+        "length": 14
+      },
+      {
+        "type": "hashtag",
+        "offset": 143,
+        "length": 4
+      },
+      {
+        "type": "url",
+        "offset": 385,
+        "length": 33
+      },
+      {
+        "type": "url",
+        "offset": 419,
+        "length": 57
+      }
+    ]
+  }
+}
