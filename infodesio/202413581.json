@@ -1,0 +1,91 @@
+{
+  "update_id": 202413581,
+  "channel_post": {
+    "message_id": 2649,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513346500,
+    "text": "Comune.di.Desio\n #Desio E' uscita la nostra #newsletter settimanale! Se non siete già iscritti potete farlo cliccando a questo link  https://www.comune.desio.mb.it/servizi/newsletter/newsletter_utente_fase01.aspx \nIntanto ecco una selezione di alcune delle notizie di questa edizione: \n\nRifiuti: a gennaio arriva il sacco blu. Prosegue la distribuzione gratuita del nuovo sacco blu e la serie di serate e punti informativi, organizzati dall'Amministrazione comunale insieme a Gelsia Ambiente per informare e accompagnare la cittadinanza a questo cambiamento nella raccolta differenziata cittadina. Scopri online tutti gli appuntamenti e le prossime scadenze https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46140\n\nDal canale Telegram di Polizia Locale: da Lunedì 18 dicembre il sottopasso della Stazione Ferroviaria su Via Tagliabure riapre al traffico veicolare. Ultimati i lavori di messa in sicurezza, RFI ha annunciato la riapertura del passaggio sotto il ponte della Stazione. Segui il canale di Polizia Locale su telegram per questa e altre informazioni in tempo reale sulla viabilità cittadina.https://t.me/Polizia_Locale_Desio\n\nNuova seduta di Consiglio Comunale. Le sedute sono convocate per le ore 20:30 di martedì 19, giovedì 21 e venerdì 22 Dicembre 2017. All'ordine del giorno l'approvazione del Bilancio di Previsione 2018-2020.  Segui la diretta streaming su desiotv. https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46391\n\nParcheggi in zona Stazione. Tutte le informazioni e i moduli per chiedere o rinnovare i pass. https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=42741\n\nAPPUNTAMENTI \n\nNatale a Desio 2017.  Prosegue il  programma degli appuntamenti, culturali, sportivi e per il tempo libero proposti nell'ambito di Culturando e DesiodalVivo, in collaborazione con le associazioni e i commercianti di Desio. Scarica la tua copia! https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46279\n\nIl Natale dei bambini,  in Villa Tittoni domenica 17 dicembre due appuntamenti con ARDEN, proposti dall'Assessorato alla Cultura. Dalle ore 16:00 \" Nelle mie mani con allegria\", racconti, fiabe, filastrocche, e \"Creativamente\", laboratorio natalizio manuale (ingresso libero - gradita prenotazione 0362-392245 - segue merenda). http://www.ardenspazio33.it/s/cc_images/teaserbox_2465249231.jpg?t=1511084105\n\nTruffe, raggiri e sicurezza residenziale. Due incontri pubblici con la Polizia Locale, dedicati ai cittadini e alle loro domande. https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46416\n\nAVVISI E SCADENZE \n\nTurni distributori di carburante anno 2017. Online l'elenco dei distributori a Desio e l'indicazione dei turni per le chiusure festive. https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=42909\n\nAvviso d'asta pubblica alienazione di motociclo honda transalp xl600v di proprieta' comunale. https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46423\n\nLunedì 18 dicembre scadenza termini versamento a saldo per IMU e TASI. Scade il 18 dicembre il termine per i contribuenti per effettuare il versamento a saldo dell’Imposta Municipale Propria (IMU), e della Tassa sui servizi indivisibili (TASI) . https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46345\n\nDal 16 gennaio 2018 sono aperte le iscrizioni alle scuole primarie per l'anno scolastico 2018-2019. La scadenza per le iscrizioni è fissata al 6 Febbraio 2018. https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46314\nhttps://www.facebook.com/103441483073684_1627069120710905",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 44,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 133,
+        "length": 79
+      },
+      {
+        "type": "url",
+        "offset": 658,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 1130,
+        "length": 25
+      },
+      {
+        "type": "url",
+        "offset": 1404,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 1575,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 1912,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 2317,
+        "length": 77
+      },
+      {
+        "type": "url",
+        "offset": 2526,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 2759,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 2930,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 3253,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 3490,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 3566,
+        "length": 57
+      }
+    ]
+  }
+}
