@@ -1,0 +1,21 @@
+{
+  "update_id": 202413586,
+  "channel_post": {
+    "message_id": 809,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513502166,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/desio-ecco-gli-investimenti-per-il-prossiomo-triennio-quasi-2mln-di-euro/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 103
+      }
+    ]
+  }
+}
