@@ -1,0 +1,21 @@
+{
+  "update_id": 202413587,
+  "channel_post": {
+    "message_id": 810,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513530789,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/prima-categoria-il-tabellino-di-castello-vighizzolo-desio-23131",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 103
+      }
+    ]
+  }
+}
