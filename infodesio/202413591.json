@@ -1,0 +1,21 @@
+{
+  "update_id": 202413591,
+  "channel_post": {
+    "message_id": 2651,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513587672,
+    "text": "desiocittaonline\n Un nuovo percorso per la gestione della Villa Tittoni. Lo ha disegnato la Giunta con una delibera approvata nella seduta di giovedì 14 dicembre che revoca la procedura avviata mediante l'avviso di ricerca di sponsorizzazione pubblicato lo scorso 11 agosto.\n\nPertanto, sulla base del Codice dei beni culturali e del nuovo Codice del terzo settore, l’Amministrazione ha deciso di interrompere l’iter per individuare uno sponsor e aprire il percorso che porterà, nelle prossime settimane, a un nuovo avviso per una gestione integrata pubblico – privato.\n\n«L’obiettivo – spiega l’assessore alla Cultura Cristina Redi – è ridurre, progressivamente, tutti i costi a carico del Comune. Il nuovo bando, che avrà una durata biennale, ci consentirà di tagliare alcune “voci” a carico del Bilancio comunale, come utenze, apertura Villa e pulizie. L’ultimo passaggio, tra due anni, sarà arrivare a una gestione di Vitta Tittoni a costo zero per il Comune».\nhttps://www.facebook.com/152776352012040_156442911645384",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 963,
+        "length": 56
+      }
+    ]
+  }
+}
