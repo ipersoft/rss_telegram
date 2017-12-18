@@ -1,0 +1,21 @@
+{
+  "update_id": 202413593,
+  "channel_post": {
+    "message_id": 2652,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513593990,
+    "text": "desiocittaonline\n Si è concluso venerdì scorso, alla «Casa delle Donne» di via Lampugnani, il percorso «Neo mamme en plein air» promosso Consultori di Desio e Cesano Maderno dell’«ASST Monza».\n\n«Un progetto che nasce per mantenere alta l’attenzione delle neo mamme su se stesse e sui bambini e per favorire lo sviluppo di reti sociali di sostegno», ha spiegato Paola Buonvicino, assessore alla Persona e alla famiglia, intervenuta all’ultimo incontro della sessione «autunno 2017».\n\nUna ventina le mamme che hanno partecipato con i loro piccoli di età compresa tra gli zero e i diciotto mesi.\n\nIl progetto, che nasce dall'esperienza dei «Gruppi di Cammino», attivi sul territorio brianzolo da due anni, è stato anche l’occasione per presentare gli interventi e i servizi offerti dai Consultori dell’«ATS Brianza» a favore delle donne e delle famiglie.\nhttps://www.facebook.com/152776352012040_156458964977112",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 852,
+        "length": 56
+      }
+    ]
+  }
+}

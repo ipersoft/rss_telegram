@@ -1,0 +1,21 @@
+{
+  "update_id": 202413592,
+  "channel_post": {
+    "message_id": 814,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513593388,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/tragedia-sul-grignone-escursionista-brianzolo-perde-la-vita/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}
