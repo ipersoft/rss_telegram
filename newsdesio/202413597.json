@@ -1,0 +1,21 @@
+{
+  "update_id": 202413597,
+  "channel_post": {
+    "message_id": 816,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513618294,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/salta-la-fusione-cem-bea-m5s-esulta-il-pd-unoccasione-sprecata/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 93
+      }
+    ]
+  }
+}
