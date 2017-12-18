@@ -1,0 +1,21 @@
+{
+  "update_id": 202413590,
+  "channel_post": {
+    "message_id": 813,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513585450,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/morto-andrea-ponti-escursionista-bovisio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 78
+      }
+    ]
+  }
+}
