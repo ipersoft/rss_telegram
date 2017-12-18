@@ -1,0 +1,21 @@
+{
+  "update_id": 202413595,
+  "channel_post": {
+    "message_id": 2653,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513603876,
+    "text": "desiocittaonline\n La notizia è di pochi giorni fa. Un’anziana, a Desio, è stata truffata da finti tecnici con la scusa dell’acqua contaminata da mercurio. I fenomeni dei «truffatori a domicilio», quelli che prendono di mira soprattutto gli anziani, preoccupano. \n\nPer questo la Polizia Locale ha promosso una serie di incontri sul territorio per spiegare agli anziani come evitare di cadere nelle trappole dei truffatori. \n\n«L’obiettivo di questa iniziativa è difendere tutti i soggetti, soprattutto quelli più “esposti”, a cominciare dagli anziani, spiega l’assessore al Controllo del territorio Jennifer Moro. Chi è raggirato, soprattutto in casa, è doppiamente vittima perché subisce un danno economico, ma perché può anche andare incontro a forme di depressione. E la comunicazione è l’unica arma che abbiamo per prevenire il fenomeno. Le persone che subiscono una truffa sono vittime deboli che, spesso, per paura o vergogna non denunciano. Per questo dobbiamo lavorare sull’informazione». \n\nDue gli appuntamenti in programma, entrambi alle ore 20: stasera, lunedì 18 dicembre, nel salone della Parrocchia San Giovanni Battista (via Di Vittorio, 18) e martedì 19 dicembre alle Scuole elementari «San Giorgio» (via Sant’Apollinare).\nhttps://www.facebook.com/152776352012040_156498448306497",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1237,
+        "length": 56
+      }
+    ]
+  }
+}

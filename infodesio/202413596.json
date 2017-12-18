@@ -1,0 +1,21 @@
+{
+  "update_id": 202413596,
+  "channel_post": {
+    "message_id": 2654,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513604778,
+    "text": "desiocittaonline\n Qui potete scaricare il numero di dicembre di «DesioCittà», il periodico dell'Amministrazione comunale  ↘️\nhttps://www.facebook.com/152776352012040_156501634972845",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 56
+      }
+    ]
+  }
+}
