@@ -1,0 +1,21 @@
+{
+  "update_id": 202413594,
+  "channel_post": {
+    "message_id": 815,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513599283,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/truffa-acqua-mercurio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 59
+      }
+    ]
+  }
+}
