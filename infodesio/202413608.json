@@ -1,0 +1,21 @@
+{
+  "update_id": 202413608,
+  "channel_post": {
+    "message_id": 2664,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701286,
+    "text": "REGISTRAZIONE TELEMATICA PRESSO L’AGENZIA DELLE ENTRATE DEI CONTRATTI DI APPALTO ROGATI DAL SEGRETARIO GENERALE – VERSAMENTO IMPOSTA DI REGISTRO E IMPOSTA DI BOLLO – INTEGRAZIONE DI ACCERTAMENTO ENTRATA E DI IMPEGNO DI SPESA ANNO 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740525",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 236,
+        "length": 92
+      }
+    ]
+  }
+}

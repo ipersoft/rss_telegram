@@ -1,0 +1,21 @@
+{
+  "update_id": 202413613,
+  "channel_post": {
+    "message_id": 2669,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701290,
+    "text": "SVINCOLO POLIZZA FIDEJUSSORIA A GARANZIA DEGLI OBBLIGHI CONTRATTUALI DEL CONCESSIONARIO DEL SERVIZIO DI ACCERTAMENTO E RISCOSSIONE DELL'IMPOSTA COMUNALE SULLA PUBBLICITÀ, DEI DIRITTI SULLE PUBBLICHE AFFISSIONI E DELLA TASSA PER L'OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE TRE ESSE ITALIA SRL, VIA CONDOTTO VECCHIO N. 50 – 03019 SUPINO (FR) - CIG 33453920D0 – PERIODO 01.01.2012-31.12.2016. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740616",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 388,
+        "length": 92
+      }
+    ]
+  }
+}

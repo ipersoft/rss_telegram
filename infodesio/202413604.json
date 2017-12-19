@@ -1,0 +1,21 @@
+{
+  "update_id": 202413604,
+  "channel_post": {
+    "message_id": 2660,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701282,
+    "text": "SOSTITUZIONE DEI CONTROSOFFITTI DELL’AUDITORUM PRESSO LA SCUOLA SECONDARIA PERTINI (B/1587 – 1° LOTTO). APPROVAZIONE MODALITA’ APPALTO LAVORI E ASSUNZIONE IMPEGNO DI SPESA (€ 100.000,00). CUP G42B17002800004 – CIG: 7307549C31 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740517",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 227,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413607,
+  "channel_post": {
+    "message_id": 2663,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701285,
+    "text": "AFFIDAMENTO DEL SERVIZIO DI GESTIONE PARZIALE DELL’ITER DELLE SANZIONI AMMINISTRATIVE RELATIVE AGLI ATTI POSTALIZZATI. ULTERIORE IMPEGNO DI SPESA PER €. 7.000,00. CIG Z432143840. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740523",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 180,
+        "length": 92
+      }
+    ]
+  }
+}

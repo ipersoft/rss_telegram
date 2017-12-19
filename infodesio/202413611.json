@@ -1,0 +1,21 @@
+{
+  "update_id": 202413611,
+  "channel_post": {
+    "message_id": 2667,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701288,
+    "text": "SVINCOLO POLIZZE ASSICURATIVE PRESTATE DA ATRADIUS CREDIT INSURANCE N.V. (ORA ATRADIUS CREDITO Y CAUCION S.A. DE SEGUROS Y REASEGUROS) A GARANZIA DEGLI OBBLIGHI ASSUNTI DALLA SOCIETÀ POLO TECNOLOGICO BRIANZA SPA CON LA STIPULA DELLA CONVENZIONE REP. N. 13397/5441 DELL'1 AGOSTO 2007, A ROGITO DOTT.SSA EZILDA MARICONDA, NOTAIO IN MONZA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740531",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 338,
+        "length": 92
+      }
+    ]
+  }
+}

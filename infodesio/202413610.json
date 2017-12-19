@@ -1,0 +1,21 @@
+{
+  "update_id": 202413610,
+  "channel_post": {
+    "message_id": 2666,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701287,
+    "text": "RINNOVO ABBONAMENTO DI ACCESSO AL SERVIZIO BANCHE DATI INFOCERT E CAMERE DI COMMERCIO, “TELEMACO” VIA INTERNET, MODALITA’ BROWSER. IMPEGNO DI SPESA ANNO 2018, DAL 01/01/2018 AL 31/12/18. EURO 2.440,00, IVA COMPRESA. CIG: ZCD2149C41 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740529",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 233,
+        "length": 92
+      }
+    ]
+  }
+}

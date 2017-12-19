@@ -1,0 +1,21 @@
+{
+  "update_id": 202413615,
+  "channel_post": {
+    "message_id": 2671,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701295,
+    "text": "PRESA D'ATTO DEL CONSUNTIVO 2016, DELLE SPESE PREVENTIVATE PER IL PERIODO 01/01/2017-28/02/2018 E PER L'INTERVENTO DI GESTIONE DELLE VALVOLE TERMOSTATICHE, RELATIVI AL \"CONDOMINIO GARIBALDI\" - VIA GARIBALDI 99-101 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740620",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 215,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413612,
+  "channel_post": {
+    "message_id": 2668,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701289,
+    "text": "ASSUNZIONE IMPEGNO DI SPESA PER RIVERSAMENTO ALLO STATO DEI DIRITTI DELLE CARTE D'IDENTITA' ELETTRONICHE - ANNO 2018 ( € 85.000,00) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740614",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 133,
+        "length": 92
+      }
+    ]
+  }
+}

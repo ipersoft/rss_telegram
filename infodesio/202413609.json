@@ -1,0 +1,21 @@
+{
+  "update_id": 202413609,
+  "channel_post": {
+    "message_id": 2665,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513701286,
+    "text": "FORNITURA TRAMITE MERCATO MEPA DI SISTEMI SOFTWARE PER CONTRIBUIRE AD IMPLEMENTARE LE NUOVE MISURE MINIME DI SICUREZZA E ATTREZZATURE INFORMATICHE -DIVERSI FORNITORI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3740527",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 167,
+        "length": 92
+      }
+    ]
+  }
+}
