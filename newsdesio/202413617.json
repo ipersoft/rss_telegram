@@ -1,0 +1,21 @@
+{
+  "update_id": 202413617,
+  "channel_post": {
+    "message_id": 818,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1513706861,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/runner-brianzolo-squalificato-per-il-passeggino-il-caso-arrivera-a-roma/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 102
+      }
+    ]
+  }
+}
