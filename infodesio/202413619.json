@@ -1,0 +1,21 @@
+{
+  "update_id": 202413619,
+  "channel_post": {
+    "message_id": 2673,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513755255,
+    "text": "IMPIANTO TERMICO PERICOLOSO INSTALLATO PRESSO L’ABITAZIONE SITA IN VIA PARTIGIANI D’ITALIA, 24 – DESIO. PROPRIETARI: ELLI ANTONELLA – ELLI CARLO – ELLI DAVIDE GIUSEPPE – PERSI MARCELLA. ORDINE DI ADEGUAMENTO E DIVIETO DI UTILIZZO DELL’IMPIANTO. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3741333",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 246,
+        "length": 92
+      }
+    ]
+  }
+}
