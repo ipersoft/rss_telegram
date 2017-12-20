@@ -1,0 +1,51 @@
+{
+  "update_id": 202413626,
+  "channel_post": {
+    "message_id": 2679,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513773989,
+    "text": "Comune.di.Desio\n In occasione della\nGIORNATA MONDIALE DEL MIGRANTE E DEL RIFUGIATO\n\nIL CAMMINO DELL'ACCOGLIENZA\nVoci ed immagini per raccontare\n\nEvento a ingresso gratuito, con prenotazione su https://il_cammino_dell_accoglienza.eventbrite.it\n\nOre 17:00\nPresentazione del progetto #Sprar #Desio\nSistema di Protezione per Richiedenti Asilo e Rifugiati\nInterverranno:\nPaola Buonvicino Assessore alle Politiche Sociali\nGiorgio Pederiva – Progetto Sprar Desio\nAlcuni beneficiari del progetto SPRAR\n\nOre 17,30\nPerformance teatrale\nAlt! Farsi conoscere. Corpi vulnerabili in scena\na cura de La Compagnia Teatrale Camparada \n\nOre 18,15\nDisegni dalla frontiera\nNarrazione con parole ed immagini\ndi e con Francesco Piobbichi \n(info: https://disegnidallafrontiera.wordpress.com/ )\n\nA seguire aperitivo\na cura delle Associazioni\nDesio Città Aperta e CASA DELLE DONNE DESIO\ne mostra fotografica \"Beyond the skin. Vita da migrante\"\n(info: http://www.comunitamonzabrianza.it/news/beyond-the-skin-vita-da-migrante-un-percorso-tra-scuola-e-accoglienza/ )\n\nEvento a ingresso gratuito\ncon prenotazione su https://il_cammino_dell_accoglienza.eventbrite.it\nhttps://www.facebook.com/103441483073684_344744909334973",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 193,
+        "length": 49
+      },
+      {
+        "type": "hashtag",
+        "offset": 281,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 288,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 724,
+        "length": 44
+      },
+      {
+        "type": "url",
+        "offset": 926,
+        "length": 110
+      },
+      {
+        "type": "url",
+        "offset": 1087,
+        "length": 49
+      },
+      {
+        "type": "url",
+        "offset": 1137,
+        "length": 56
+      }
+    ]
+  }
+}
