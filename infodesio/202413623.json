@@ -1,0 +1,21 @@
+{
+  "update_id": 202413623,
+  "channel_post": {
+    "message_id": 2676,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513769849,
+    "text": "ACQUISTO DI APPARECCHIATURA TELELASER E 2 BOX PER L’ALLOGGIAMENTO DELLA STESSA. IMPEGNO DI SPESA DI € 18.812,40 – IVA AL 22% INCLUSA. CIG Z31213018D. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3743231",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 151,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413625,
+  "channel_post": {
+    "message_id": 2678,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513769850,
+    "text": "RETTIFICA UTILIZZO SOMMA IMPEGNATA CON DETERMINAZIONE DIRIGENZIALE N. 1009 DEL 28/12/2016 A FAVORE DEL \"CONDOMINIO VIGNA DEI FIORI B\" \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3743237",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 135,
+        "length": 92
+      }
+    ]
+  }
+}

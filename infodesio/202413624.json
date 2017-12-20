@@ -1,0 +1,21 @@
+{
+  "update_id": 202413624,
+  "channel_post": {
+    "message_id": 2677,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513769849,
+    "text": "ACQUISTO DI QUATTRO TABLET PER IL RILEVAMENTO DEI SINISTRI STRADALI. IMPEGNO DI SPESA DI € 3.318,40 I.V.A. 22% COMPRESA. CIG Z772131E39. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3743233",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 138,
+        "length": 92
+      }
+    ]
+  }
+}
