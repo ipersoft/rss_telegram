@@ -1,0 +1,21 @@
+{
+  "update_id": 202413628,
+  "channel_post": {
+    "message_id": 2680,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513786623,
+    "text": "desiocittaonline\n Cava di via Molinara e ex area Autobianchi: due casi di presunto inquinamento ambientale che, in queste settimane, hanno tenuto banco sui giornali e sui social.\n\nAbbiamo chiesto un parere al sindaco Roberto Corti.\nhttps://www.facebook.com/152776352012040_157069584916050",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 232,
+        "length": 56
+      }
+    ]
+  }
+}
