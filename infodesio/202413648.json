@@ -1,0 +1,21 @@
+{
+  "update_id": 202413648,
+  "channel_post": {
+    "message_id": 2697,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513873963,
+    "text": "RIMBORSO SPESE PER NOTIFICAZIONE ATTI - IMPEGNO DI SPESA PER L'ANNO 2018. EURO 1.500,00. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749254",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 90,
+        "length": 92
+      }
+    ]
+  }
+}

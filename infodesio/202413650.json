@@ -1,0 +1,21 @@
+{
+  "update_id": 202413650,
+  "channel_post": {
+    "message_id": 2699,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513873965,
+    "text": "FORNITURA TRAMITE MEPA ASSISTENZA POSTAZIONI LAVORO E SISTEMISTICA 2018 - CODICE CIG Z4916F94E \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749258",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 96,
+        "length": 92
+      }
+    ]
+  }
+}

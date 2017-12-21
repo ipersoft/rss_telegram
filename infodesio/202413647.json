@@ -1,0 +1,21 @@
+{
+  "update_id": 202413647,
+  "channel_post": {
+    "message_id": 2696,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513873962,
+    "text": "SERVIZIO DI MANUTENZIONE, ASSISTENZA ED AGGIORNAMENTI DEI PROGRAMMI INFORMATICI “SINFECON” DELLA SELEC S.A.S., PER LA GESTIONE DELLE ATTIVITA’ ECONOMICO-PRODUTTIVE, DAL 01/01/2018 AL 31/12/2018. IMPEGNO DI SPESA. E. 4.134,58, IVA COMPRESA. CIG Z2F2149DCA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749252",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 257,
+        "length": 92
+      }
+    ]
+  }
+}
