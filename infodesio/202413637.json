@@ -1,0 +1,21 @@
+{
+  "update_id": 202413637,
+  "channel_post": {
+    "message_id": 2686,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513867569,
+    "text": "Variazioni giorni e orari di apertura degli uffici comunali nel periodo natalizio \ntutte le informazioni riguardanti il periodo dicembre 2017 - gennaio 2018.\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46433",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 74
+      }
+    ]
+  }
+}
