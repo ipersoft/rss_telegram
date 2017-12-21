@@ -1,0 +1,21 @@
+{
+  "update_id": 202413641,
+  "channel_post": {
+    "message_id": 2690,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513872444,
+    "text": "BANDO DI ACCREDITAMENTO PER L’EROGAZIONE DI INTERVENTI IN ATTUAZIONE DELLA DGR X/6674 DEL 7 GIUGNO 2017: “PROGRAMMA OPERATIVO REGIONALE PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE – DOPO DI NOI – LEGGE 112/2017” - APPROVAZIONE VERBALI, COSTITUZIONE ALBO TERRITORIALE DI AMBITO ENTI GESTORI PROGRAMMA DOPO DI NOI - ACCERTAMENTO ED IMPEGNO ANNO 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749157",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 413,
+        "length": 92
+      }
+    ]
+  }
+}

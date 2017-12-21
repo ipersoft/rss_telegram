@@ -1,0 +1,21 @@
+{
+  "update_id": 202413638,
+  "channel_post": {
+    "message_id": 2687,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513872442,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE, PER LA RISOLUZIONE DELLE INTERFERENZE CON METROTRANVIA E I GASDOTTI DI RETIPIU, IN VIA MAZZINI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749048",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 202,
+        "length": 92
+      }
+    ]
+  }
+}

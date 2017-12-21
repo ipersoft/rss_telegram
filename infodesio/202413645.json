@@ -1,0 +1,21 @@
+{
+  "update_id": 202413645,
+  "channel_post": {
+    "message_id": 2694,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513872451,
+    "text": "BIBLIOTECA CIVICA - RINNOVO ABBONAMENTI A PUBBLICAZIONI PERIODICHE PER IL 2018 - AGGIUDICAZIONE DELLA FORNITURA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749165",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 113,
+        "length": 92
+      }
+    ]
+  }
+}

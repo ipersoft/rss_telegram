@@ -1,0 +1,21 @@
+{
+  "update_id": 202413640,
+  "channel_post": {
+    "message_id": 2689,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513872444,
+    "text": "AVVISO PUBBLICO MULTI-AZIONE N. 1/2016 A VALERE SUL FONDO ASILO MIGRAZIONE E INTEGRAZIONE 2014-2020 – OS2 INTEGRAZIONE/MIGRAZIONE LEGALE – ON2 INTEGRAZIONE – PIANI D’INTERVENTO REGIONALI PER L’INTEGRAZIONE DEI CITTADINI DI PAESI TERZI – PROGETTO MISURA PER MISURA - IMPEGNO DI SPESA ANNO 2017 A FAVORE DELLE COOPERATIVE ACCREDITATE DELL'AMBITO TERRITORIALE DI DESIO PER L'EROGAZIONE DI INTERVENTI AREA FRAGILITA' \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3749155",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 414,
+        "length": 92
+      }
+    ]
+  }
+}
