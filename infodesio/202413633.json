@@ -1,0 +1,21 @@
+{
+  "update_id": 202413633,
+  "channel_post": {
+    "message_id": 2682,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513857733,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREA PUBBLICA IN PIAZZA MARTIRI DI FOSSOLI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3747578",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 154,
+        "length": 92
+      }
+    ]
+  }
+}

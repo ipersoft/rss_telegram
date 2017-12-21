@@ -1,0 +1,21 @@
+{
+  "update_id": 202413634,
+  "channel_post": {
+    "message_id": 2683,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513857734,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE ALL'INTERNO DELLE AREE DESTINATE AD OSPITARE I MERCATI SETTIMANALI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3747583",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 131,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413636,
+  "channel_post": {
+    "message_id": 2685,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513858581,
+    "text": "desiocittaonline\n «Missione compiuta. E tempi rispettati». Così Roberto Corti, presidente del «Comitato Tecnico per controllo analogo» di «BrianzAcque», commenta la conclusione dei lavori per la riqualificazione del depuratore San Rocco di Monza.\n\nL’intervento ha consentito di mettersi a norma con tutti i limiti di scarico previsti dalla normativa regionale, compresi quelli d’azoto, di contrarre i costi di gestione e di contribuire alla riduzione degli odori, che affliggevano il quartiere.\n\nInoltre sono state coperte le due vasche di sedimentazione primaria, tra le più capienti d’Europa, che hanno la funzione di separare i fanghi primari dai liquami affluenti. Al loro interno gli odori vengono aspirati e trattati da un biofiltro, senza più la possibilità di finire in atmosfera. \n\nDue anni di lavori e dodici milioni di euro di investimento. «Riconvertire il depuratore San Rocco, abbattendo costi, miasmi ed emissioni di azoto nell’arco di ventiquattro mesi dimostra che il pubblico può funzionare come e meglio del privato, ha dichiarato Roberto Corti. BrianzAcque ha lavorato bene e rispettando i tempi programmati, contenendo costi e mantenendo standard di qualità elevata. La differenza non è tra pubblico e privato, ma tra chi funziona e chi no».\n\nCon oltre 650 mila abitanti e 350 impianti produttivi, distribuiti in 27 Comuni della Provincia di Monza e Brianza, il depuratore di San Rocco è il più grande impianto d’Italia per potenzialità depurativa ad applicare esclusivamente il processo ad aerazione intermittente.\nhttps://www.facebook.com/152776352012040_157271721562503",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1537,
+        "length": 56
+      }
+    ]
+  }
+}
