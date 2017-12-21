@@ -1,0 +1,26 @@
+{
+  "update_id": 202413630,
+  "channel_post": {
+    "message_id": 2681,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513842379,
+    "text": "Comune.di.Desio\n A Casa delle Donne - Desio questa sera costruiamo insieme il #nataledesio17 anche per le donne maltrattate.\nhttps://www.facebook.com/103441483073684_1632434256841058",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 78,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 57
+      }
+    ]
+  }
+}
