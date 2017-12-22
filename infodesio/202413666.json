@@ -1,0 +1,61 @@
+{
+  "update_id": 202413666,
+  "channel_post": {
+    "message_id": 2714,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513948692,
+    "text": "Comune.di.Desio\n #Desio: è uscita la nostra #newsletter del Venerdì a cura dell'Ufficio Stampa. In primo piano in questa edizione:\n\nVariazioni ai giorni e orari di apertura degli uffici comunali nel periodo natalizio. http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46433\n\nCampus Natalizio gratuito per bambini. http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46366\n\nModifiche alla raccolta rifiuti domestici porta a porta, nei giorni  festivi del Natale e del 1° Gennaio. http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46461\n\nSgombero neve: le regole da seguire.  A garanzia della sicurezza viaria e pedonale, ricordiamo i comportamenti da tenersi da parte di proprietari e locatari di immobili. http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46286\n\nParcheggi in zona Stazione. Tutte le informazioni e i moduli per chiedere o rinnovare i pass. http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=42741\n\nPer iscriverti al servizio di Newsletter e ricevere nella tua casella email queste e altre notizie ogni venerdì, registrati qui:http://www.comune.desio.mb.it/servizi/newsletter/newsletter_utente_fase01.aspx\nhttps://www.facebook.com/103441483073684_1633548090063008",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 44,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 218,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 333,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 515,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 761,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 931,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 1135,
+        "length": 78
+      },
+      {
+        "type": "url",
+        "offset": 1214,
+        "length": 57
+      }
+    ]
+  }
+}
