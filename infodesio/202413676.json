@@ -1,0 +1,21 @@
+{
+  "update_id": 202413676,
+  "channel_post": {
+    "message_id": 2724,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513953999,
+    "text": "Costituzione partenariato speciale per la valorizzazione culturale di Villa Tittoni \nAvviso pubblico per la costituzione di un partenariato speciale pubblico/privato finalizzato alla valorizzazione culturale di Villa Tittoni \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46489",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 226,
+        "length": 74
+      }
+    ]
+  }
+}
