@@ -1,0 +1,21 @@
+{
+  "update_id": 202413659,
+  "channel_post": {
+    "message_id": 2707,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513946236,
+    "text": "S.P.R.A.R. “SISTEMA NAZIONALE DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI” – PROGETTO SPRAR DESIO 2017-2019 DI CUI AL DECRETO MINISTERO INTERNO 10/08/2016 – IMPEGNO DI SPESA ANNO 2017 A FAVORE DEL CONSORZIO COMUNITA' BRIANZA DI MONZA, IN QUALITA' DI ENTE ATTUATORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3752925",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 270,
+        "length": 92
+      }
+    ]
+  }
+}

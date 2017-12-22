@@ -1,0 +1,21 @@
+{
+  "update_id": 202413662,
+  "channel_post": {
+    "message_id": 2710,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513946239,
+    "text": "LAVORI DI MANUTENZIONE ORDINARIA E STRAORDINARIA IMPIANTI TERMOIDRAULICI IN ALCUNI ALLOGGI S.A.P. (G_03_17). APPROVAZIONE PROGETTO DEFINITIVO/ESECUTIVO, DETERMINAZIONE A CONTRATTARE E ASSUNZIONE DI IMPEGNO DI SPESA. €. 181.218,73 CIG. 73196194AE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3752931",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 247,
+        "length": 92
+      }
+    ]
+  }
+}

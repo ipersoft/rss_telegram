@@ -1,0 +1,21 @@
+{
+  "update_id": 202413656,
+  "channel_post": {
+    "message_id": 2704,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513946233,
+    "text": "BANDO DI ACCREDITAMENTO DELLE STRUTTURE DISPONIBILI ALL'ACCOGLIENZA DGR 6465/2017 - “INTERVENTI VOLTI AL CONTENIMENTO DELL'EMERGENZA ABITATIVA E AL MANTENIMENTO DELL'ALLOGGIO IN LOCAZIONE\" - APPROVAZIONE VERBALE, COSTITUZIONE ALBO TERRITORIALE DI AMBITO STRUTTURE ED IMPEGNO DI SPESA ANNO 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3752917",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 295,
+        "length": 92
+      }
+    ]
+  }
+}

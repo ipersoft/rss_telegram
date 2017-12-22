@@ -1,0 +1,21 @@
+{
+  "update_id": 202413654,
+  "channel_post": {
+    "message_id": 2702,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513946231,
+    "text": "TIROCINIO DELLE STUDENTESSE ALBRICI SILVIA – FERRARI GIULIA – ZAPPA GIUDITTA, ISCRITTE AL SECONDO ANNO DEL CORSO DI LAUREA TRIENNALE  IN SCIENZE DEL SERVIZIO SOCIALE PRESSO I SERVIZI SOCIALI. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3752682",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 193,
+        "length": 92
+      }
+    ]
+  }
+}
