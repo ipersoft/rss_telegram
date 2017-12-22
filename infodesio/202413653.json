@@ -1,0 +1,21 @@
+{
+  "update_id": 202413653,
+  "channel_post": {
+    "message_id": 2701,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513945570,
+    "text": "Modifiche alla raccolta rifiuti domestici porta a porta \nIn considerazione degli eventi festivi del Natale e del 1° Gennaio, Gelsia Ambiente comunica alcune informazioni relative alla raccolta dei rifiuti.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46461",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 206,
+        "length": 74
+      }
+    ]
+  }
+}
