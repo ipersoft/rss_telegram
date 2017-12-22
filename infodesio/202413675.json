@@ -1,0 +1,21 @@
+{
+  "update_id": 202413675,
+  "channel_post": {
+    "message_id": 2723,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513949845,
+    "text": "APPROVAZIONE DELLO SCHEMA DI CONTRATTO DI SERVIZIO TRA L’AZIENDA SPECIALE CONSORTILE “CONSORZIO DESIO-BRIANZA” E IL COMUNE DI DESIO PER LA GESTIONE DEGLI INTERVENTI E DEI SERVIZI DA EROGARE SUL TERRITORIO ED AI RESIDENTI DEL COMUNE DI DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3753113",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 242,
+        "length": 92
+      }
+    ]
+  }
+}

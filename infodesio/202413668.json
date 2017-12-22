@@ -1,0 +1,21 @@
+{
+  "update_id": 202413668,
+  "channel_post": {
+    "message_id": 2716,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513949839,
+    "text": "LAVORI DI MIGLIORAMENTO DEL RENDIMENTO ENERGETICO DELL’EDIFICIO COMUNALE DI EDILIZIA RESIDENZIALE PUBBLICA DI VIA PER BOVISIO 9 (G_05_17) - APPROVAZIONE MODALITA’ APPALTO LAVORI. C.U.P . G44B15000140006– CIG 7287871D64 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3753099",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 220,
+        "length": 92
+      }
+    ]
+  }
+}

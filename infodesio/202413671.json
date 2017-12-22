@@ -1,0 +1,21 @@
+{
+  "update_id": 202413671,
+  "channel_post": {
+    "message_id": 2719,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513949842,
+    "text": "BILANCIO DI PREVISIONE 2017/2019 - 4° VARIAZIONE DI BILANCIO DI COMPETENZA DIRIGENZIALE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3753105",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 89,
+        "length": 92
+      }
+    ]
+  }
+}

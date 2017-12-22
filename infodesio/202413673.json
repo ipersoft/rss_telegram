@@ -1,0 +1,21 @@
+{
+  "update_id": 202413673,
+  "channel_post": {
+    "message_id": 2721,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1513949843,
+    "text": "TRANSAZIONE TRA IL COMUNE DI DESIO E GLI EREDI DEL SIG. R.D. IN MERITO ALLA PROPRIETÀ COMUNALE SITA IN DESIO IN VIA PRATI, 77, ATTUALMENTE OGGETTO DI CONTENZIOSO GIUDIZIARIO AVANTI AL TRIBUNALE DI MONZA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3753109",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 204,
+        "length": 92
+      }
+    ]
+  }
+}
