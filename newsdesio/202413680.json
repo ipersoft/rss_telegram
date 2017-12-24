@@ -1,0 +1,21 @@
+{
+  "update_id": 202413680,
+  "channel_post": {
+    "message_id": 829,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514139213,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/omicidio-solaro-accoltellato-box.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 70
+      }
+    ]
+  }
+}
