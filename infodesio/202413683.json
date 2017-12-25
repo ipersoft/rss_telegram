@@ -1,0 +1,21 @@
+{
+  "update_id": 202413683,
+  "channel_post": {
+    "message_id": 2725,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514236459,
+    "text": "desiocittaonline\n A causa delle concentrazioni elevate di polveri sottili (PM10) per quattro giorni consecutivi da domani, martedì 26 dicembre, a Desio saranno attive le misure anti smog di primo livello.\n\nStop, dunque, ai privati diesel fino a Euro 4 compreso  (indipendentemente dall’adozione del «Fap», il filtro antiparticolato per abbattere le emissioni inquinanti) dalle 8.30 alle 18.30 e ai veicoli commerciali diesel fino a Euro 3 compreso dalle 8.30 alle 12.30.\n\nConfermate anche le altre misure di primo livello: per tutti i veicoli il divieto di sostare con il motore acceso, il limite della temperatura all’interno delle abitazioni e degli esercizi commerciali a 19 gradi, il divieto di utilizzare sistemi di riscaldamento a legna e effettuare combustioni all’aperto.\n\nLe limitazioni riguardano tutti i Comuni con più di 30 mila abitanti nelle province di Bergamo, Como, Cremona, Lecco, Lodi, Mantova, Milano, Monza e Brianza, Pavia e Varese.\n\nQueste misure temporanee, che si aggiungono a quelle permanenti, resteranno attive fino a quando si registrerà un abbassamento delle concentrazioni di PM10 per due giorni consecutivi. Se i livelli dovessero rimanere elevati per oltre 10 giorni le restrizioni verranno intensificate passando al secondo livello.\n\nLe misure antismog rientrano nell’«Accordo del Bacino Padano» siglato da Regione Lombardia con Piemonte, Veneto, Emilia-Romagna e il Ministero dell’Ambiente.\nhttps://www.facebook.com/152776352012040_158409014782107",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1426,
+        "length": 56
+      }
+    ]
+  }
+}
