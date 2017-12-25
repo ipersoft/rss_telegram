@@ -1,0 +1,21 @@
+{
+  "update_id": 202413682,
+  "channel_post": {
+    "message_id": 831,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514203684,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/monza-capodanno-non-il-solito-cenone/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 60
+      }
+    ]
+  }
+}
