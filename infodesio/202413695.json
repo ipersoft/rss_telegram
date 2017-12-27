@@ -1,0 +1,21 @@
+{
+  "update_id": 202413695,
+  "channel_post": {
+    "message_id": 2733,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514377900,
+    "text": "Open Day alle Scuole dell'Infanzia di Desio \nUn'occasione per conoscere le Scuole dell'infanzia della tua Città.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46519",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 113,
+        "length": 74
+      }
+    ]
+  }
+}
