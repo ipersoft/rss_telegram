@@ -1,0 +1,21 @@
+{
+  "update_id": 202413697,
+  "channel_post": {
+    "message_id": 2734,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514383771,
+    "text": "desiocittaonline\n 56.7, 76, 94.7, 118.7, 97 e 63: questi i livelli del PM10, rilevati dalle centraline «Arpa» in Brianza dal 19 al 24 dicembre. Sei giorni di emergenza con le poveri sottili, le più pericolose per la salute, ampiamente sopra i 50 microgrammi per metro cubo, la prima soglia di allarme. \n\nIl risultato sono i blocchi e le limitazioni al traffico in buona parte del Nord Italia. Da ieri, giorno di Santo Stefano, sono attive le misure anti smog di primo livello nei Comuni con più di 30 mila abitanti in tutte le province della Lombardia, con la sola eccezione di Como: stop ai veicoli diesel privati fino a Euro 4 compreso (indipendentemente dall’adozione del «Fap», il filtro antiparticolato per abbattere le emissioni inquinanti) dalle 8.30 alle 18.30 e ai veicoli commerciali diesel fino a Euro 3 compreso dalle 8.30 alle 12.30. \n\nE ancora: per tutti i veicoli il divieto di sostare con il motore acceso, il limite della temperatura all’interno delle abitazioni e degli esercizi commerciali a 19 gradi, il divieto di utilizzare sistemi di riscaldamento a legna e effettuare combustioni all’aperto. \n\nSono queste le misure, di primo livello, previste dall’«Accordo del Bacino Padano», il primo accordo su area vasta contro l’inquinamento. Quest’anno, infatti, per la prima volta, le quattro regioni del Bacino Padano - Piemonte, Lombardia, Emilia Romagna e Veneto, una delle aree più inquinate d’Europa, secondo i dati dell’Agenzia europea per l’Ambiente - hanno firmato con il ministero dell’Ambiente un protocollo: iniziative comuni, stessi orari, identico periodo di attuazione.\n\nLe misure di primo livello resteranno attive fino a quando si registrerà un abbassamento delle concentrazioni di PM10 per due giorni consecutivi. Se i livelli dovessero, invece, rimanere elevati per oltre 10 giorni si passerà alle limitazioni di secondo livello. \n\nI livelli di polveri sottili, però, da oggi - con la pioggia e con il tempo in netto peggioramento - dovrebbero cominciare a scendere e domani le limitazioni potrebbero essere revocate.\nhttps://www.facebook.com/152776352012040_158891681400507",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 2051,
+        "length": 56
+      }
+    ]
+  }
+}
