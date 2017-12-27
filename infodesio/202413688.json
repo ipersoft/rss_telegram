@@ -1,0 +1,21 @@
+{
+  "update_id": 202413688,
+  "channel_post": {
+    "message_id": 2726,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514365876,
+    "text": "Le attività in programma a Gennaio al Centro Ricreativo 'Il Girasole' \nUn programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' di Via San Pietro.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46490",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 160,
+        "length": 74
+      }
+    ]
+  }
+}

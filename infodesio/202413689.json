@@ -1,0 +1,21 @@
+{
+  "update_id": 202413689,
+  "channel_post": {
+    "message_id": 2727,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514365877,
+    "text": "Botti: no grazie! \nanche quest'anno al via la campagna di sensibilizzazione per un San Silvestro di serenità davvero per tutti.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46505",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 128,
+        "length": 74
+      }
+    ]
+  }
+}
