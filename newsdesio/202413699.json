@@ -1,0 +1,21 @@
+{
+  "update_id": 202413699,
+  "channel_post": {
+    "message_id": 838,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514396967,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/delitto-di-solaro-indagine-concentrata-negli-ultimi-giorni-di-vita-di-redaelli/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 109
+      }
+    ]
+  }
+}
