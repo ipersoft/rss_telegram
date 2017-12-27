@@ -1,0 +1,26 @@
+{
+  "update_id": 202413691,
+  "channel_post": {
+    "message_id": 2729,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514375665,
+    "text": "Comune.di.Desio\n #Desio a partire da gennaio al Centro Ricreativo Il Girasole di Via San Pietro 14,  due corsi per l'utilizzo del computer, pensati in particolare per chi non è \"nativo digitale\".\n\nCorso intermedio: a partire dal 12 gennaio 2018 ogni venerdì\ndalle 16.00 alle 18.00.\nProgramma (6 lezioni) Massimo 10 partecipanti\n× Internet e posta elettronica\n× Utilizzo e gestione delle memorie\n(Corso di partecipazione €10)\n\nCorso base: a partire dal 23 febbraio 2018 ogni venerdì dalle ore 14.00 alle ore 16.00.\nProgramma (12 lezioni) Massimo 10 partecipanti\n× Principi fondamentali di organizzazione del computer\n× Nozioni base di introduzione al programma Word\n× Internet e posta elettronica\n(Costo di partecipazione €15)\n\nPer info e iscrizioni Centro Ricreativo Il Girasole via San Pietro, 14 Desio\nTel. 0362/639511 da lunedì a venerdì dalle 14.00 allo 18.00\nhttps://www.facebook.com/103441483073684_1638073839610433",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 864,
+        "length": 57
+      }
+    ]
+  }
+}
