@@ -1,0 +1,21 @@
+{
+  "update_id": 202413696,
+  "channel_post": {
+    "message_id": 836,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514380999,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/epifania-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 51
+      }
+    ]
+  }
+}
