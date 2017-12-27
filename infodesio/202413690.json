@@ -1,0 +1,26 @@
+{
+  "update_id": 202413690,
+  "channel_post": {
+    "message_id": 2728,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514373569,
+    "text": "Comune.di.Desio\n il 6 Gennaio 2018, in occasione della Festa della Befana, cinque appuntamenti in programma a Desio: \n\n- ore 7:45 partenza dal PalaDesio della Camminata della Befana \"StraDesio 2018 \", manifestazione podistica aperta a tutti (7, 16, 22 km) con il  Gruppo Marciatori Desio . Tutte le info sul sito http://stradesio.it/\n- ore 15 \"Corteo del Magi\" (partenza dalla Chiesa della Madonna Pellegrina, Via Milano N° 369)\n- ore 15 \"Aspettando la Befana\" a cura delle Contrade del Palio degli Zoccoli e della Pro Loco Desio (Desio, Piazza Conciliazione)\n- ore 16 \"Salutiamo le Feste\" a cura di BracciAperTe (Desio, Piazza Conciliazione)\n- ore 21 \"Serata Danzante\" a cura della Bocciofila Parco (Palestra scuole di Via Dolomiti)\nhttps://www.facebook.com/103441483073684_156866998271123",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 313,
+        "length": 20
+      },
+      {
+        "type": "url",
+        "offset": 734,
+        "length": 56
+      }
+    ]
+  }
+}
