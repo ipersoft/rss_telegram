@@ -1,0 +1,21 @@
+{
+  "update_id": 202413729,
+  "channel_post": {
+    "message_id": 2760,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475393,
+    "text": "RINNOVO CANONE ANNO 2018 DEL SERVIZIO TELEMATICO RELATIVO ALL’ACCESSO AGLI ARCHIVI DELLA MOTORIZZAZIONE CIVILE. IMPEGNO DI SPESA PER €. 1.190,42. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763495",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 147,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413731,
+  "channel_post": {
+    "message_id": 2762,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475397,
+    "text": "ACQUISTO DI APPARECCHIATURA PER CONTROLLO DI POLIZIA STRADALE CHE RICHIEDONO LO SCARICO E L’ANALISI DEI DATI DELLE CARTE DEI CONDUCENTI E DEI CRONOTACHIGRAFI DIGITALI. IMPEGNO DI SPESA DI € 7.869,00 – IVA AL 22% INCLUSA. CIG ZA721313A1. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763499",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 238,
+        "length": 92
+      }
+    ]
+  }
+}

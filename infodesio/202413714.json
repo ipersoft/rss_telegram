@@ -1,0 +1,21 @@
+{
+  "update_id": 202413714,
+  "channel_post": {
+    "message_id": 2745,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475339,
+    "text": "RICOVERO DI DISABILI PRESSO RSD E PRESSO CSS PERIODO 01.01.2018 - 31.08.2018. ASSUNZIONE IMPEGNO DI SPESA DI EURO 265.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763461",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 126,
+        "length": 92
+      }
+    ]
+  }
+}

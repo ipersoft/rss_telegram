@@ -1,0 +1,21 @@
+{
+  "update_id": 202413716,
+  "channel_post": {
+    "message_id": 2747,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475343,
+    "text": "IMPEGNO DI SPESA DI € 85.000,00.- PER IL RICOVERO DI ANZIANI PRESSO ISTITUTI DIVERSI – PERIODO 01 GENNAIO 2018 – 31 DICEMBRE 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763465",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 131,
+        "length": 92
+      }
+    ]
+  }
+}

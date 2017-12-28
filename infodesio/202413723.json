@@ -1,0 +1,21 @@
+{
+  "update_id": 202413723,
+  "channel_post": {
+    "message_id": 2754,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475352,
+    "text": "DETERMINAZIONE A CONTRARRE - PROCEDURA TELEMATICA NEGOZIATA, AI SENSI DEGLI ARTT. 30, 36 E 95 DEL D. LGS. 50/2016, PER L’AFFIDAMENTO DEI SERVIZI: - DI COORDINAMENTO E GESTIONE DEI SOGGETTI COINVOLTI NELLA PROGRAMMAZIONE E REALIZZAZIONE DEGLI EVENTI CULTURALI, SPORTIVI E DI AGGREGAZIONE IN DESIO PER L’ANNO 2018; - DI SUPPORTO NELLA SELEZIONE, GESTIONE E ATTUAZIONE DEGLI EVENTI INTEGRATIVI DA REPERIRSI SUL MERCATO ED ELABORAZIONE DEL CALENDARIO EVENTI 2018; - DI COMUNICAZIONE DEI MEDESIMI EVENTI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763479",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 500,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413705,
+  "channel_post": {
+    "message_id": 2736,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475331,
+    "text": "LAVORI DI MANUTENZIONE STRAORDINARIA EDIFICI SCOLASTICI (B/1591). APPROVAZIONE PROGETTO DEFINITIVO/ESECUTIVO, DETERMINAZIONE A CONTRATTARE E ASSUNZIONE DI IMPEGNO DI SPESA. € 183.426,00. CIG. 7334153E81 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763298",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 204,
+        "length": 92
+      }
+    ]
+  }
+}

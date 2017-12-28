@@ -1,0 +1,21 @@
+{
+  "update_id": 202413722,
+  "channel_post": {
+    "message_id": 2753,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475351,
+    "text": "CENTRI RICREATIVI DIURNI ESTIVI - CONTRIBUTO FONDO SOCIALE REGIONALE 2017 - D.G.R. X/6974 DEL 31.07.2017 - IMPEGNO DI SPESA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763477",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 92
+      }
+    ]
+  }
+}

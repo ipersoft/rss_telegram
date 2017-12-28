@@ -1,0 +1,21 @@
+{
+  "update_id": 202413718,
+  "channel_post": {
+    "message_id": 2749,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475345,
+    "text": "RINNOVO CONVENZIONE CON IL CENTRO MILANESE DI TERAPIA DELLA FAMIGLIA S.R.L. FINO AL 31/12/2019 PER LO SVOLGIMENTO DEL TIROCINIO EX ART. 8 DM 11.12.1998 N. 509 DA PARTE DI MEDICI E PSICOLOGI ISCRITTI A SCUOLE DI SPECIALIZZAZIONE IN PSICOTERAPIA RICONOSCIUTE EX ART. 3 LEGGE 56/89 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763469",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 280,
+        "length": 92
+      }
+    ]
+  }
+}

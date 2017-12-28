@@ -1,0 +1,21 @@
+{
+  "update_id": 202413726,
+  "channel_post": {
+    "message_id": 2757,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475391,
+    "text": "PRESA D'ATTO DEL VERBALE DEL CORPO DI POLIZIA LOCALE DI DESIO RELATIVO ALL'ACCERTAMENTO DELLA VIOLAZIONE DEL VIGENTE REGOLAMENTO COMUNALE PER LA GESTIONE DEI RIFIUTI URBANI ED ASSIMILATI DA PARTE DEGLI INQUILINI DELLO STABILE COMUNALE DI VIA MARX, 8 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763485",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 251,
+        "length": 92
+      }
+    ]
+  }
+}

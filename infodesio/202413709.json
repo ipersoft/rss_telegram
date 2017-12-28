@@ -1,0 +1,21 @@
+{
+  "update_id": 202413709,
+  "channel_post": {
+    "message_id": 2740,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475335,
+    "text": "COPERTURA DELLE QUOTE A CARICO DEGLI INQUILINI COMUNALI MOROSI PER LE SPESE DI CONDOMINIO DEGLI STABILI: \"VIGNA DEI FIORI A\", \"VIGNA DEI FIORI B\" E \"VIA PRATI, 77\" \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763306",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 165,
+        "length": 92
+      }
+    ]
+  }
+}

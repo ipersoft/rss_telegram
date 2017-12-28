@@ -1,0 +1,21 @@
+{
+  "update_id": 202413715,
+  "channel_post": {
+    "message_id": 2746,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475342,
+    "text": "INSERIMENTO DI PERSONE DIVERSAMENTE ABILI PRESSO SFA/CSE/CENTRI DIURNI PERIODO 01 GENNAIO 2018 - 31 AGOSTO 2018. ASSUNZIONE IMPEGNO DI SPESA DI EURO 347.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763463",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 161,
+        "length": 92
+      }
+    ]
+  }
+}

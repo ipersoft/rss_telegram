@@ -1,0 +1,21 @@
+{
+  "update_id": 202413733,
+  "channel_post": {
+    "message_id": 2764,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475399,
+    "text": "PRESA D'ATTO DELLA DECISIONE DELL'ASSEMBLEA DEI SINDACI DELL'11 SETTEMBRE 2017 DI APPROVAZIONE DEL PROGETTO PER LA GESTIONE DEL SERVIZIO DI PROTEZIONE GIURIDICA DI AMBITO ELABORATO DALL'AZIENDA SPECIALE CONSORTILE \"CONSORZIO DESIO-BRIANZA\", SU MANDATO DELL'ASSEMBLEA STESSA, ED AVVIO DELLA FASE PREPARATORIA PROPEDEUTICA ALL'AVVIO DEL SERVIZIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763503",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 345,
+        "length": 92
+      }
+    ]
+  }
+}

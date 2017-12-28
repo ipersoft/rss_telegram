@@ -1,0 +1,21 @@
+{
+  "update_id": 202413732,
+  "channel_post": {
+    "message_id": 2763,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475398,
+    "text": "ACCORDO TRA L’AMMINISTRAZIONE COMUNALE DI SESTO SAN GIOVANNI E L’AMMINISTRAZIONE COMUNALE DI DESIO PER L’UTILIZZO DELLA GRADUATORIA DELLA SELEZIONE PUBBLICA PER LA COPERTURA DI N. 1 POSTO DI SISTEMISTA ESPERTO PRESSO IL SERVIZIO COMPLESSO I.C.T. – CATEGORIA C1, AI SENSI DELL’ART. 9, COMMA 11, LEGGE 3/2003 E DELL’ART. 3, COMMA 61, LEGGE N. 350/2003. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763501",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 352,
+        "length": 92
+      }
+    ]
+  }
+}

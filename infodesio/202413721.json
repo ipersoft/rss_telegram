@@ -1,0 +1,21 @@
+{
+  "update_id": 202413721,
+  "channel_post": {
+    "message_id": 2752,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475350,
+    "text": "SERVIZI EDUCATIVI PRIMA INFANZIA IMPEGNO DI SPESA 2017 E 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763475",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 63,
+        "length": 92
+      }
+    ]
+  }
+}

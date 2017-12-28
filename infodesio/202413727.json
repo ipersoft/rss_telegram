@@ -1,0 +1,21 @@
+{
+  "update_id": 202413727,
+  "channel_post": {
+    "message_id": 2758,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475392,
+    "text": "TRATTATIVA DIRETTA PER L'ACQUISTO, MEDIANTE RICORSO AL MEPA, DI APPARECCHIATURE PER LA VIDEOSORVEGLIANZA (€ 20.740,00). CIG ZEB21429C8 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763489",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 136,
+        "length": 92
+      }
+    ]
+  }
+}

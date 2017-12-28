@@ -1,0 +1,21 @@
+{
+  "update_id": 202413707,
+  "channel_post": {
+    "message_id": 2738,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475333,
+    "text": "PRESA D'ATTO DELL'ASSEMBLEA DEL CONDOMINIO DI VIA XXV APRILE 1/A - CONSUNTIVO 2016 E PREVENTIVO 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763302",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 102,
+        "length": 92
+      }
+    ]
+  }
+}

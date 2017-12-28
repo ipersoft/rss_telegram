@@ -1,0 +1,21 @@
+{
+  "update_id": 202413719,
+  "channel_post": {
+    "message_id": 2750,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514475346,
+    "text": "NOMINA COMMISSIONE PER LA VALUTAZIONE DELLE DOMANDE RELATIVE ALLA PROCEDURA COMPARATIVA PER SOLI TITOLI PER IL CONFERIMENTO DI INCARICO DI REVISORE CONTABILE INDIPENDENTE MEDIANTE SINTEL - S.P.R.A.R. “SISTEMA NAZIONALE DI PROTEZIONE PER RICHIEDENTI ASILO E RIFUGIATI” – PROGETTO SPRAR DESIO 2017-2019, DI CUI AL DECRETO MINISTERO INTERNO 10/08/2016 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763471",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 350,
+        "length": 92
+      }
+    ]
+  }
+}
