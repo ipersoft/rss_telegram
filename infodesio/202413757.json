@@ -1,0 +1,21 @@
+{
+  "update_id": 202413757,
+  "channel_post": {
+    "message_id": 2788,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514477111,
+    "text": "FORNITURA TRAMITE MERCATO MEPA DI DISCHI DI STORAGE DI BACKUP PER CONTRIBUIRE AD IMPLEMENTARE LE NUOVE MISURE MINIME DI SICUREZZA- CIG Z1E2183DA2 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763880",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 147,
+        "length": 92
+      }
+    ]
+  }
+}

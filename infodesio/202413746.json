@@ -1,0 +1,21 @@
+{
+  "update_id": 202413746,
+  "channel_post": {
+    "message_id": 2777,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476912,
+    "text": "SOSTITUZIONE DEI CONTROSOFFITTI DELL’AUDITORUM PRESSO LA SCUOLA SECONDARIA PERTINI (B/1587 – 1° LOTTO). APPROVAZIONE DEL PROGETTO ESECUTIVO. CUP G42B17002800004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763754",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 162,
+        "length": 92
+      }
+    ]
+  }
+}

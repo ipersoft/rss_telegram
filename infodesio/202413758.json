@@ -1,0 +1,21 @@
+{
+  "update_id": 202413758,
+  "channel_post": {
+    "message_id": 2789,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514477112,
+    "text": "AFFIDAMENTO FORNITURA INSEGNA SEDE GRUPPO VOLONTARI DI PROTEZIONE CIVILE DESIO – IMPEGNO DI SPESA € 2.006,29 - CIG ZE3215C467 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763882",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 127,
+        "length": 92
+      }
+    ]
+  }
+}

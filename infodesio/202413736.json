@@ -1,0 +1,21 @@
+{
+  "update_id": 202413736,
+  "channel_post": {
+    "message_id": 2767,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476899,
+    "text": "ASSOCIAZIONE SOCIO-ASSISTENZIALE UGAF EX AUTOBIANCHI – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA “46° ASSEMBLEA ANNUALE DEI SOCI” IN PROGRAMMA IL GIORNO 9/12/2017 PRESSO L'AUDITORIUM DELLA SCUOLA MEDIA “G. RODARI” DI PIAZZA NENNI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763734",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 248,
+        "length": 92
+      }
+    ]
+  }
+}

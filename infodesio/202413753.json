@@ -1,0 +1,21 @@
+{
+  "update_id": 202413753,
+  "channel_post": {
+    "message_id": 2784,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476921,
+    "text": "SERVIZIO PER LA GESTIONE E L’EROGAZIONE DEI SERVIZI CIMITERIALI. PROROGA TECNICA (SINO AL 31.12.2018) DEL VIGENTE CONTRATTO CON GESTIONE SERVIZI DESIO S.R.L. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763771",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 92
+      }
+    ]
+  }
+}

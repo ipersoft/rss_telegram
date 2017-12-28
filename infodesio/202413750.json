@@ -1,0 +1,21 @@
+{
+  "update_id": 202413750,
+  "channel_post": {
+    "message_id": 2781,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476919,
+    "text": "AZIENDA CONSORTILE CONSORZIO DESIO BRIANZA – RIDETERMINAZIONE IMPORTI DOVUTI PER L'UTILIZZO DEL PALAZZETTO ALDO MORO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763762",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 118,
+        "length": 92
+      }
+    ]
+  }
+}

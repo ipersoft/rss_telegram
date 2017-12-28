@@ -1,0 +1,21 @@
+{
+  "update_id": 202413738,
+  "channel_post": {
+    "message_id": 2769,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476901,
+    "text": "CONSORZIO COMUNITA' BRIANZA - RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELL'EVENTO DENOMINATO “PROGRAMMARE IL PRESENTE, PERCORRERE IL FUTURO” IN PROGRAMMA PRESSO LE SALE DEL PIANO TERRENO DI VILLA TITTONI TRAVERSI IL GIORNO 1/12/2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763738",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 247,
+        "length": 92
+      }
+    ]
+  }
+}

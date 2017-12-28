@@ -1,0 +1,21 @@
+{
+  "update_id": 202413760,
+  "channel_post": {
+    "message_id": 2791,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514477115,
+    "text": "SERVIZIO TELEMATICO DI CONSULTAZIONE DELL’ARCHIVIO CENTRALE DEL PUBBLICO REGISTRO AUTOMOBILISTICO (PRA). RINNOVO ABBONAMENTO ANNO 2018. IMPEGNO DI SPESA PER €. 4.597,74 I.V.A. COMPRESA. CIG ZF1215AFAA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763886",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 203,
+        "length": 92
+      }
+    ]
+  }
+}

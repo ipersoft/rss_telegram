@@ -1,0 +1,21 @@
+{
+  "update_id": 202413755,
+  "channel_post": {
+    "message_id": 2786,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476958,
+    "text": "INTEGRAZIONE IMPEGNO DI SPESA PER AGGI APPLICATI SU RISCOSSIONE COATTIVA TRIBUTI VARI RISCOSSI A MEZZO CONCESSIONARI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763878",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 118,
+        "length": 92
+      }
+    ]
+  }
+}

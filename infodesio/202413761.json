@@ -1,0 +1,21 @@
+{
+  "update_id": 202413761,
+  "channel_post": {
+    "message_id": 2792,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514477115,
+    "text": "RINNOVO ABBONAMENTO ANNO 2018 PER L’ACCESSO AI SERVIZI TELEMATICI ANCITEL EROGATI SU RETE INTERNET. IMPEGNO DI SPESA E LIQUIDAZIONE PER €. 1.462,78. CIG Z69215B23A. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763888",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 166,
+        "length": 92
+      }
+    ]
+  }
+}

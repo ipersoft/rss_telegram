@@ -1,0 +1,21 @@
+{
+  "update_id": 202413737,
+  "channel_post": {
+    "message_id": 2768,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476900,
+    "text": "ORGANIZZAZIONE MANIFESTAZIONE ISPIRATA ALLA \"GIORNATA INTERNAZIONALE DEI DIRITTI DELLE PERSONE CON DISABILITA' ISTITUITA DALL'ONU\" IN COLLABORAZIONE CON LE ASSOCIAZIONI ED ENTI DEL TAVOLO LOCALE DISABILITA' DEL COMUNE DI DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763736",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 228,
+        "length": 92
+      }
+    ]
+  }
+}

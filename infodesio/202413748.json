@@ -1,0 +1,21 @@
+{
+  "update_id": 202413748,
+  "channel_post": {
+    "message_id": 2779,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476914,
+    "text": "APPROVAZIONE ACCORDO TRA LE AMMINISTRAZIONI COMUNALI DI BARLASSINA, DESIO E SEREGNO PER LA GESTIONE CONDIVISA DELLO SPORTELLO DI ASCOLTO E DEL RUOLO DEL/LA CONSIGLIERE/A DI FIDUCIA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763758",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 182,
+        "length": 92
+      }
+    ]
+  }
+}

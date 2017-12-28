@@ -1,0 +1,21 @@
+{
+  "update_id": 202413747,
+  "channel_post": {
+    "message_id": 2778,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476913,
+    "text": "BILANCIO DI PREVISIONE DELL'ESERCIZIO 2017 - PRELIEVO DAL FONDO DI RISERVA DI COMPETENZA E DI CASSA PER EURO 8.600,00 PER INTEGRAZIONE STANZIAMENTI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763756",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 149,
+        "length": 92
+      }
+    ]
+  }
+}

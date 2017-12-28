@@ -1,0 +1,21 @@
+{
+  "update_id": 202413745,
+  "channel_post": {
+    "message_id": 2776,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476911,
+    "text": "RINNOVO CONCESSIONE IN USO CONDIVISO DI UN LOCALE DI PROPRIETA' COMUNALE SITO NELLA PALAZZINA DI VIA GRAMSCI 12 (EX REGISTRO) AL GRUPPO TEATRO BONACINA E AL GRUPPO ARTISTICO DESIANO - BIENNIO 2018/2019 - \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763752",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 205,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413749,
+  "channel_post": {
+    "message_id": 2780,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514476915,
+    "text": "ASSOCIAZIONE CULTURALE PRO LOCO DESIO – RICHIESTA PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA MANIFESTAZIONE DENOMINATA “NATALE CON LE CONTRADE” IN PROGRAMMA IN PIAZZA CONCILIAZIONE NEI GIORNI 17 DICEMBRE 2017 E 6 GENNAIO 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3763760",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 229,
+        "length": 92
+      }
+    ]
+  }
+}
