@@ -1,0 +1,31 @@
+{
+  "update_id": 202413703,
+  "channel_post": {
+    "message_id": 2735,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514471592,
+    "text": "Comune.di.Desio\n #Desio modifiche alla raccolta #rifiuti porta a porta: ricordiamo che lunedì 1° gennaio 2018 il servizio di raccolta della Carta e Multileggero in Zona A sarà sospesa. \nLa raccolta dell'UMIDO verrà effettuata il 4 gennaio e quella della CARTA e MULTIMATERIALE LEGGERO il 2 gennaio.\nhttps://www.facebook.com/103441483073684_1639091626175321",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 48,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 299,
+        "length": 57
+      }
+    ]
+  }
+}
