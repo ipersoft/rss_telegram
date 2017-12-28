@@ -1,0 +1,21 @@
+{
+  "update_id": 202413701,
+  "channel_post": {
+    "message_id": 840,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514451738,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/spari-desio-capodanno.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 59
+      }
+    ]
+  }
+}
