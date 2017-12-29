@@ -1,0 +1,21 @@
+{
+  "update_id": 202413778,
+  "channel_post": {
+    "message_id": 2807,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514547500,
+    "text": "Comune.di.Desio\n Gli Assessorati alla Cultura e agli Eventi propongono, in collaborazione con Pro Loco Desio, presentano la compagnia teatrale Unitrè Cesano Maderno in una commedia comico brillante in tre atti di Stefano Palmucci.\n\nAGENZIA MATRIMONIALE \nore 21 \nTeatro parrocchiale San Giovanni Battista - Via di Vittorio 18 - Desio \n\nINGRESSO LIBERO\nhttps://www.facebook.com/103441483073684_931188607040199",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 351,
+        "length": 56
+      }
+    ]
+  }
+}

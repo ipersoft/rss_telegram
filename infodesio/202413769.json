@@ -1,0 +1,21 @@
+{
+  "update_id": 202413769,
+  "channel_post": {
+    "message_id": 2798,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514547104,
+    "text": "ONERI DERIVANTI DALL'INSERIMENTO DI MINORI PRESSO STRUTTURE RESIDENZIALI SU MANDATO DELL'AUTORITA' GIUDIZIARIA DAL 1 GENNAIO AL 20 GIUGNO 2018 - € 250.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3767773",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 92
+      }
+    ]
+  }
+}

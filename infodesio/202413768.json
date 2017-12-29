@@ -1,0 +1,21 @@
+{
+  "update_id": 202413768,
+  "channel_post": {
+    "message_id": 2797,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514547103,
+    "text": "LEGGE REGIONALE 20 FEBBRAIO 1989 N. 6 - ASSUNZIONE IMPEGNO DI SPESA DI EURO 6.295,71 - FABBISOGNO 2013 - II ELENCO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3767768",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 116,
+        "length": 92
+      }
+    ]
+  }
+}

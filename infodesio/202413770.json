@@ -1,0 +1,21 @@
+{
+  "update_id": 202413770,
+  "channel_post": {
+    "message_id": 2799,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514547105,
+    "text": "INSERIMENTO DI MINORI PRESSO LA \"SCUOLA SPECIALE G.RODARI\" DI SEREGNO ANNO 2018 - ASSUNZIONE IMPEGNO DI SPESA DI EURO 10.000,00 E APPROVAZIONE CONVENZIONE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3767775",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 156,
+        "length": 92
+      }
+    ]
+  }
+}

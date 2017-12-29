@@ -1,0 +1,21 @@
+{
+  "update_id": 202413773,
+  "channel_post": {
+    "message_id": 2802,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514547108,
+    "text": "4^ EMISSIONE 2017 AVVISI DI ACCERTAMENTO TARSU 2011-2012, TARES 2013, TARI 2014-2016 E IMU 2012. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3767788",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 98,
+        "length": 92
+      }
+    ]
+  }
+}
