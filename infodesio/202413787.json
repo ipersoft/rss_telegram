@@ -1,0 +1,21 @@
+{
+  "update_id": 202413787,
+  "channel_post": {
+    "message_id": 2816,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514552544,
+    "text": "IMPEGNO DI SPESA PER IL RINNOVO ABBONAMENTI PER L’ANNO 2018 A PERIODICI E PUBBLICAZIONI PER GLI UFFICI E SERVIZI COMUNALI, PER IL SINDACO E PER I DIRIGENTI DI AREA. EURO 3.403,01 I.V.A. COMPRESA. CODICE CIG Z0221815BB. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3769264",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 220,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413785,
+  "channel_post": {
+    "message_id": 2814,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514552534,
+    "text": "Befana a Desio \ntutti gli appuntamenti in programma a Desio il 6 Gennaio 2018, in occasione della Festa della Befana.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46530",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 118,
+        "length": 74
+      }
+    ]
+  }
+}
