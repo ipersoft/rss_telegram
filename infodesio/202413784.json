@@ -1,0 +1,31 @@
+{
+  "update_id": 202413784,
+  "channel_post": {
+    "message_id": 2813,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514552313,
+    "text": "Comune.di.Desio\n #Desio #rifiuti: dal 2 gennaio in funzione due nuovi distributori per il ritiro dei sacchi della raccolta differenziata. Non sarà invece più in funzione quello posizionato all'ingresso A del Comune.\nhttps://www.facebook.com/103441483073684_1639919689425848",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 216,
+        "length": 57
+      }
+    ]
+  }
+}
