@@ -1,0 +1,21 @@
+{
+  "update_id": 202413788,
+  "channel_post": {
+    "message_id": 2817,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514554582,
+    "text": "IL CAMMINO DELL'ACCOGLIENZA - Voci ed immagini per raccontare \nIn occasione della\nil 13 gennaio, in occasione della GIORNATA MONDIALE DEL MIGRANTE E DEL RIFUGIATO, un evento organizzato dall'Assessorato alle Politiche Sociali, insieme al Consorzio Comunità Brianza e al Tavolo Migranti Desio.\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46536",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 294,
+        "length": 74
+      }
+    ]
+  }
+}
