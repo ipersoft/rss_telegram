@@ -1,0 +1,46 @@
+{
+  "update_id": 202413765,
+  "channel_post": {
+    "message_id": 2794,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514545393,
+    "text": "Comune.di.Desio\n L'Assessorato agli Eventi e alle Politiche Educative, propone 5 appuntamenti con PerCorsi in Sala Pertini :\n\n19 gennaio \nPazzi per la Scuola https://www.facebook.com/events/2033171623638998/\n\n2 febbraio \nIl NO Pedagogico https://www.facebook.com/events/247000305834451/\n\n23 febbraio \nNeuroscienza e Didattica https://www.facebook.com/events/1426377994077868/\n\n2 marzo \nLa Fisica di Interstellar https://www.facebook.com/events/1442599399186590/\n\n13 aprile \nSocial Education https://www.facebook.com/events/397907013959785/\nhttps://www.facebook.com/103441483073684_929934050489556",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 158,
+        "length": 49
+      },
+      {
+        "type": "url",
+        "offset": 238,
+        "length": 48
+      },
+      {
+        "type": "url",
+        "offset": 326,
+        "length": 49
+      },
+      {
+        "type": "url",
+        "offset": 412,
+        "length": 49
+      },
+      {
+        "type": "url",
+        "offset": 491,
+        "length": 48
+      },
+      {
+        "type": "url",
+        "offset": 540,
+        "length": 56
+      }
+    ]
+  }
+}
