@@ -1,0 +1,26 @@
+{
+  "update_id": 202413792,
+  "channel_post": {
+    "message_id": 845,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514565396,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/milano-carabinieri-il-bilancio-di-fine-danno-2017/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 72
+      }
+    ]
+  }
+}
