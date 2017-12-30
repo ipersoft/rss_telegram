@@ -1,0 +1,26 @@
+{
+  "update_id": 202413795,
+  "channel_post": {
+    "message_id": 2821,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514628489,
+    "text": "Comune.di.Desio\n A #Desio l'amore per la lettura non conosce sosta. Per chi se lo stava chiedendo, la nostra blioteca ė aperta anche oggi :)\nhttps://www.facebook.com/103441483073684_1640722612678889",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 19,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 141,
+        "length": 57
+      }
+    ]
+  }
+}
