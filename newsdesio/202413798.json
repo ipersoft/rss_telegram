@@ -1,0 +1,21 @@
+{
+  "update_id": 202413798,
+  "channel_post": {
+    "message_id": 849,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514657470,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/criminalita-2017-tra-terrorismo-e-maltrattamenti-gli-interventi-dei-carabinieri/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 110
+      }
+    ]
+  }
+}
