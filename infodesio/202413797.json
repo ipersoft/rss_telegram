@@ -1,0 +1,31 @@
+{
+  "update_id": 202413797,
+  "channel_post": {
+    "message_id": 2822,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514643202,
+    "text": "Comune.di.Desio\n #desio #rifiuti: dal 2 gennaio novità per il ritiro dei sacchi della raccolta differenziata\nhttps://www.facebook.com/103441483073684_1640894255995058",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 109,
+        "length": 57
+      }
+    ]
+  }
+}
