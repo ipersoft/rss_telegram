@@ -1,0 +1,21 @@
+{
+  "update_id": 202413794,
+  "channel_post": {
+    "message_id": 847,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514626280,
+    "text": "MBNews\nhttps://www.mbnews.it/2017/12/omicidio-solaro-michelangelo-redaelli-due-le-coltellate-inferte-dal-killer/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 105
+      }
+    ]
+  }
+}
