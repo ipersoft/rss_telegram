@@ -1,0 +1,36 @@
+{
+  "update_id": 202413800,
+  "channel_post": {
+    "message_id": 2823,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514708362,
+    "text": "Comune.di.Desio\n Buon #SanSilvestro e #Buon2018 #Desio!\nhttps://www.facebook.com/103441483073684_1639890789428738",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 22,
+        "length": 13
+      },
+      {
+        "type": "hashtag",
+        "offset": 38,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 48,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 56,
+        "length": 57
+      }
+    ]
+  }
+}
