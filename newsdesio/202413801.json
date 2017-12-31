@@ -1,0 +1,21 @@
+{
+  "update_id": 202413801,
+  "channel_post": {
+    "message_id": 851,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514718948,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/ladri-arrestati-bovisio-masciago.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 70
+      }
+    ]
+  }
+}
