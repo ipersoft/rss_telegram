@@ -1,0 +1,21 @@
+{
+  "update_id": 202413807,
+  "channel_post": {
+    "message_id": 856,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514823921,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/capodanno-in-brianza-incidenti-e-alcol-di-troppo-il-bollettino-di-fine-anno/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 106
+      }
+    ]
+  }
+}
