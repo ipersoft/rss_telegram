@@ -1,0 +1,21 @@
+{
+  "update_id": 202413805,
+  "channel_post": {
+    "message_id": 854,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514814014,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/primi-bambini-nati-2018.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 61
+      }
+    ]
+  }
+}
