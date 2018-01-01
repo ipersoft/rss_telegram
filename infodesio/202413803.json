@@ -1,0 +1,36 @@
+{
+  "update_id": 202413803,
+  "channel_post": {
+    "message_id": 2824,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514797460,
+    "text": "Comune.di.Desio\n #desio: #buon2018 a chi c'è sempre \nCroce Rossa Italiana - Comitato di Desio Protezione Civile Desio Carabinieri ASST Vimercate Azienda Socio Sanitaria Territoriale Vimercate Avis Comunale Di Desio #polizialocale\nhttps://www.facebook.com/103441483073684_1642894925794991",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 25,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 215,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 230,
+        "length": 57
+      }
+    ]
+  }
+}
