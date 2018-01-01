@@ -1,0 +1,26 @@
+{
+  "update_id": 202413804,
+  "channel_post": {
+    "message_id": 853,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514805669,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/meda-incidente-allalba-sulla-mi-meda-tre-feriti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 70
+      }
+    ]
+  }
+}
