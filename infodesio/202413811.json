@@ -1,0 +1,31 @@
+{
+  "update_id": 202413811,
+  "channel_post": {
+    "message_id": 2826,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514978304,
+    "text": "Comune.di.Desio\n #Befana a #Desio : tutti gli appuntamenti di sabato 6 gennaio da mettere in agenda.\nhttps://www.facebook.com/103441483073684_1644833318934485",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 27,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 101,
+        "length": 57
+      }
+    ]
+  }
+}
