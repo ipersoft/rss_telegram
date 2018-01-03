@@ -1,0 +1,31 @@
+{
+  "update_id": 202413818,
+  "channel_post": {
+    "message_id": 2832,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514984591,
+    "text": "Comune.di.Desio\n #Desio: tutti gli appuntamenti di gennaio al Centro Ricreativo \"Il Girasole\". Occasioni per stare insieme, per imparare nuove cose e per fare movimento in compagnia. http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46490\nIl Centro di Via San Pietro 14 è un servizio voluto dall'Assessorato alle Politiche Sociali per favorire la socializzazione l'aggregazione, le attività culturali, sociali, formative e ricreative degli anziani e adulti.\nhttps://www.facebook.com/103441483073684_1639880049429812",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 183,
+        "length": 74
+      },
+      {
+        "type": "url",
+        "offset": 477,
+        "length": 57
+      }
+    ]
+  }
+}
