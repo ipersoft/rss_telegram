@@ -1,0 +1,21 @@
+{
+  "update_id": 202413821,
+  "channel_post": {
+    "message_id": 2834,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515002057,
+    "text": "Esibizione di pattinaggio sul ghiaccio \nGiovani atlete della scuola Club del Ghiaccio Desio in pista domenica 7 gennaio alle ore 16.30 in piazza Conciliazione\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46552",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 74
+      }
+    ]
+  }
+}
