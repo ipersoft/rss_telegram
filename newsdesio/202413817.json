@@ -1,0 +1,21 @@
+{
+  "update_id": 202413817,
+  "channel_post": {
+    "message_id": 859,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1514984116,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/lasilo-del-calcio-di-desio-diventa-anche-tesi-universitaria/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}

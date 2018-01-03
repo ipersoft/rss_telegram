@@ -1,0 +1,21 @@
+{
+  "update_id": 202413815,
+  "channel_post": {
+    "message_id": 2830,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514983218,
+    "text": "PRESTAZIONI DI ASSISTENZA DOMICILIARE MINORI IN FORMA VOUCHERIZZATA FINO AL 30/06/2018 - IMPEGNO DI SPESA DI EURO 35.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3776933",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 125,
+        "length": 92
+      }
+    ]
+  }
+}

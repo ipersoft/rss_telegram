@@ -1,0 +1,21 @@
+{
+  "update_id": 202413813,
+  "channel_post": {
+    "message_id": 2828,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514983216,
+    "text": "LIQUIDAZIONE QUOTA PARTE DEL CONTRIBUTO PER I LAVORI DI REALIZZAZIONE METROTRANVIA MILANO PARCO NORD – SEREGNO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3776929",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 112,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413816,
+  "channel_post": {
+    "message_id": 2831,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514983218,
+    "text": "ASSEGNAZIONE CONTRIBUTO REGIONALE DI SOLIDARIETÀ - ANNO 2017 - DGR 6755/17 E 7257/17 - PROVVEDIMENTO N.1 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3776935",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 106,
+        "length": 92
+      }
+    ]
+  }
+}

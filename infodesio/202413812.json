@@ -1,0 +1,21 @@
+{
+  "update_id": 202413812,
+  "channel_post": {
+    "message_id": 2827,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514983215,
+    "text": "LAVORI DI FORNITURA E POSA IN OPERA DI TETTOIA DI COPERTURA (ZONA BAGNI MERCATO SUD DI VIA PRATI) - DETERMINA A CONTRARRE E AFFIDAMENTO LAVORI A LO SCIAME COOPERATIVA SOCIALE ONLUS - ASSUNZIONE IMPEGNO DI SPESA DI € 1.800,00= OLTRE IVA – CODICE CIG: Z9B2185294 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3776927",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 262,
+        "length": 92
+      }
+    ]
+  }
+}
