@@ -1,0 +1,26 @@
+{
+  "update_id": 202413819,
+  "channel_post": {
+    "message_id": 2833,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1514986998,
+    "text": "Comune.di.Desio\n #Desio: domenica 7 gennaio, in piazza Conciliazione,  esibizione delle atlete dell'ASD  Club del Ghiaccio Desio. Appuntamento alle 16.30.\nhttps://www.facebook.com/103441483073684_1644947392256411",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 155,
+        "length": 57
+      }
+    ]
+  }
+}
