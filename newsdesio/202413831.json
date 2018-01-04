@@ -1,0 +1,21 @@
+{
+  "update_id": 202413831,
+  "channel_post": {
+    "message_id": 863,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515068297,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/befana-monza-brianza-appuntamenti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 57
+      }
+    ]
+  }
+}
