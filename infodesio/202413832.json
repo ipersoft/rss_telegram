@@ -1,0 +1,21 @@
+{
+  "update_id": 202413832,
+  "channel_post": {
+    "message_id": 2842,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515070356,
+    "text": "desiocittaonline\n Festa della Befana a Desio con vari appuntamenti a ogni ora del giorno. Si comincia presto, alle 7.45, con la «Stradesio», la «Camminata della Befana», giunta alla 36esima edizione, organizzata dal «Gruppo Marciatori Desio». \n\nI più allenati potranno fare ventidue o sedici chilometri, sette per i «podisti della domenica». Sono tre i percorsi, su asfalto e sterrato, attraverso i Comuni di Desio, Nova Milanese e Muggiò, con partenza e arrivo al «PalaDesio» (largo Atleti azzurri d’Italia), per una camminata aperta a tutti.\n\nAttesi oltre due mila podisti: atleti, ma anche molte famiglie con bambini. Sei euro (tesserati) e sette euro (non tesserati) la quota di partecipazione. Sarà possibile iscriversi il giorno stesso della gara, sabato 6 gennaio, dalle 7.45 alle 9 al «PalaDesio».\n\nNel pomeriggio, alle ore 15, il «Corteo del Magi», con partenza dalla Chiesa della Madonna Pellegrina in via Milano, mentre le Contrade del Palio degli Zoccoli e la Pro Loco Desio porteranno la Befana in piazza Conciliazione: laboratori e attività per bambini «Aspettando la Befana».\n\nAlle 16, sempre in piazza Conciliazione, «Salutiamo le Feste» a cura di «BracciAperTe»: i bambini saranno protagonisti di spettacolari giochi di luce.\n\nUltimo appuntamento alle ore 21 alla palestra delle scuole di via Dolomiti per una serata  di musica e ballo a cura della «Bocciofila Parco».\nhttps://www.facebook.com/152776352012040_160969534526055",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1386,
+        "length": 56
+      }
+    ]
+  }
+}
