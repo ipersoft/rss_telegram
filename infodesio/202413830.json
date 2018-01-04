@@ -1,0 +1,21 @@
+{
+  "update_id": 202413830,
+  "channel_post": {
+    "message_id": 2841,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515065549,
+    "text": "ATTIVAZIONE TIROCINIO DELLE STUDENTESSE MELLONE MONICA E FORESTIERI SONIA, ALLIEVE DELLA SCUOLA IRIS (INSEGNAMENTO E RICERCA INDIVIDUO E SISTEMI S.R.L. - SCUOLA DI SPECIALIZZAZIONE IN PSICOTERAPIA) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3778830",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 199,
+        "length": 92
+      }
+    ]
+  }
+}
