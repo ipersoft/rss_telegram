@@ -1,0 +1,21 @@
+{
+  "update_id": 202413824,
+  "channel_post": {
+    "message_id": 2835,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515058940,
+    "text": "desiocittaonline\n Desio si è messa i pattini e piroetta sul ghiaccio. Fino a domenica 7 gennaio sarà in funzione una pista per il pattinaggio su ghiaccio in piazza Conciliazione aperta a tutti con servizio di noleggio pattini. Poco importa se  non si ha la stessa eleganza di Carolina Kostner mentre si sta su un paio di lame in mezzo a una pista ghiacciata. L’importante è divertirsi e esprimere le proprie emozioni. \n\nLa pista sarà «chiusa» da da un gruppo di giovani atlete della scuola di pattinaggio della «ASD Club del Ghiaccio» di Desio che, domenica 7 gennaio alle ore 16.30, si esibiranno in una esibizione.\n\nL’iniziativa rientra nel programma delle iniziative di Natale promosse dell’Assessorato agli Eventi.\nhttps://www.facebook.com/152776352012040_160928884530120",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 719,
+        "length": 56
+      }
+    ]
+  }
+}
