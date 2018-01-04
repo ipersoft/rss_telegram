@@ -1,0 +1,21 @@
+{
+  "update_id": 202413823,
+  "channel_post": {
+    "message_id": 862,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515056465,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/solaro-ucciso-a-coltellate-nel-box-caccia-al-killer-sentiti-gli-amici/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 100
+      }
+    ]
+  }
+}
