@@ -1,0 +1,21 @@
+{
+  "update_id": 202413841,
+  "channel_post": {
+    "message_id": 2848,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515158832,
+    "text": "desiocittaonline\n A Desio è tempo di «papurogio», il dolce tipico della Befana. I pasticceri e i panettieri fanno a gara a chi ne sforma di più, ma solo nei cinque giorni che precedono il 6 gennaio di ogni anno. \n\nll termine «papurogio» deriva dalla parola dialettale «papurot», ovvero bambino paffutello e sorridente, secondo l’iconografia di Gesù bambino. \n\nL’ingrediente base è la pasta di pane a cui vengono aggiunti uova, zucchero, burro, latte e canditi o gocce di cioccolato per \ngli occhi. Infine il dolce è spolverato di zucchero a velo o granella di zucchero. \n\nMa la ricetta è «misteriosa»: cambia da pasticcere a pasticcere, ognuno col proprio segreto. \n\nQuello che è certo è che il 6 gennaio non manca mai nelle case della città.\n\n(Foto tratta dalla pagina Facebook «Papurogio»)\nhttps://www.facebook.com/152776352012040_161243317832010",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 792,
+        "length": 56
+      }
+    ]
+  }
+}
