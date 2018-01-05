@@ -1,0 +1,21 @@
+{
+  "update_id": 202413838,
+  "channel_post": {
+    "message_id": 2845,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515152538,
+    "text": "desiocittaonline\n RIFIUTI, SI CAMBIA\nIl «D-day» è giovedì 11 gennaio: cambia sistema di raccolta dei rifiuti in città con l’introduzione dei sacchi blu con microchip (TAG RFID), un codice univoco personale, per la raccolta del rifiuto secco indifferenziato. Un sistema che consentirà di «misurare» il rifiuto prodotto dalla singola utenza con l’obiettivo, in futuro, di applicare una tariffa puntuale più equa secondo il principio «meno inquini, meno paghi», migliorando nello stesso tempo la percentuale di raccolta differenziata.\n\nL’assessore all’Igiene urbana Stefano Bruno Guidotti (nella foto insieme al sindaco e al presidente di Gelsia Ambiente Massimo Borgato) fissa l’obiettivo: «Ci aspettiamo un aumento di oltre il 10 per cento della differenziata che ci permetterà di superare il 70 per cento, con maggiori risorse dai Consorzi che si occupano del recupero e minori costi per sostenere lo smaltimento». \n\nI sacchi blu saranno distribuiti gratuitamente fino a giovedì 11 gennaio presso la «Casa del Custode» (Palazzo comunale – ingresso piazza Don Giussani) nei seguenti orari: da lunedì a venerdì dalle 8.30 alle 12.30 e dalle 15 alle 19; sabato dalle 8.30 alle 13.30. Per ritirare i sacchi i cittadini devono presentarsi con Tessera sanitaria, mentre le aziende con codice fiscale o partita IVA.\n\nNel frattempo prosegue la campagna di comunicazione con gli incontri pubblici per i cittadini: martedì 9 gennaio alle ore 20.45 presso la scuola primaria «Dolomiti» (via Dolomiti, 5) e venerdì 12 gennaio alle ore 21 presso la Parrocchia di San Carlo.\nhttps://www.facebook.com/152776352012040_161208094502199",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1561,
+        "length": 56
+      }
+    ]
+  }
+}
