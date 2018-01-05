@@ -1,0 +1,36 @@
+{
+  "update_id": 202413836,
+  "channel_post": {
+    "message_id": 2844,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515143890,
+    "text": "Comune.di.Desio\n Domani, come ogni anno per il giorno dell' #Epifania,  a #Desio si rinnoverà la tradizione del #papurogio. \nBuona Befana tutti!\nhttps://www.facebook.com/103441483073684_1646928978724919",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 60,
+        "length": 9
+      },
+      {
+        "type": "hashtag",
+        "offset": 74,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 112,
+        "length": 10
+      },
+      {
+        "type": "url",
+        "offset": 145,
+        "length": 57
+      }
+    ]
+  }
+}
