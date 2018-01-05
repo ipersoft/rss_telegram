@@ -1,0 +1,31 @@
+{
+  "update_id": 202413842,
+  "channel_post": {
+    "message_id": 2849,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515161920,
+    "text": "Comune.di.Desio\n #Desio #Rifiuti: a gennaio arriva il sacco blu. Prosegue la distribuzione gratuita del nuovo sacco blu e la serie di serate e punti informativi, organizzati dall'Amministrazione comunale insieme a Gelsia Ambiente per informare e accompagnare la cittadinanza a questo cambiamento nella raccolta differenziata cittadina. \nAltri tre incontri pubblici in calendario: \n- martedì 9 gennaio alle scuole di Via Dolomiti , \n- venerdì 12 gennaio alle ore 21 alla Parrocchia di San Carlo e\n- mercoledì 17 gennaio alle ore 21 in Sala Pertini (ingresso da piazza Don Giussani). A quest'ultimo incontro è particolarmente attesa la partecipazione dei cittadini di lingua madre Urdu, poiché l'incontro prevede interventi illustrativi delle novità anche in tale lingua.\nhttps://www.facebook.com/103441483073684_1647172058700611",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 770,
+        "length": 57
+      }
+    ]
+  }
+}
