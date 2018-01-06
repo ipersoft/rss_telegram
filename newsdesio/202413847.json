@@ -1,0 +1,21 @@
+{
+  "update_id": 202413847,
+  "channel_post": {
+    "message_id": 868,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515250344,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/lissone-caccia-ai-rapinatori-della-sala-scommesse/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 80
+      }
+    ]
+  }
+}
