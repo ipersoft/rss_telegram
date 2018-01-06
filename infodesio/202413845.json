@@ -1,0 +1,31 @@
+{
+  "update_id": 202413845,
+  "channel_post": {
+    "message_id": 2851,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515243377,
+    "text": "Comune.di.Desio\n #desio #befana: rinviato , causa condizioni meteo , l'appuntamento delle 16 in piazza conciliazione\n (gli altri appuntamenti sono invece confermati)\nhttps://www.facebook.com/103441483073684_1648280501923100",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 166,
+        "length": 57
+      }
+    ]
+  }
+}
