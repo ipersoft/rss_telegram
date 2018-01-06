@@ -1,0 +1,21 @@
+{
+  "update_id": 202413846,
+  "channel_post": {
+    "message_id": 2852,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515244212,
+    "text": "desiocittaonline\n Rinviati, a causa delle condizioni meteo, i laboratori e l'animazione per bambini in programma alle 16 in piazza Conciliazione in occasione dell'Epifania.\nhttps://www.facebook.com/152776352012040_161503154472693",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 173,
+        "length": 56
+      }
+    ]
+  }
+}
