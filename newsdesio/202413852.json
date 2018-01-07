@@ -1,0 +1,26 @@
+{
+  "update_id": 202413852,
+  "channel_post": {
+    "message_id": 873,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515319812,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-incidente-automobilista-perde-il-controlo-dellauto-e/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 81
+      }
+    ]
+  }
+}
