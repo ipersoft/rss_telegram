@@ -1,0 +1,26 @@
+{
+  "update_id": 202413855,
+  "channel_post": {
+    "message_id": 876,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515333948,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/meda-incidente-muore-una-18enne-di-cormano/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 65
+      }
+    ]
+  }
+}
