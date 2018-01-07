@@ -1,0 +1,21 @@
+{
+  "update_id": 202413851,
+  "channel_post": {
+    "message_id": 872,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515318786,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/carabinieri-epifania-ospedale-.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 68
+      }
+    ]
+  }
+}
