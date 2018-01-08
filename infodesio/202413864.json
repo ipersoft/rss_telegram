@@ -1,0 +1,31 @@
+{
+  "update_id": 202413864,
+  "channel_post": {
+    "message_id": 2858,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515444684,
+    "text": "Comune.di.Desio\n #Desio: da Gennaio ripartono i corsi di HubDesio Giovani, servizio dell'assessorato alle politiche giovanili con sede in via Lampugnani. Tante offerte diverse e qualche novità. Per iscrizioni e info: iscrizioni@hubdesio.it .\nhttps://www.facebook.com/103441483073684_1650877784996705",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "email",
+        "offset": 217,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 242,
+        "length": 57
+      }
+    ]
+  }
+}
