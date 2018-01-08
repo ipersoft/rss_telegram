@@ -1,0 +1,26 @@
+{
+  "update_id": 202413860,
+  "channel_post": {
+    "message_id": 2854,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515421220,
+    "text": "desiocittaonline\n Iscrizioni a scuola: dal 9 gennaio è possibile registrarsi\nDa domani, martedì 9 gennaio, le famiglie che devono iscrivere i propri figli nelle prime classi di ogni ordine scolastico (primaria, medie e superiore) potranno registrarsi sul sito del «MIUR» (www.iscrizioni.istruzione.it) e da martedì 16 gennaio potranno procedere alla scelta della scuola. \n\nCi sarà tempo dalle 8 del 16 gennaio alle 20 del 6 febbraio. L’iscrizione online è obbligatoria per le scuole statali, mentre è facoltative per le paritarie. Le iscrizioni online riguardano anche i corsi di istruzione e formazione dei Centri di formazione professionale regionali. Per le scuole dell’infanzia, invece, la domanda resta cartacea e va presentata alla scuola prescelta. \n\nIl  Ministero dell'Istruzione, dell'Università e della Ricerca ha calcolato che siano un milione le famiglie interessate dalla procedura che riguarda solo la prima classe La domanda di iscrizione potrà essere compilata per tutto il periodo fissato dal «MIUR», dal 16 gennaio al 6 febbraio. Senza fretta. Non è prevista alcuna precedenza temporale, quelle arrivate per prime non avranno priorità.\n\nChi ha già un’identità digitale «SPID» («Sistema Pubblico di Identità Digitale») potrà utilizzare le proprie password per accedere al portale delle iscrizioni senza doversi registrare.\n\nGli Istituti comprensivi offrono la possibilità di iscriversi online direttamente presso le segreterie delle scuole, con l’assistenza del personale scolastico, nei seguenti giorni:\n\n    • Istituto comprensivo via Agnesi (plesso via Agnesi – plesso via Diaz): dal 16 gennaio al 6 febbraio - da lunedì a venerdì dalle ore 14 alle ore 16 e sabato 20 gennaio dalle ore 9.30 alle ore 11.30;\n    • Istituto comprensivo via Prati (plesso via Prati – plesso via Sant’Apollinare): dal 16 gennaio al 6 febbraio e sabato 20 gennaio su prenotazione (da mercoledì 10 gennaio – tel. 0362/392316);\n    • Istituto comprensivo via Tolstoj (plesso via Tolstoj – plesso via Dolomiti): dal 16 gennaio al 3 febbraio - da lunedì a venerdì dalle 10.30 alle 13 e sabato 3 febbraio dalle 9.30 alle 11.30.\nhttps://www.facebook.com/152776352012040_161994854423523",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 272,
+        "length": 28
+      },
+      {
+        "type": "url",
+        "offset": 2121,
+        "length": 56
+      }
+    ]
+  }
+}
