@@ -1,0 +1,36 @@
+{
+  "update_id": 202413861,
+  "channel_post": {
+    "message_id": 2855,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515423770,
+    "text": "Comune.di.Desio\n #Desio #scuola: dal 16 gennaio aperte le iscrizioni alla scuola primaria per l'anno scolastico 2018-2019. Su nostro sito tutti i dettagli sulle modalità di iscrizione https://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46314\nhttps://www.facebook.com/103441483073684_1650596418358175",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 184,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 260,
+        "length": 57
+      }
+    ]
+  }
+}

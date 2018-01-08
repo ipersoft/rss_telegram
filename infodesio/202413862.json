@@ -1,0 +1,31 @@
+{
+  "update_id": 202413862,
+  "channel_post": {
+    "message_id": 2856,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515424631,
+    "text": "Comune.di.Desio\n #Desio: cinque incontri con la Pedagogia, la Fisica e il Digitale in Sala Pertini, proposti da @percorsi_desio con il patrocinio dell'Assessorato alle Politiche Educative e agli Eventi.\nhttps://www.facebook.com/103441483073684_1650606378357179",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "mention",
+        "offset": 112,
+        "length": 15
+      },
+      {
+        "type": "url",
+        "offset": 203,
+        "length": 57
+      }
+    ]
+  }
+}
