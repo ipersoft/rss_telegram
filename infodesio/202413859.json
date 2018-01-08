@@ -1,0 +1,26 @@
+{
+  "update_id": 202413859,
+  "channel_post": {
+    "message_id": 2853,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515408019,
+    "text": "desiocittaonline\n PEDAGOGIA, DIGITALE E FISICA: CINQUE INCONTRI\nIl «rischio  burnout» degli insegnanti, la capacità di dire «no» ai nostri figli, la neurodidattica e l’educazione al tempo dei social. E la «star delle stelle», l’astrofisico Luca Perri.\n\nCinque incontri in Sala «Pertini», dal 18 gennaio al 13 aprile, su pedagogia, digitale e fisica promossi da «PerCorsi - Centro di Supporto allo Studio» con il patrocinio dell’Assessorato all’Istruzione.\n\n«La semplicità è una complessità risolta. La frase dello scultore Constantin Brâncuși – dichiara l’assessore all’Istruzione Giorgio Gerosa - spiega il senso di questi incontri. Viviamo in un contesto economico e sociale dove sembra regnare la complessità. Noi vogliamo provare a fare un’analisi della situazione, immaginare scenari futuri, tenersi informati e sapersi orientare in modo semplice».\n\nIl primo incontro, «Pazzi per la scuola», è in programma venerdì 19 gennaio.Vittorio Lodolo D’Oria, medico ematologo, parlerà di «burnout», ossia di disagio mentale professionale degli insegnanti. \n\nI «no» sono indispensabili per educare i bambini e renderli autonomi. Flavio Bacci, formatore aziendale e docente, tratterà il tema del «Il no pedagogico» venerdì 2 febbraio.\n\nFlavio Bacci sarà il relatore anche del terzo incontro, venerdì 23 febbraio, «Neuroscienza e didattica»: come alcune scoperte delle neuroscienze degli ultimi anni sono in grado di migliorare  processi di apprendimento.  \n\nLuca Perri è la guest star del quarto incontro, «La Fisica di Interstellar», venerdì 2 marzo. Giovane astrofisico dell'Osservatorio di Brera, Perri ci farà scoprire cosa si sa, cosa si pensa e cosa si immagina dell’Universo.\n\nIl presente e il futuro dei social network sono al centro dell’ultimo incontro, «Social education», venerdì 13 aprile, con Rosa Giuffré, consulente per la comunicazione digitale e scrittrice e Sonia Monticelli, psicologa e psicoterapeuta della famiglia. \n\nTutti gli incontri avranno inizio alle ore 20.45, sono gratuiti e al termine di ogni serata sarà sarà rilasciato un attestato di partecipazione.\n\nInfo: «PerCorsi - Centro di Supporto allo Studio» - tel. 348/9112589 – email: info@percorsidesio.it.\nhttps://www.facebook.com/152776352012040_161951154427893",
+    "entities": [
+      {
+        "type": "email",
+        "offset": 2158,
+        "length": 21
+      },
+      {
+        "type": "url",
+        "offset": 2181,
+        "length": 56
+      }
+    ]
+  }
+}
