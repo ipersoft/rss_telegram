@@ -1,0 +1,21 @@
+{
+  "update_id": 202413857,
+  "channel_post": {
+    "message_id": 878,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515402733,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/gelsia-ambiente-porta-il-sacco-blu-a-desio-arriva-il-microchip/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 93
+      }
+    ]
+  }
+}
