@@ -1,0 +1,31 @@
+{
+  "update_id": 202413867,
+  "channel_post": {
+    "message_id": 2860,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515492728,
+    "text": "Comune.di.Desio\n Da giovedì 11 gennaio 2018 a #Desio arriva il sacco blu per la raccolta dei #rifiuti indifferenziati. \nStasera, dopo quelli già organizzati negli scorsi mesi di novembre e dicembre, un nuovo incontro pubblico alle 20:45 alle scuole di Via Dolomiti per informarsi e risolvere ogni eventuale dubbio su come utilizzare i nuovi sacchi.\nAltri due incontri si terranno \n- venerdì 12 gennaio alle ore 21 alla Parrocchia di San Carlo e\n- mercoledì 17 gennaio alle ore 21 in Sala Pertini (ingresso da piazza Don Giussani).\nhttps://www.facebook.com/103441483073684_1651384231612727",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 46,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 93,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 531,
+        "length": 57
+      }
+    ]
+  }
+}
