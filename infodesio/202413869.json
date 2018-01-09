@@ -1,0 +1,21 @@
+{
+  "update_id": 202413869,
+  "channel_post": {
+    "message_id": 2862,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515508646,
+    "text": "desiocittaonline\n Sacco blu, ancora due serate informative\nOgni anno ogni cittadino produce 412 Kg di rifiuti e Gelsia Ambiente raccoglie 17.313 tonnellate di rifiuti.\n\nOltre il 60 per cento del rifiuto indifferenziato è riciclabile. Per questo l’Amministrazione comunale e Gelsia Ambiente hanno deciso di introdurre il sacco blu con microchip (TAG RFID): per aumentare la raccolta differenziata, con maggiori risorse dai Consorzi che si occupano del recupero e minori costi per sostenere lo smaltimento.\n\nUn sistema che consentirà di «misurare» il rifiuto prodotto dalla singola utenza con l’obiettivo, in futuro, di applicare una tariffa puntuale più equa secondo il principio «meno inquini, meno paghi».\n\nDi questo si parlerà stasera alle ore 20.45 presso la scuola primaria «Dolomiti» (via Dolomiti, 5) e venerdì 12 gennaio alle ore 21 presso la Parrocchia di San Carlo.\n\nSerate informative, la presentazione.\nhttps://www.facebook.com/152776352012040_162240091065666",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 914,
+        "length": 56
+      }
+    ]
+  }
+}
