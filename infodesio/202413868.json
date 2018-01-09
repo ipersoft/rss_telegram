@@ -1,0 +1,26 @@
+{
+  "update_id": 202413868,
+  "channel_post": {
+    "message_id": 2861,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515504433,
+    "text": "desiocittaonline\n «BrianzAcque,» nuovo servizio di autolettura dei contatori dell’acqua via SMS\n«BrianzAcque,» mette a disposizione degli utenti una modalità in più per l’autolettura dei consumi idrici. Da quest’anno, la comunicazione può essere effettuata anche tramite un semplice SMS, da inviare al numero 342.0912554.\n\nIl testo del messaggio dovrà contenere il proprio Codice Servizio (riportato sul frontespizio della bolletta nel riquadro in alto a destra), un carattere separatore (#) e i numeri indicati in nero sul proprio contatore (quelli rossi evidenziano i decimali e non devono essere riportati). Una volta ricevuto l’SMS, «BrianzAcque,» confermerà l’avvenuta lettura e il buon esito dell’operazione attraverso un «messaggino» di risposta a proprio carico. \n\nL’autolettura, già possibile via telefono con il numero verde, via mail e con fax, è una pratica fondamentale per ricevere a ogni scadenza bollette calcolate su consumi effettivi e il più precisi possibili. È, inoltre, un ottimo sistema anche per permettere ai cittadini di verificare la presenza di eventuali perdite d’acqua negli impianti interni.\n\nIl costo di ogni messaggio inviato dall’utente alla local utility dell’idrico brianzolo è quello applicato dall’operatore del cliente. Il servizio è attivo tutti i giorni, 24 ore su 24.\n\nGli operatori del Numero verde – Servizio clienti 800.005.191 - sono a disposizione, per fornire l’assistenza necessaria.\n\nPer saperne di più: www.brianzacque.it/cittadini-servizi-autolettura-contatore-sms.html\nhttps://www.facebook.com/152776352012040_162223201067355",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1454,
+        "length": 67
+      },
+      {
+        "type": "url",
+        "offset": 1522,
+        "length": 56
+      }
+    ]
+  }
+}
