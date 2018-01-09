@@ -1,0 +1,21 @@
+{
+  "update_id": 202413874,
+  "channel_post": {
+    "message_id": 2867,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515517460,
+    "text": "ORDINANZA DIRIGENZIALE SULLA MODALITÀ DI CONFERIMENTO DEI RIFIUTI DELLA FRAZIONE RESIDUA (SECCO INDIFFERENZIATO) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786181",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 114,
+        "length": 92
+      }
+    ]
+  }
+}

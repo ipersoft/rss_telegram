@@ -1,0 +1,21 @@
+{
+  "update_id": 202413873,
+  "channel_post": {
+    "message_id": 2866,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515517460,
+    "text": "MAGIC LORY S.R.L.. ESERCIZIO DI SOMMINISTRAZIONE ALIMENTI E BEVANDE ALL’INSEGNA CLUB BAR 78, SITO IN VIA GRANDI, 37/H. APPLICAZIONE MISURA DI MITIGAZIONE DELLE EMISSIONI SONORE DERIVANTE DALL’ESERCIZIO DELL’ATTIVITÀ, CAUSA DI DISTURBO ALLA PUBBLICA QUIETE, MEDIANTE RIDUZIONE DELL’ORARIO DI APERTURA AL PUBBLICO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786148",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 313,
+        "length": 92
+      }
+    ]
+  }
+}
