@@ -1,0 +1,26 @@
+{
+  "update_id": 202413866,
+  "channel_post": {
+    "message_id": 2859,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515491228,
+    "text": "Comune.di.Desio\n #Desio: ancora possibile prenotarsi per l'evento Il Cammino dell'Accoglienza in programma il prossimo sabato 13 gennaio in Villa Tittoni . \nIn programma un pomeriggio di teatro e immagini per raccontare l’immigrazione con le associazioni del \"Tavolo Migranti\" di Desio, il Consorzio Comunità Brianza e META Cooperativa Sociale . \nAl termine dell'evento, aperitivo con le associazioni Desio Città Aperta e Casa delle Donne - Desio.\nhttps://www.facebook.com/103441483073684_1651368658280951",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 448,
+        "length": 57
+      }
+    ]
+  }
+}
