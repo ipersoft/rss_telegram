@@ -1,0 +1,21 @@
+{
+  "update_id": 202413871,
+  "channel_post": {
+    "message_id": 2864,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515512356,
+    "text": "EROGAZIONE DEL SERVIZIO DI ASSISTENZA DOMICILIARE PER ANZIANI E DISABILI MEDIANTE ACCREDITAMENTO DI SOGGETTI PROFIT E NON PROFIT: IMPEGNO DI SPESA ANNO 2018 EURO 150.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3785932",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 174,
+        "length": 92
+      }
+    ]
+  }
+}
