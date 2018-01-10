@@ -1,0 +1,21 @@
+{
+  "update_id": 202413881,
+  "channel_post": {
+    "message_id": 2873,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515592340,
+    "text": "desiocittaonline\n Oggi pomeriggio (dalle 15 alle 19) e domani (dalle 8.30 alle 12.30 e dalle 15 alle 19) ultimi giorni per ritirare i nuovi sacchi blu con microchip.\n\nI sacchi per la raccolta dei rifiuti indifferenziati sono distribuiti gratuitamente presso la «Casa del Custode» (Palazzo comunale – ingresso piazza Don Giussani). I cittadini devono presentarsi con Tessera sanitaria, mentre le aziende con codice fiscale o partita IVA.\n\nEcco tutto quello che c'è da sapere sul sacco blu.\nhttps://www.facebook.com/152776352012040_162492027707139",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 489,
+        "length": 56
+      }
+    ]
+  }
+}
