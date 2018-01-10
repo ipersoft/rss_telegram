@@ -1,0 +1,26 @@
+{
+  "update_id": 202413882,
+  "channel_post": {
+    "message_id": 2874,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515594432,
+    "text": "Comune.di.Desio\n Nell'ambito di #Culturando - cartellone degli eventi culturali e per il tempo libero in Città, e del Piano di Zona, gli Assessorati alla Cultura, Politiche Educative e Politiche Sociali, propongono tre incontri pubblici dedicati ai genitori: \n\nLunedì 22 gennaio ore 21\nABBIAMO BISOGNO DI GENITORI AUTOREVOLI Aiutare gli adolescenti a diventare adulti\nIncontro con il dott. Matteo Lancini, psicologo e psicoterapeuta a cura della Fondazione Minotauro\n\nMartedì 23 gennaio ore 20.30\nBiblioteca civica - via Cavalieri di Vittorio Veneto\nLITIGARE FA BENE - UN METODO PER AIUTARE LE FAMIGLIE A GESTIRE I CONFLITTI\nIncontro a cura del Centro Psicopedagogico per l’educazione e la gestione dei conflitti di Piacenza \n\nMartedì 6 febbraio ore 21\nBAMBINI 3 - 7 ANNI: ONLY VIDEOGAMES\nIncontro con le dott.sse L. Magni e L. Maltempi a cura di INconT@tto - Centro specializzato sulle nuove tecnologie\n\n[ingresso libero]\nhttps://www.facebook.com/103441483073684_383718638742645",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 32,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 923,
+        "length": 56
+      }
+    ]
+  }
+}
