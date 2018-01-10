@@ -1,0 +1,21 @@
+{
+  "update_id": 202413879,
+  "channel_post": {
+    "message_id": 2871,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515580635,
+    "text": "desiocittaonline\n Sacco blu: raccolta differenziata oltre il 70 per cento\nSono già quattro i Comuni brianzoli che hanno attivato il sacco blu per la raccolta del secco indifferenziato: Seveso, il primo, nel 2014 e poi l’anno scorso Seregno, Lissone, Bovisio Masciago (oltre a Cusano Milanino della città metropolitana di Milano), per un totale di 150 mila abitanti.\n\nA Seveso, Seregno, Lissone e Bovisio Masciago Gelsia Ambiente ha distribuito due milioni e trecento mila sacchi con microchip e, in media, la percentuale di raccolta differenziata è aumentata di oltre 11 punti percentuali, passando dal 65,4 per cento al 76,6 per cento. \n\nLa percentuale dei rifiuti indifferenziati è crollata di oltre 40 punti, mentre la raccolta dell’umido è cresciuta del 20 per cento. «Numeri» che stanno facendo risparmiare ai Comuni in media il 23 per cento dei costi di smaltimento, a fronte di un aumento di poco più del 26 per cento dei ricavi dal recupero dei materiali (carta e plastica).\n\nE poi c’è l’impatto ambientale: il sacco blu ha «tagliato» quasi due milioni di Kg/aa di emissioni di CO2, anidride carbonica, in atmosfera.\n\nDa domani, giovedì 11 gennaio, il sacco blu con microchip (TAG RFID) sarà attivo anche a Desio. E con Limbiate e Cesano Maderno, che partiranno a breve, saranno 270 mila gli abitanti che raccoglieranno i rifiuti indifferenziati con il nuovo sacco blu.\nhttps://www.facebook.com/152776352012040_162454654377543",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1378,
+        "length": 56
+      }
+    ]
+  }
+}
