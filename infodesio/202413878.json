@@ -1,0 +1,21 @@
+{
+  "update_id": 202413878,
+  "channel_post": {
+    "message_id": 2870,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515574654,
+    "text": "desiocittaonline\n L’immigrazione raccontata con una matita\n«Vedi Lampedusa e poi vivi. Senza quest’isola non avrei trovato la forza necessaria per poter disegnare il racconto dei migranti». Così Francesco Piobbichi parla del suo progetto, «Disegni dalla Frontiera», che sarà presentato sabato 13 gennaio alle ore 17 in Villa Tittoni Traversi (via Lampugnani, 62) in occasione dell’iniziativa «Il cammino dell’accoglienza - Voci ed immagini per raccontare».\n\nFrancesco Piobbichi, operatore di «Mediterranean Hope», progetto della «Federazione delle Chiese evangeliche in Italia» («FCEI»), ha scelto  un linguaggio diverso da quello dei rapporti ufficiali, degli articoli o dei reportage: un nuovo metodo narrativo, il disegno, per raccontare le storie, spesso drammatiche, di chi attraversa il Mediterraneo. \n\nDisegni di getto, drammatici, tratti semplici e colori vivaci, per uno storytelling  visivo delle migrazioni mediterranee e della frontiera sud dell’Europa. Così Francesco Piobbichi ci racconta la sua esperienza di tre anni a Lampedusa ma anche nei luoghi da cui i migranti partono, soprattutto Marocco e Libano,  dove ha collaborato per la realizzazione dei corridoi umanitari.\nhttps://www.facebook.com/152776352012040_162435334379475",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1188,
+        "length": 56
+      }
+    ]
+  }
+}

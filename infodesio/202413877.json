@@ -1,0 +1,21 @@
+{
+  "update_id": 202413877,
+  "channel_post": {
+    "message_id": 2869,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515573255,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA NINO BIXIO IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786327",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 119,
+        "length": 92
+      }
+    ]
+  }
+}
