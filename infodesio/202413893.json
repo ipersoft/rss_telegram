@@ -1,0 +1,21 @@
+{
+  "update_id": 202413893,
+  "channel_post": {
+    "message_id": 2883,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515682110,
+    "text": "Culturando maggio 2017: Vita sostenibile \nTutti gli appuntamenti a Desio di gennaio febbraio 2018\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46556",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 98,
+        "length": 74
+      }
+    ]
+  }
+}
