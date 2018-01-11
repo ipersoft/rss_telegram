@@ -1,0 +1,21 @@
+{
+  "update_id": 202413896,
+  "channel_post": {
+    "message_id": 2886,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515689303,
+    "text": "Domenica a Teatro 2017/2018 \nUn topo ... due topi ... tre topi. Un treno per Hamelin. Domenica 14 gennaio ore 16 Teatro Il Centro\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46584",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 130,
+        "length": 74
+      }
+    ]
+  }
+}

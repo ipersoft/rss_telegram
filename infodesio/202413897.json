@@ -1,0 +1,21 @@
+{
+  "update_id": 202413897,
+  "channel_post": {
+    "message_id": 2887,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515689304,
+    "text": "Agenzia matrimoniale \nCommedia comico brillante di Stefano Palmuccia cura della Pro Loco Desio in occasione della Giornata Nazionale delle Lingue Locali. Teatro parrocchia San Giovanni Battista sabato 13 gennaio ore 21\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46597",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 219,
+        "length": 74
+      }
+    ]
+  }
+}

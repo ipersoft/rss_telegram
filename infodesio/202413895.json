@@ -1,0 +1,21 @@
+{
+  "update_id": 202413895,
+  "channel_post": {
+    "message_id": 2885,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515689302,
+    "text": "Testimone sopravvisuto \nPER NON DIMENTICARE\nUn viaggio virtuale e inertattivo tra le esperienze dei campi di sterminio in occasione della Giornata della Memoria.\nBiblioteca civica 20 e 21 gennaio 2018 dalle ore 15 alle ore 21\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46566",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 227,
+        "length": 74
+      }
+    ]
+  }
+}
