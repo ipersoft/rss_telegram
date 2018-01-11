@@ -1,0 +1,21 @@
+{
+  "update_id": 202413885,
+  "channel_post": {
+    "message_id": 2876,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515665107,
+    "text": "ASSUNZIONE A TEMPO INDETERMINATO DEL SIG. MIANULLI GIUSEPPE IN QUALITA’ DI ASSISTENTE SERVIZI INFORMATICI – CAT. C1 – PRESSO IL SETTORE SERVIZI DI STAFF / SERVIZIO SISTEMI INFORMATIVI - ICT \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3790167",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 191,
+        "length": 92
+      }
+    ]
+  }
+}

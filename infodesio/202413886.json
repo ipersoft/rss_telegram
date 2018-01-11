@@ -1,0 +1,21 @@
+{
+  "update_id": 202413886,
+  "channel_post": {
+    "message_id": 2877,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515665108,
+    "text": "DEFINIZIONE DEL CONTRATTO DI LOCAZIONE DELL'ALLOGGIO SITO IN VIA OLMETTO N. 48, RELATIVO AL SIG. L.C.A. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3790169",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 105,
+        "length": 92
+      }
+    ]
+  }
+}

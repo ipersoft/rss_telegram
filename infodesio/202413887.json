@@ -1,0 +1,21 @@
+{
+  "update_id": 202413887,
+  "channel_post": {
+    "message_id": 2878,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515665109,
+    "text": "INDIZIONE PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI TRASPORTO SCOLASTICO DEGLI ALUNNI DELLE SCUOLE SECONDARIE DI PRIMO GRADO \"PERTINI\" E \"RODARI\" DI DESIO - PERIODO SETTEMBRE 2018/GIUGNO 2021 - CIG. 7345807FB0 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3790171",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 220,
+        "length": 92
+      }
+    ]
+  }
+}

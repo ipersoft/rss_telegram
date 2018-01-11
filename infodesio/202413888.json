@@ -1,0 +1,21 @@
+{
+  "update_id": 202413888,
+  "channel_post": {
+    "message_id": 2879,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515665110,
+    "text": "CONVOCAZIONE DEI COMIZI ELETTORALI PER L'ELEZIONE DIRETTA DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE LOMBARDIA PER IL GIORNO 4 MARZO 2018 - PRESA D'ATTO DELLA COSTITUZIONE DELL'UFFICIO ELETTORALE COMUNALE E DELL' AUTORIZZAZIONE AL PERSONALE DIPENDENTE AD EFFETTUARE PRESTAZIONI DI LAVORO STRAORDINARIO GIÀ DISPOSTE CON PROPRIA DETERMINAZIONE N. 7 DEL 5.1.2018. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3790173",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 374,
+        "length": 92
+      }
+    ]
+  }
+}
