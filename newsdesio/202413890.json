@@ -1,0 +1,21 @@
+{
+  "update_id": 202413890,
+  "channel_post": {
+    "message_id": 883,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515671073,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/solaro-maltrattava-madre-e-sorella-20enne-in-manette/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 83
+      }
+    ]
+  }
+}
