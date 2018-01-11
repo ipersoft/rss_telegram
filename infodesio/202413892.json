@@ -1,0 +1,36 @@
+{
+  "update_id": 202413892,
+  "channel_post": {
+    "message_id": 2882,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515675144,
+    "text": "Comune.di.Desio\n #DESIO: INIZIATA LA RACCOLTA DEL SACCO BLU!\nDopo settimane di campagna informativa, è iniziata oggi giovedì 11 gennaio, per gli utenti della zona A, la raccolta del rifiuto secco indifferenziato con il nuovo sacco blu munito di microchip (TAG RFID). Seguono domani venerdì 12 gli utenti della zona B e sabato 13 quelli della zona C. \nNon è quindi più possibile utilizzare i vecchi sacchi grigi e vengono ritirati solo i sacchi blu. \nChi non ha ancora provveduto a ritirare la sua dotazione gratuita di sacchi blu, può farlo fino al 20 gennaio, presso la “Casa del Custode” del Palazzo Comunale (ingresso da Piazza Don Giussani) aperta da lunedì a venerdì: 8.30-12.30 e 15.00-19.00, sabato: 8.30-13.30. \nPer ritirare i sacchi è comunque già operativo anche il nuovo  distributore automatico installato in Piazza don Giussani e, a breve, saranno attivi anche quelli in Piattaforma Ecologica (via Einaudi, negli orari di apertura della stessa), presso il Centro Sportivo di Via Agnesi e successivamente al Mercato di Via Prati. \nPer informazioni dettagliate sulla modalità di ritiro della dotazione dei sacchi blu e, più in generale, sul corretto conferimento della propria raccolta differenziata, è attivo l’indirizzo internet dedicato www.gelsiambiente.it/unsaccogiusto, in aggiunta al numero verde gratuito 800.445964 e all’indirizzo e-mail infoambiente@gelsia.it.\nhttps://www.facebook.com/103441483073684_1653523191398831",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 1251,
+        "length": 34
+      },
+      {
+        "type": "email",
+        "offset": 1358,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 1382,
+        "length": 57
+      }
+    ]
+  }
+}
