@@ -1,0 +1,21 @@
+{
+  "update_id": 202413906,
+  "channel_post": {
+    "message_id": 2894,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515764949,
+    "text": "desiocittaonline\n SACCO BLU, STASERA INCONTRO A SAN CARLO\nRitiro dei sacchi fino al 20 gennaio e distributore automatico in piazza don Giussani\n\nÈ partita ieri in città la raccolta dei rifiuti con i sacchi blu con microchip (TAG RFID) per la raccolta del rifiuto secco indifferenziato. I vecchi sacchi di colore grigio, dunque, sono andati in pensione e, da ieri, non vengono più raccolti dagli operatori di Gelsia Ambiente. \n\nI sacchi blu hanno un codice univoco personale che è assegnato al momento della consegna e sarà, quindi, diverso rispetto a quello di un’altra persona o famiglia. Nelle giornate di ritiro, il sacco regolarmente esposto in strada, è caricato dagli operatori sui mezzi dotati di un sistema di registrazione («reader»), che rileva il codice e trasferisce i dati ad un software centrale, che elabora la quantità di rifiuto effettivamente prodotta da ogni cittadino. Un sistema che consentirà, in futuro, di applicare una tariffa puntuale più equa secondo il principio «meno inquini, meno paghi», migliorando nello stesso tempo la percentuale di raccolta differenziata.\n\nSe ne parlerà stasera a San Carlo in un incontro pubblico. Appuntamento alle ore ore 21 presso la Parrocchia di San Carlo.\n\nNel frattempo prosegue, fino a sabato 20 gennaio, la distribuzione gratuita dei sacchi blu presso la «Casa del Custode» (Palazzo comunale – ingresso piazza Don Giussani) nei seguenti orari: da lunedì a venerdì dalle 8.30 alle 12.30 e dalle 15 alle 19; sabato dalle 8.30 alle 13.30. Per ritirare i sacchi i cittadini devono presentarsi con Tessera sanitaria, mentre le aziende con codice fiscale o partita IVA.\n\nÈ possibile ritirare i sacchi anche dal nuovo distributore automatico in piazza don Giussani. A breve ne saranno attivati altri tre: Piattaforma ecologica (via Einaudi), presso il Centro Sportivo di via Agnesi e  al mercato di via Prati.\nhttps://www.facebook.com/152776352012040_162982780991397",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1866,
+        "length": 56
+      }
+    ]
+  }
+}
