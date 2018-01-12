@@ -1,0 +1,21 @@
+{
+  "update_id": 202413910,
+  "channel_post": {
+    "message_id": 2897,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515768487,
+    "text": "Corso per volontari AutoAmica \naperto a tutti i volontari già attivi e agli\ninteressati a divenire nuovi volontari\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46626",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 115,
+        "length": 74
+      }
+    ]
+  }
+}
