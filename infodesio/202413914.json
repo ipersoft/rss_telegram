@@ -1,0 +1,31 @@
+{
+  "update_id": 202413914,
+  "channel_post": {
+    "message_id": 2900,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515772187,
+    "text": "Comune.di.Desio\n Aggiornamento del Piano triennale per la prevenzione della corruzione e la trasparenza del Comune di #Desio: avviso di apertura della consultazione pubblica. \nScadenza per la presentazione delle proposte: lunedì 29 gennaio 2018, ore 12.\nTutti i dettagli qui:\nhttps://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46616\nhttps://www.facebook.com/103441483073684_1654595754624908",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 118,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 276,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 352,
+        "length": 57
+      }
+    ]
+  }
+}
