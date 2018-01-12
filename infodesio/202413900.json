@@ -1,0 +1,21 @@
+{
+  "update_id": 202413900,
+  "channel_post": {
+    "message_id": 2889,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515748150,
+    "text": "desiocittaonline\n Par condicio: le «regole» della comunicazione istituzionale\nCon la pubblicazione in Gazzetta Ufficiale (G.U. Serie Generale n. 302 del 29/12/2017) del decreto del Presidente della Repubblica n. 209 del 28 dicembre 2017 di convocazione dei comizi elettorali per le prossime elezioni politiche del 4 marzo 2018, inizia formalmente il periodo di «par condicio» anche per l’attività di comunicazione delle Pubbliche amministrazioni.\n\nPertanto, fino alla date delle consultazioni elettorali, l’ufficio stampa, nella sua attività giornalistica e nella pagina Facebook di «DesioCittà», si atterrà a quanto previsto dall’art. 9 della Legge 22 febbraio 2000, n. 28 («Disposizioni per la parità di accesso ai mezzi di informazione durante le campagne elettorali e referendarie e per la comunicazione politica»): «Dalla data di convocazione dei comizi elettorali e fino alla chiusura delle operazioni di voto è fatto divieto a tutte le amministrazioni pubbliche di svolgere attività di comunicazione ad eccezione di quelle effettuate in forma impersonale ed indispensabili per l'efficace assolvimento delle proprie funzioni». \n\nQualsiasi commento politico/elettorale su questa pagina Facebook sarà cancellato.\nhttps://www.facebook.com/152776352012040_162931947663147",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1217,
+        "length": 56
+      }
+    ]
+  }
+}
