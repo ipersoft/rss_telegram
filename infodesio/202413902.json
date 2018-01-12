@@ -1,0 +1,21 @@
+{
+  "update_id": 202413902,
+  "channel_post": {
+    "message_id": 2891,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515751526,
+    "text": "REVOCA DETERMINAZIONE N. 863 DEL 27.11.2017 RELATIVA AL TRASFERIMENTO EX ART. 30 D.LGS. 165/2001 DEL SIG. BESOZZI OSCAR DAL COMUNE DI DESIO AL COMUNE DI COMO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3793822",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 92
+      }
+    ]
+  }
+}

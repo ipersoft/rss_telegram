@@ -1,0 +1,21 @@
+{
+  "update_id": 202413903,
+  "channel_post": {
+    "message_id": 2892,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515751527,
+    "text": "APPROVAZIONE GRADUATORIA RELATIVA ALL'AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE ALLA PARTECIPAZIONE COME PARTNER DEL COMUNE DI DESIO - ENTE CAPOFILA - AL PROGETTO PER L'OTTENIMENTO DEL FINANZIAMENTO DESTINATO AI PROGETTI PER LA GESTIONE SOCIALE DEI QUARTIERI DI EDILIZIA PUBBLICA IN LOMBARDIA (POR FSE 2014-2020 - ASSE II - AZIONE 9.1.3 E 9.4.2) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3793824",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 356,
+        "length": 92
+      }
+    ]
+  }
+}

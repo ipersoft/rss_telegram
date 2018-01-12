@@ -1,0 +1,21 @@
+{
+  "update_id": 202413901,
+  "channel_post": {
+    "message_id": 2890,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515751525,
+    "text": "AFFIDAMENTO ALL’AZIENDA SPECIALE CONSORTILE DESIO-BRIANZA DEL SIL – IMPEGNO DI SPESA ANNO 2018 - € 55.000,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3793820",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 110,
+        "length": 92
+      }
+    ]
+  }
+}
