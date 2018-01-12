@@ -1,0 +1,21 @@
+{
+  "update_id": 202413904,
+  "channel_post": {
+    "message_id": 2893,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515754104,
+    "text": "Dal 16 gennaio aperte le iscrizioni  alle scuole per l'Infanzia anno scolastico 2018-2019 \nla scadenza per le iscrizioni è fissata al 6 Febbraio 2018. \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46607",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 152,
+        "length": 74
+      }
+    ]
+  }
+}
