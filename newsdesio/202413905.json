@@ -1,0 +1,21 @@
+{
+  "update_id": 202413905,
+  "channel_post": {
+    "message_id": 885,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515758652,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/giorgio-gori-monza-brianza/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 57
+      }
+    ]
+  }
+}
