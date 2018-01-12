@@ -1,0 +1,26 @@
+{
+  "update_id": 202413908,
+  "channel_post": {
+    "message_id": 2895,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1515766779,
+    "text": "desiocittaonline\n ALLA RICERCA DELLA MEMORIA\nIl lungo viaggio sui vagoni blindati e poi la vita nel lager. Non c’era tempo per pensare, l’unico pensiero era mangiare, proteggersi dal freddo e evitare le botte. «Testimone sopravvissuto» è un esperimento di «teatro immersivo»: un viaggio virtuale e interattivo tra le esperienze dei campi di sterminio.\n\nL’appuntamento è in Biblioteca civica (via Cavalieri di Vittorio Veneto) sabato 20 gennaio e domenica 21 gennaio, dalle 15 alle 21, in occasione della «Giorno della Memoria».\n\nUn percorso di poco più di mezz’ora per vivere sulla propria pelle la terribile esperienza dei deportati nei campi di concentramento. L'ingresso è libero, ma la prenotazione (entro il 19/1) è obbligatoria: «Hub Desio Giovani» (email: iscrizioni@hubdesio.it) o Biblioteca civica (tel. 0362/392.317).\n\nIl «Giorno della Memoria» prosegue sabato 27 gennaio, alle ore 21 in Villa Tittoni Traversi (via Lampugnani, 62), con  «Marì», una produzione «Teatrando» (ingresso libero): la storia del «Soldato» e della «Bambina» che cercano di sopravvivere all’isolamento dei campi di sterminio nazisti e di mantenere un legame col passato. Non si possono parlare, ma si possono guardare, incontrandosi nello spazio di un foglio a cui vengono affidati sentimenti, paure, interrogativi. Lettere e diario diventano, così, l’unica possibilità di contatto.\nhttps://www.facebook.com/152776352012040_162989157657426",
+    "entities": [
+      {
+        "type": "email",
+        "offset": 763,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 1368,
+        "length": 56
+      }
+    ]
+  }
+}
