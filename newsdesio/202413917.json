@@ -1,0 +1,21 @@
+{
+  "update_id": 202413917,
+  "channel_post": {
+    "message_id": 890,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515931317,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/limbiate-spaccia-hashish-in-accappatoio-24-enne-arrestato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 88
+      }
+    ]
+  }
+}
