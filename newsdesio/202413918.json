@@ -1,0 +1,21 @@
+{
+  "update_id": 202413918,
+  "channel_post": {
+    "message_id": 891,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1515951630,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/terza-categoria-il-tabellino-di-aurora-desio-sanrocco-23298",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 99
+      }
+    ]
+  }
+}
