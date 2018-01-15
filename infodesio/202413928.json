@@ -1,0 +1,21 @@
+{
+  "update_id": 202413928,
+  "channel_post": {
+    "message_id": 2907,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516012331,
+    "text": "PROGETTO PROMOZIONE DEL LIBRO E DELLA LETTURA TRA I BAMBINI - ASSOCIAZIONE CULTURALE \"LA PORTA SOCCHIUSA\" - IMPEGNO DI SPESA DI €. 4.000,00. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3796882",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 142,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413930,
+  "channel_post": {
+    "message_id": 2909,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516012333,
+    "text": "RENDICONTO DELLE SPESE ECONOMALI SOSTENUTE DAL 01.12.2017 AL 31.12.2017. CHIUSURA DEL IV TRIMESTRE E CHIUSURA DELL’ANTICIPAZIONE RICEVUTA PER L’ANNO 2017. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3796886",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 156,
+        "length": 92
+      }
+    ]
+  }
+}

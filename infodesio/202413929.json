@@ -1,0 +1,21 @@
+{
+  "update_id": 202413929,
+  "channel_post": {
+    "message_id": 2908,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516012332,
+    "text": "APPROVAZIONE DEL PROGRAMMA DELL’EVENTO INTITOLATO \"IL CAMMINO DELL’ACCOGLIENZA\" ORGANIZZATO DALL’ASSESSORATO ALLE POLITICHE SOCIALI IN COLLABORAZIONE CON IL CONSORZIO COMUNITA’ BRIANZA E IL TAVOLO MIGRANTI DI DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3796884",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 216,
+        "length": 92
+      }
+    ]
+  }
+}
