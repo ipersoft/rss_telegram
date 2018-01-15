@@ -1,0 +1,36 @@
+{
+  "update_id": 202413934,
+  "channel_post": {
+    "message_id": 2913,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516023254,
+    "text": "Comune.di.Desio\n #desio #elezioni2018: sul nostro sito istituzionale, da oggi tutte le informazioni sulle elezioni della Camera dei Deputati, del Senato della Repubblica, del Consiglio Regionale  e del Presidente della Regione Lombardia \nhttps://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46646\nhttps://www.facebook.com/103441483073684_1657294514355032",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 13
+      },
+      {
+        "type": "url",
+        "offset": 238,
+        "length": 75
+      },
+      {
+        "type": "url",
+        "offset": 314,
+        "length": 57
+      }
+    ]
+  }
+}
