@@ -1,0 +1,26 @@
+{
+  "update_id": 202413933,
+  "channel_post": {
+    "message_id": 2912,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516022768,
+    "text": "desiocittaonline\n PIANO ANTI CORRUZIONE, LA PAROLA AI CITTADINI\nPiano anticorruzione, la parola passa ai cittadini. Tutti i «portatori di interessi», i cosiddetti «stakeholder», cittadini singoli o associati, possono presentare le loro osservazioni per l’aggiornamento del «Piano Triennale di Prevenzione della Corruzione 2017-2019».\n\nTutte le indicazioni, le proposte i suggerimenti e le osservazioni in ordine ai contenuti del «Piano» dovranno pervenire entro e non oltre le ore 12 di lunedì 29 gennaio al Servizio Protocollo del Comune di Desio o all’indirizzo di posta elettronica protocollo@comune.desio.mb.it. Il modulo predisposto per l’invio può essere scaricato dal portale del Comune di Desio.\n\nIl piano della prevenzione della corruzione anno 2017 – 2019 (delibera di Giunta numero 5 del 31/01/2017) è scaricabile dal sito del Comune.\nhttps://www.facebook.com/152776352012040_163703287586013",
+    "entities": [
+      {
+        "type": "email",
+        "offset": 585,
+        "length": 29
+      },
+      {
+        "type": "url",
+        "offset": 846,
+        "length": 56
+      }
+    ]
+  }
+}
