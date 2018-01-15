@@ -1,0 +1,21 @@
+{
+  "update_id": 202413935,
+  "channel_post": {
+    "message_id": 2914,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516026797,
+    "text": "Mari' \nPER NON DIMENTICARE. Sabato 27 gennaio ore 21 - Villa Tittoni Marí - \nspettacolo teatrale a cura di Teatrando.\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46677",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 118,
+        "length": 74
+      }
+    ]
+  }
+}
