@@ -1,0 +1,21 @@
+{
+  "update_id": 202413936,
+  "channel_post": {
+    "message_id": 2915,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516030867,
+    "text": "desiocittaonline\n ELECTION DAY, APERTURA UFFICIO ELETTORALE\nDomenica 4 marzo gli elettori saranno chiamati alle urne per il rinnovo di Camera e Senato e l’elezione del Presidente della Regione Lombardia e del Consiglio regionale. \n\nI seggi saranno aperti nella sola giornata di domenica 4 marzo dalle 7 alle 23.\n\nPer votare gli elettori dovranno recarsi al proprio seggio, indicato sulla propria tessera elettorale, muniti di un documento di riconoscimento valido e, ovviamente, della tessera. In caso di smarrimento della tessera elettorale o di esaurimento su di essa degli spazi per il timbro della certificazione del voto, gli elettori possono chiederne una nuova all’Ufficio elettorale. \n\nPer rispondere alle esigenze e alle richieste degli elettori, a gennaio e febbraio l’ufficio elettorale garantirà dieci giorni di aperture straordinarie, per complessive 58 ore, compresi due sabati pomeriggi (il 27 gennaio e il 3 febbraio) e una domenica (il 28 gennaio): da giovedì 25 a sabato 27 gennaio - dalle ore 8.30 alle ore 18, domenica 28 e lunedì 29 gennaio - dalle ore 8 alle ore 20, martedì 30 gennaio - dalle ore 8.30 alle ore 18, mercoledì 31 gennaio - dalle ore 8.30 alle ore 18, giovedì 1 febbraio - dalle ore 8.30 alle ore 18, venerdì 2 febbraio - dalle ore 8 alle ore 20, sabato 3 febbraio - dalle ore 8 alle ore 12.\n\nInoltre nei due giorni precedenti le elezioni, ovvero venerdì 2 e sabato 3 marzo l’ufficio resterà aperto dalle ore 8.30 alle ore 18, mentre domenica 4 marzo, giorno del voto, dalle ore 7.00 alle ore 23.\n\nLa aperture straordinarie si aggiungono, naturalmente, agli orari ordinari: dal lunedì al venerdì dalle ore 8.30 alle ore 12.30, il martedì e il giovedì dalle ore 8.30 alle ore 12.30 e dalle ore 15.30 alle ore 17.30, il sabato dalle ore 9 alle ore 11.30.\nhttps://www.facebook.com/152776352012040_163728657583476",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1790,
+        "length": 56
+      }
+    ]
+  }
+}
