@@ -1,0 +1,21 @@
+{
+  "update_id": 202413931,
+  "channel_post": {
+    "message_id": 2910,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516014136,
+    "text": "APPROVAZIONE VERBALE RELATIVO ALL’AVVISO DI MOBILITÀ VOLONTARIA, EX ART. 30, D.LGS 165/2001 E S.M. E I, PER LA COPERTURA A TEMPO INDETERMINATO DI UN POSTO DI ASSISTENTE SERVIZI OPERATIVI – CAT. C – DA DESTINARE ALL’AREA GESTIONE RISORSE/ SETTORE PERSONALE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3797004",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 257,
+        "length": 92
+      }
+    ]
+  }
+}
