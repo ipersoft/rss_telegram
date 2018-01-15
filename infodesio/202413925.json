@@ -1,0 +1,26 @@
+{
+  "update_id": 202413925,
+  "channel_post": {
+    "message_id": 2904,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516007173,
+    "text": "desiocittaonline\n SCUOLE, AL VIA LE ISCRIZIONI ONLINE\nDa domani, martedì 16 gennaio, si potranno inviare le domande d’iscrizione alle scuole per l’anno scolastico 2018/2019. L’iscrizione online è prevista per le classi prime delle elementari, delle medie e delle superiori. La procedura è rimasta uguale al passato soltanto per la scuola dell’infanzia, per cui bisogna ancora presentare alle scuole l’iscrizione cartacea classica. \n\nÈ possibile l’iscrizione online anche nelle scuole paritarie che hanno aderito al programma del MIUR.\n\nSi potranno indicare fino a tre scuole. Nella prima sezione della domanda di iscrizione bisogna inserire i dati anagrafici dello studente, della scuola scelta e le preferenze sull’orario scolastico (per le elementari) o l’indirizzo di studio (per le superiori). Nella seconda sezione, invece, si devono selezionate le informazioni e le preferenze riguardo i servizi che offre la scuola scelta.\n\nConclusa questa fase, il Ministero invia in automatico all’indirizzo di posta elettronica del genitore la conferma di «acquisizione della domanda» e alla scuola il modulo di iscrizione.\n\nLa scuola confermerà l’accettazione o, in caso di indisponibilità, la indirizzerà a un’altra scuola indicata dai genitori come soluzione alternativa. Durante tutto il processo i genitori saranno aggiornati sullo stato della propria domanda.\n\nIscrizioni aperte dalle ore 8 del 16 gennaio e fino alle ore 20 di martedì 6 febbraio, sul sito del Ministero dell'Istruzione, dell'Università e della Ricerca (www.iscrizioni.istruzione.it).\nhttps://www.facebook.com/152776352012040_163656520924023",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1520,
+        "length": 28
+      },
+      {
+        "type": "url",
+        "offset": 1551,
+        "length": 56
+      }
+    ]
+  }
+}

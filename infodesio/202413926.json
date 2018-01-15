@@ -1,0 +1,21 @@
+{
+  "update_id": 202413926,
+  "channel_post": {
+    "message_id": 2905,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516007626,
+    "text": "Elezioni politiche e regionali del 3 Marzo 2018  \nTutte le informazioni sulle elezioni  della Camera dei Deputati, del Senato della Repubblica, del Consiglio Regionale  e del Presidente della Regione Lombardia\n\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46646",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 211,
+        "length": 74
+      }
+    ]
+  }
+}
