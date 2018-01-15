@@ -1,0 +1,21 @@
+{
+  "update_id": 202413922,
+  "channel_post": {
+    "message_id": 2902,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516003340,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO - 2^ PROROGA - DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE PER LA REALIZZAZIONE DELLA NUOVA RETE FOGNARIA IN VIA MILANO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3796054",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 202,
+        "length": 92
+      }
+    ]
+  }
+}

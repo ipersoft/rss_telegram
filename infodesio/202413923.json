@@ -1,0 +1,21 @@
+{
+  "update_id": 202413923,
+  "channel_post": {
+    "message_id": 2903,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516003341,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO - PROROGA - DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE PER LA REALIZZAZIONE DELLA NUOVA RETE FOGNARIA IN VIA PRIMAVERA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3796056",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 191,
+        "length": 92
+      }
+    ]
+  }
+}

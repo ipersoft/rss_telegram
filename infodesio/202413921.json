@@ -1,0 +1,21 @@
+{
+  "update_id": 202413921,
+  "channel_post": {
+    "message_id": 2901,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516003339,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE FINALIZZATA AL TAGLIO E ALLA POTATURA DELLE PIANTE AD ALTO FUSTO LUNGO LE SEGUENTI VIE: VIA ATLETI AZZURRI D'ITALIA, VIA PER BINZAGO (ALT. ISTITUTO SAVERIANI), VIA ROSSELLI (ALT. SCUOLA MATERNA), VIA TRINCEA DELLE FRASCHE, VIA DIAZ, VIA MONTEVERDI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3796052",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 374,
+        "length": 92
+      }
+    ]
+  }
+}
