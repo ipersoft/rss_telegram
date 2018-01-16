@@ -1,0 +1,31 @@
+{
+  "update_id": 202413941,
+  "channel_post": {
+    "message_id": 2918,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516109943,
+    "text": "Comune.di.Desio\n #Desio #culturando: è in distribuzione il programma di gennaio e febbraio degli appuntamenti culturali, artistici, sportivi e per il tempo libero in Città. \nScarica la tua copia!\nhttps://www.facebook.com/103441483073684_1658072490943901",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 11
+      },
+      {
+        "type": "url",
+        "offset": 196,
+        "length": 57
+      }
+    ]
+  }
+}
