@@ -1,0 +1,21 @@
+{
+  "update_id": 202413942,
+  "channel_post": {
+    "message_id": 2919,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516111330,
+    "text": "PRESA D'ATTO DEL VERBALE DI ASSEMBLEA STRAORDINARIA DEL \"CONDOMINIO GARIBALDI\" - VIA GARIBALDI 99-101 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3801003",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 103,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413944,
+  "channel_post": {
+    "message_id": 2921,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516112489,
+    "text": "desiocittaonline\n Giovedì, venerdì e sabato scorsi, per gli utenti delle zone A, B, e C, è iniziata la raccolta dei nuovi sacchi blu che sostituiscono i vecchi sacchi grigi.\n\nL’introduzione del sacco blu dotato di microchip è un passo avanti verso l’applicazione di una tariffa più equa, basata sul principio «meno inquini, meno paghi», ma anche uno «strumento» per migliorare la raccolta differenziata: meno rifiuti avviati a termodistruzione, con recupero di materiale e riduzione delle emissioni nocive nell’ambiente.\n\nIl sacco blu per il secco non riciclabile ha sostituito i vecchi sacchi grigi e si aggiunge alla raccolta di carta e cartone, vetro, multimateriale leggero e umido.\nhttps://www.facebook.com/152776352012040_163949074228101",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 687,
+        "length": 56
+      }
+    ]
+  }
+}
