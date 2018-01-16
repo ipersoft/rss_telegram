@@ -1,0 +1,21 @@
+{
+  "update_id": 202413947,
+  "channel_post": {
+    "message_id": 2924,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516122617,
+    "text": "ELEZIONI DELLA CAMERA E DEL SENATO E CONTESTUALE ELEZIONE DIRETTA DEL CONSIGLIO REGIONALE E DEL PRESIDENTE DELLA REGIONE LOMBARDIA DEL 4 MARZO 2018 - ACQUISTO DI MATERIALE DI CONSUMO VARIO PER ALLESTIMENTO TABELLONI E SEGGI ELETTORALI ( € 4.014,20) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3801562",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 250,
+        "length": 92
+      }
+    ]
+  }
+}

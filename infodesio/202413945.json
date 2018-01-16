@@ -1,0 +1,21 @@
+{
+  "update_id": 202413945,
+  "channel_post": {
+    "message_id": 2922,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516122615,
+    "text": "IMPEGNO DI SPESA PER IL PAGAMENTO DEL CANONE DI CONCESSIONE DEL PONTE RADIO IN DOTAZIONE AL COMANDO DI POLIZIA LOCALE - ANNO 2018 - PARI A EURO 1.525,00. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3801558",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 155,
+        "length": 92
+      }
+    ]
+  }
+}

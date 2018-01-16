@@ -1,0 +1,21 @@
+{
+  "update_id": 202413946,
+  "channel_post": {
+    "message_id": 2923,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516122616,
+    "text": "INTEGRAZIONE DELL’IMPEGNO DI SPESA PER LA FORNITURA E SOVRASTAMPA DI MANIFESTI, LOCANDINE E PIEGHEVOLI PER GLI UFFICI E SERVIZI COMUNALI. EURO 2.000,00 I.V.A. COMPRESA. CODICE CIG Z2616853EB. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3801560",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 193,
+        "length": 92
+      }
+    ]
+  }
+}

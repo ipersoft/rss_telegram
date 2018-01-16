@@ -1,0 +1,21 @@
+{
+  "update_id": 202413948,
+  "channel_post": {
+    "message_id": 2925,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516122618,
+    "text": "RIMBORSO SPESE DI MISSIONE AL PERSONALE DIPENDENTE – LIQUIDAZIONE 4°TRIMESTRE 2017 E PRECEDENTI (EURO 501,92.=). \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3801564",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 114,
+        "length": 92
+      }
+    ]
+  }
+}
