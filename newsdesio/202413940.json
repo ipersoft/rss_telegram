@@ -1,0 +1,21 @@
+{
+  "update_id": 202413940,
+  "channel_post": {
+    "message_id": 896,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516095199,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/cesano-maderno-in-tantissimi-alla-snia-per-il-controllo-del-vicinato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 99
+      }
+    ]
+  }
+}
