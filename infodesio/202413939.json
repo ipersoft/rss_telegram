@@ -1,0 +1,36 @@
+{
+  "update_id": 202413939,
+  "channel_post": {
+    "message_id": 2917,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516094069,
+    "text": "Comune.di.Desio\n #Desio #Culturando: l'Assessorato alla Cultura, in occasione della GIORNATA NAZIONALE CONTRO IL BULLISMO E IL CYBERBULLISMO, propone \n\"Annabel - Ballata anoressica per manichini bulli\"\nSpettacolo teatrale ispirato ad una storia vera, scritto diretto\ne interpretato da Michela Giiudici - a cura dell’associazione La Porta Socchiusa\nIngresso su prenotazione. Posti limitati.\nPer informazioni e prenotazioni: info@laportasocchiusa.org - tel.: 392.1938412\nhttps://www.facebook.com/103441483073684_1658068394277644",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 11
+      },
+      {
+        "type": "email",
+        "offset": 423,
+        "length": 25
+      },
+      {
+        "type": "url",
+        "offset": 469,
+        "length": 57
+      }
+    ]
+  }
+}
