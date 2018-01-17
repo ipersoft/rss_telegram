@@ -1,0 +1,26 @@
+{
+  "update_id": 202413951,
+  "channel_post": {
+    "message_id": 899,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516177090,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/monza-corruzione-arrestato-un-imprenditore-seregnese-dalla-gdf/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 85
+      }
+    ]
+  }
+}
