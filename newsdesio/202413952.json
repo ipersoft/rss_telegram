@@ -1,0 +1,26 @@
+{
+  "update_id": 202413952,
+  "channel_post": {
+    "message_id": 900,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516185283,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-la-gdf-arresta-per-corruzione-nota-mediatrice-immobiliare/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 86
+      }
+    ]
+  }
+}
