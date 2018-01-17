@@ -1,0 +1,21 @@
+{
+  "update_id": 202413955,
+  "channel_post": {
+    "message_id": 2928,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516188634,
+    "text": "IMPEGNO DI SPESA PER PAGAMENTO ABBONAMENTO SPECIALE TV - ANNO 2018 - PARI A EURO 407,35. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3803045",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 90,
+        "length": 92
+      }
+    ]
+  }
+}

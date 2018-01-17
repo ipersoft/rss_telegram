@@ -1,0 +1,21 @@
+{
+  "update_id": 202413954,
+  "channel_post": {
+    "message_id": 2927,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516188633,
+    "text": "PRESA D’ATTO DIMISSIONI PRESENTATE DALLA SIG.RA VIGANO' GABRIELLA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3803043",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 67,
+        "length": 92
+      }
+    ]
+  }
+}
