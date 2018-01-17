@@ -1,0 +1,21 @@
+{
+  "update_id": 202413959,
+  "channel_post": {
+    "message_id": 902,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516195097,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/operazione-fifty-fifty-la-finanza-mette-le-manette-a-tre-brianzoli/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 97
+      }
+    ]
+  }
+}
