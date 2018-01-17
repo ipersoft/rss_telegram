@@ -1,0 +1,21 @@
+{
+  "update_id": 202413960,
+  "channel_post": {
+    "message_id": 903,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516219087,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/monza-commercialista-arrestato-dalla-finanza/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 68
+      }
+    ]
+  }
+}
