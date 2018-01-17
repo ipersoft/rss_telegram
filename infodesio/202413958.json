@@ -1,0 +1,31 @@
+{
+  "update_id": 202413958,
+  "channel_post": {
+    "message_id": 2930,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516192571,
+    "text": "desiocittaonline\n SACCO BLU, PARTENZA OKAY\nCresce subito la raccolta differenziata: in pochi giorni il sacco per il secco indifferenziato si è svuotato di circa il 50 per cento\n\nMeno di una settimana dall’inizio della «rivoluzione dei rifiuti» e i primi dati confermano che sacco blu con il microchip funziona. I numeri rilevati da Gelsia Ambiente nei primi giorni di raccolta sono davvero confortanti: giovedì, in zona A, sono stati raccolti 638 sacchi blu (per il 48% del peso totale raccolto), venerdì 560 sacchi blu (per il 60% del peso totale) e sabato 722 sacchi blu (per il 69% del peso totale).\n\nMa il dato più interessante è quello della riduzione del quantitativo totale di rifiuto secco raccolto e inviato all’impianto di trattamento: rispetto alle medie di raccolta a Desio, in zona A si è registrato un calo del 42%, in zona B e C del 55%, a conferma del fatto che il sacco blu porta ad una maggiore differenziazione del rifiuto da parte degli utenti.\n\nI dati resi noti da Gelsia Ambiente a novembre 2017 sui cinque Comuni in cui il sacco blu è già partito (Seveso, Seregno, Lissone, Bovisio Masciago e Cusano Milanino), hanno confermato un netto aumento delle percentuali, ormai ferme da anni: Seregno + 12%, Seveso + 15% (con un picco di raccolta differenziata dell’83.2%), Lissone + 9%, Bovisio Masciago + 9%. \n\nCon il Comune di Desio, il bacino di utenze a sacco blu gestito da Gelsia Ambiente ha raggiunto i 192 mila abitanti e, cosa più importante, si è drasticamente ridotto il quantitativo di rifiuti avviati a termodistruzione, con recupero di materia ed emissioni nocive nell’aria evitate.\n\nCome ci si aspettava, molti utenti hanno continuato ad esporre il vecchio sacco grigio, anche perché era già stato preparato nelle precedenti settimane. In questi giorni i sacchi non conformi non vengono ritirati e sono etichettati con appositi adesivi dagli operatori di Gelsia Ambiente, proprio per far comprendere a tutti i cittadini che il rifiuto secco indifferenziato va conferito solo nel nuovo sacco blu.\n\nContinua intanto fino a sabato 20 gennaio la distribuzione straordinaria di sacchi blu presso la «Casa del Custode» (ingresso da piazza don Giussani), dove oltre l’85% dei desiani si sono già recati a prendere la propria dotazione di sacchi. Dopo il 20 gennaio, questi potranno essere ritirati, sempre gratuitamente, presso i distributori automatici installati presso il Municipio, in Piattaforma ecologica, presso il Centro Sportivo di via Agnesi e, nelle prossime settimane, al mercato di via Prati.\n\nE per la numerosa comunità pachistana residente a Desio, stasera (mercoledì 17 gennaio) alle ore 21, è previsto un ultimo incontro informativo in lingua urdu, in sala Sala «Pertini» (ingresso da piazza Don Giussani).\n\nTutte le informazioni sul sacco blu: www.gelsiambiente.it/unsaccogiusto - numero verde gratuito 800.445964 – email: infoambiente@gelsia.it.\nhttps://www.facebook.com/152776352012040_164168974206111",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 2786,
+        "length": 34
+      },
+      {
+        "type": "email",
+        "offset": 2865,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 2889,
+        "length": 56
+      }
+    ]
+  }
+}
