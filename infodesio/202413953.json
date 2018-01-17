@@ -1,0 +1,21 @@
+{
+  "update_id": 202413953,
+  "channel_post": {
+    "message_id": 2926,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516186856,
+    "text": "Avviso di mobilità volontaria - Cat. B3 - Area Affari Generali/Servizi Demografici - SEC \nAvviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46696",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 150,
+        "length": 74
+      }
+    ]
+  }
+}
