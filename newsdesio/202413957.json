@@ -1,0 +1,21 @@
+{
+  "update_id": 202413957,
+  "channel_post": {
+    "message_id": 901,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516190901,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/regionali-giorgio-gori-ad-arcore-il-tour-elettorale-parte-dai-paesi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 98
+      }
+    ]
+  }
+}
