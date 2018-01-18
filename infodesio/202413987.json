@@ -1,0 +1,21 @@
+{
+  "update_id": 202413987,
+  "channel_post": {
+    "message_id": 2955,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287660,
+    "text": "ASSOCIAZIONE BOCCIOFILA PARCO - CONTRIBUTO PER LA PROGETTAZIONE E REALIZZAZIONE DI VISITE GUIDATE A MOSTRE E MUSEI APERTE TUTTA LA CITTADINANZA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807727",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 145,
+        "length": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413986,
+  "channel_post": {
+    "message_id": 2954,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287659,
+    "text": "BILANCIO CONSOLIDATO ESERCIZIO 2018 - ELENCO SOCIETA' ED ENTI DA INCLUDERE NEL PERIMETRO DI CONSOLIDAMENTO. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807725",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 109,
+        "length": 92
+      }
+    ]
+  }
+}

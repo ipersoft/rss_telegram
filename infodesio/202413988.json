@@ -1,0 +1,21 @@
+{
+  "update_id": 202413988,
+  "channel_post": {
+    "message_id": 2956,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287660,
+    "text": "COMITATO DI VOLONTARIATO DESIO E SPORT - PROGETTO PER LA PROGETTAZIONE E REALIZZAZIONE DI UN MURALES PRESSO IL CENTRO SPORTIVO COMUNALE A DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807729",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 145,
+        "length": 92
+      }
+    ]
+  }
+}

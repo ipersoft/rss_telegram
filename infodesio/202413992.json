@@ -1,0 +1,21 @@
+{
+  "update_id": 202413992,
+  "channel_post": {
+    "message_id": 2960,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287664,
+    "text": "CAUSA TRIBUNALE CIVILE DI MILANO DI CUI ALLA DELIBERA G.C. N. 186/2016 - AUTORIZZAZIONE ALL’ACCORDO STRAGIUDIZIALE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807737",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 116,
+        "length": 92
+      }
+    ]
+  }
+}

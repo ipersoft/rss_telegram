@@ -1,0 +1,21 @@
+{
+  "update_id": 202413985,
+  "channel_post": {
+    "message_id": 2953,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287658,
+    "text": "NON ATTIVAZIONE DI GIUDIZIO RISARCITORIO IN SEDE CIVILE A SEGUITO DI SENTENZA PENALE DELLA SUPREMA CORTE DI CASSAZIONE N 39000/2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807723",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 133,
+        "length": 92
+      }
+    ]
+  }
+}

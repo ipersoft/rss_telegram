@@ -1,0 +1,21 @@
+{
+  "update_id": 202413991,
+  "channel_post": {
+    "message_id": 2959,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287663,
+    "text": "RINNOVO DELL'AFFIDAMENTO DEL SERVIZIO DI EROGAZIONE DELLE DOMANDE DI MATERNITA', FAMIGLIE NUMEROSE, BONUS ENERGIA ELETTRICA (SGATE) E BONUS GAS AI CAF ACLI, CGIL E CISL PER IL PERIODO GENNAIO-DICEMBRE 2018 - IMPEGNO DI SPESA DI EURO 8.000,00 E APPROVAZIONE CONVENZIONI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807735",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 270,
+        "length": 92
+      }
+    ]
+  }
+}

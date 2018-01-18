@@ -1,0 +1,21 @@
+{
+  "update_id": 202413989,
+  "channel_post": {
+    "message_id": 2957,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287661,
+    "text": "RINNOVO DELL'AFFIDAMENTO DEL SERVIZIO DI EROGAZIONE DELLE DOMANDE PER MATERNITA', FAMIGLIE NUMEROSE, BONUS ENERGIA ELETTRICA (SGATE) E BONUS GAS AL CAF ITALIA SRL PER IL PERIODO DAL 01 GENNAIO 2018 AL 31 DICEMBRE 2018 - IMPEGNO DI SPESA DI EURO 2.000,00 E APPROVAZIONE CONVENZIONI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807731",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 282,
+        "length": 92
+      }
+    ]
+  }
+}

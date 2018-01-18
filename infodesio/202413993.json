@@ -1,0 +1,21 @@
+{
+  "update_id": 202413993,
+  "channel_post": {
+    "message_id": 2961,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516287665,
+    "text": "APPROVAZIONE EVENTI CULTURALI GENNAIO E FEBBRAIO 2018 - IMPEGNO DI SPESA € 3.790,00 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807739",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 85,
+        "length": 92
+      }
+    ]
+  }
+}
