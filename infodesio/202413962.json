@@ -1,0 +1,21 @@
+{
+  "update_id": 202413962,
+  "channel_post": {
+    "message_id": 2931,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516272873,
+    "text": "Comune.di.Desio\n Il Giorno del ricordo è una solennità civile nazionale italiana, celebrata il 10 febbraio di ogni anno. Istituita con la legge 30 marzo 2004 n. 92 \n\nLa solennità vuole conservare e rinnovare «la memoria della tragedia degli italiani e di tutte le vittime delle foibe, dell'esodo dalle loro terre degli istriani, fiumani e dalmati nel secondo dopoguerra e della più complessa vicenda del confine orientale».\n\nLa data prescelta è il giorno in cui, nel 1947, fu firmato il trattato di pace che assegnava alla Jugoslavia l'Istria e la maggior parte della Venezia Giulia.\n\nL'Assessorato alla Cultura, in occasione del Giorno della Memoria 2018, propone lo spettacolo teatrale \"La Strage Dimenticata\", sabato 10 febbraio alle ore 21 in Villa Tittoni - Desio \n\n[ingresso libero]\nhttps://www.facebook.com/103441483073684_1824693881162710",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 789,
+        "length": 57
+      }
+    ]
+  }
+}
