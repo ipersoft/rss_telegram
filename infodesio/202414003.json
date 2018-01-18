@@ -1,0 +1,36 @@
+{
+  "update_id": 202414003,
+  "channel_post": {
+    "message_id": 2967,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516306285,
+    "text": "Comune.di.Desio\n AVVISO\n#Desio #comunicazionepubblica\nPochi giorni fa, Facebook ha modificato il suo algoritmo, privilegiando i post degli amici e dei familiari nel news feed. A rimetterci saranno soprattutto i contenuti pubblicati dalle pagine, quindi anche dalla nostra. \nSe desiderate continuare a visualizzare i post della nostra pagina Comune Di Desio nel vostro news feed, vi invitiamo a cambiare le vostre impostazioni di notifica, andando semplicemente sull'icona \"Segui\" (posizionata sotto la nostra immagine di copertina) e scegliendo l'opzione \"Mostra per primi\" (v. foto). \nDa parte nostra continueremo a cercare di fornirvi informazioni che vi interessino così che, tramite le vostre reazioni (like o commenti ai quali ci impegniamo quotidianamente a dare risposta) ... l'algoritmo di Facebook \"premierà\" i nostri contenuti, facendogli  guadagnare visibilità.\nNon è una semplice strategia di comunicazione: interagire con voi è  è sempre stato nostro obiettivo principale su questa piattaforma e continuerà semplicemente ad esserlo.\nGrazie e ... continuate a seguirci! 😉\n\nPS: Se volete approfondire il tema, qui trovate la nostra social media policy (le regole che ci siamo dati su facebook) https://www.facebook.com/Comune.di.Desio/ (menù di destra 'Informazioni')\nhttps://www.facebook.com/103441483073684_1660432554041228",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 31,
+        "length": 22
+      },
+      {
+        "type": "url",
+        "offset": 1206,
+        "length": 41
+      },
+      {
+        "type": "url",
+        "offset": 1280,
+        "length": 57
+      }
+    ]
+  }
+}
