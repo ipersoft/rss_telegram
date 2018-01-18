@@ -1,0 +1,21 @@
+{
+  "update_id": 202414002,
+  "channel_post": {
+    "message_id": 909,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516301480,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/lissone-donna-soccorsa-parcheggio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 71
+      }
+    ]
+  }
+}
