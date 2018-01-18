@@ -1,0 +1,26 @@
+{
+  "update_id": 202414001,
+  "channel_post": {
+    "message_id": 2966,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516296681,
+    "text": "Comune.di.Desio\n Via Lampugnani, nuovo asse della Cultura in Città, durante il #fuoriCday di Parco delle Culture del 31 ottobre 2015. Una bellissima giornata di fine ottobre dove la via, destinata a divenire zona 30 km/h, ha potuto mostrare tutta la sua bellezza e si è animata grazie anche ai commercianti e alla Associazione Contrada Dugana.... il resto lo hanno fatto i cittadini e le cittadine: GRAZIE!\nhttps://www.facebook.com/103441483073684_970760666341757",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 79,
+        "length": 10
+      },
+      {
+        "type": "url",
+        "offset": 407,
+        "length": 56
+      }
+    ]
+  }
+}
