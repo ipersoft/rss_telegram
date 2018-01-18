@@ -1,0 +1,21 @@
+{
+  "update_id": 202413972,
+  "channel_post": {
+    "message_id": 2940,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284058,
+    "text": "PRESA D’ATTO DELLA DECISIONE DELL'ASSEMBLEA DEI SINDACI DELL’11/09/2017 DI AVVIO DELLA FASE DI PASSAGGIO PER LO SVILUPPO DELL’AREA POLITICHE ABITATIVE E APPROVAZIONE INTEGRAZIONE ALL’ART.4 DELLA “CONVENZIONE TRA IL COMUNE DI DESIO - ENTE CAPOFILA PER L’ATTUAZIONE DEL PIANO DI ZONA DELL’AMBITO TERRITORIALE DI DESIO E L’A.S.C. “CONSORZIO DESIO-BRIANZA” PER L’AFFIDAMENTO DELLE ATTIVITÀ DI SUPPORTO ALLA PROGRAMMAZIONE DELL’AMBITO DI DESIO” APPROVATA CON DELIBERA DI GIUNTA N. 85 DEL 7/04/2016 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807325",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 494,
+        "length": 92
+      }
+    ]
+  }
+}

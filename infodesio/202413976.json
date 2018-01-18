@@ -1,0 +1,21 @@
+{
+  "update_id": 202413976,
+  "channel_post": {
+    "message_id": 2944,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284062,
+    "text": "APPROVAZIONE PROTOCOLLO D'INTESA TRA COMUNE DI DESIO E ISTITUTI COMPRENSIVI STATALI DI DESIO - PERIODO 1.1.2018/30.06.2021 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807333",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 124,
+        "length": 92
+      }
+    ]
+  }
+}

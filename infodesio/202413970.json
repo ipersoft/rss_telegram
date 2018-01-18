@@ -1,0 +1,21 @@
+{
+  "update_id": 202413970,
+  "channel_post": {
+    "message_id": 2938,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284056,
+    "text": "CONCESSIONE PATROCINIO E CONTRIBUTO ALL'A.S.D. CANNISTI MUGGIO' IN COLLABORAZIONE CON LE ASSOCIAZIONI GRUPPO NUOVA AMICIZIA E UNIONE SOCIETA' MUGGIORESE PER L'ORGANIZZAZIONE DELLA 15° EDIZIONE DELLA MANIFESTAZIONE \"CAPODANNO INSIEME\" - ANNO 2017 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807321",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 247,
+        "length": 92
+      }
+    ]
+  }
+}

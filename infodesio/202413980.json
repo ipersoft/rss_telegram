@@ -1,0 +1,21 @@
+{
+  "update_id": 202413980,
+  "channel_post": {
+    "message_id": 2948,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284065,
+    "text": "ASD GRUPPO MARCIATORI DESIO – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA “36° STRADESIO” IN PROGRAMMA IN DATA 6 GENNAIO 2018 PRESSO IL PALABANCODESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807341",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 167,
+        "length": 92
+      }
+    ]
+  }
+}

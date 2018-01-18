@@ -1,0 +1,21 @@
+{
+  "update_id": 202413984,
+  "channel_post": {
+    "message_id": 2952,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284072,
+    "text": "SCUOLA CIVICA DI MUSICA E DANZA - POLO DELLE ARTI - PROGRAMMAZIONE E ORGANIZZAZIONE FESTIVAL JAZZ \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807349",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 99,
+        "length": 92
+      }
+    ]
+  }
+}

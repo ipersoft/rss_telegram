@@ -1,0 +1,21 @@
+{
+  "update_id": 202413983,
+  "channel_post": {
+    "message_id": 2951,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284071,
+    "text": "ASSOCIAZIONE AUTOAMICA - RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DEL CORSO DI AGGIORNAMENTO DEI VOLONTARI PRESSO LA SALA “SANDRO PERTINI“ DEL PALAZZO MUNICIPALE NEL PERIODO COMPRESO TRA IL 18 GENNAIO 2018 ED IL 1 MARZO 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807347",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 238,
+        "length": 92
+      }
+    ]
+  }
+}

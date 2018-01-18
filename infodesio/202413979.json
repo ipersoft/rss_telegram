@@ -1,0 +1,21 @@
+{
+  "update_id": 202413979,
+  "channel_post": {
+    "message_id": 2947,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284064,
+    "text": "ISTITUTO COMPRENSIVO STATALE TOLSTOJ DI DESIO - RICHIESTA PATROCINIO COMUNALE PER SVOLGIMENTO SERATA INFORMATIVA AI GENITORI DEGLI ALUNNI DI DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807339",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 148,
+        "length": 92
+      }
+    ]
+  }
+}

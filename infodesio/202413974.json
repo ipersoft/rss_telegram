@@ -1,0 +1,21 @@
+{
+  "update_id": 202413974,
+  "channel_post": {
+    "message_id": 2942,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284060,
+    "text": "APPROVAZIONE ACCORDO TRA LE AMMINISTRAZIONI COMUNALI DI DESIO E BREGNANO PER L’UTILIZZAZIONE PARZIALE E TEMPORANEA DEL DIPENDENTE CORSO VINCENZO (ART. 14 CCNL 22.01.2004) \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807329",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 172,
+        "length": 92
+      }
+    ]
+  }
+}

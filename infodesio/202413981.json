@@ -1,0 +1,21 @@
+{
+  "update_id": 202413981,
+  "channel_post": {
+    "message_id": 2949,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284066,
+    "text": "PROGETTO DI BILANCIO PARTECIPATIVO 2017 “CASA DELLE DONNE” - APPROVAZIONE CONVENZIONE CON L’APS CASA DELLE DONNE DESIO \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807343",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 120,
+        "length": 92
+      }
+    ]
+  }
+}

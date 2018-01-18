@@ -1,0 +1,21 @@
+{
+  "update_id": 202413978,
+  "channel_post": {
+    "message_id": 2946,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284063,
+    "text": "VARIAZIONE DI CASSA AL BILANCIO DI PREVISIONE 2017-2019 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807337",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 57,
+        "length": 92
+      }
+    ]
+  }
+}

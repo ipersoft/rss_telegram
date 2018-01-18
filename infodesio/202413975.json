@@ -1,0 +1,21 @@
+{
+  "update_id": 202413975,
+  "channel_post": {
+    "message_id": 2943,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284061,
+    "text": "ULTERIORE INTEGRAZIONE ALLE ATTUALI UNITA' ABITATIVE A SOSTEGNO DELLE SITUAZIONI DI EMERGENZA ABITATIVA TEMPORANEA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807331",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 116,
+        "length": 92
+      }
+    ]
+  }
+}

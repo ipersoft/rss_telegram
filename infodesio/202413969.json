@@ -1,0 +1,21 @@
+{
+  "update_id": 202413969,
+  "channel_post": {
+    "message_id": 2937,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284055,
+    "text": "INTERVENTI DI ATTUAZIONE BILANCIO PARTECIPATIVO: PROGETTO “UNA BICIPOLITANA PER DESIO” (A/1641). APPROVAZIONE PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807319",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 158,
+        "length": 92
+      }
+    ]
+  }
+}

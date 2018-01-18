@@ -1,0 +1,21 @@
+{
+  "update_id": 202413971,
+  "channel_post": {
+    "message_id": 2939,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516284057,
+    "text": "INTERVENTI DI ATTUAZIONE BILANCIO PARTECIPATIVO - PROGETTO “PARCO BIRCHINO” (F/189). APPROVAZIONE PROGETTO DI FATTIBILITA’ TECNICO ECONOMICA \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807323",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 142,
+        "length": 92
+      }
+    ]
+  }
+}
