@@ -1,0 +1,21 @@
+{
+  "update_id": 202413996,
+  "channel_post": {
+    "message_id": 2963,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516290015,
+    "text": "SOSTITUZIONE DEI CONTROSOFFITTI DELL’AUDITORUM PRESSO LA SCUOLA PRIMARIA DI VIA TOLSTOJ (B/1587 – 2° LOTTO). APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO. CUP G42B17004180004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807816",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 184,
+        "length": 92
+      }
+    ]
+  }
+}

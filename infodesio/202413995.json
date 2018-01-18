@@ -1,0 +1,21 @@
+{
+  "update_id": 202413995,
+  "channel_post": {
+    "message_id": 2962,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516290014,
+    "text": "LAVORI DI REALIZZAZIONE NUOVA PALESTRA SCUOLA PRIMARIA U. TAGLIABUE 2° LOTTO FUNZIONALE – REALIZZAZIONE NUOVA PALESTRA E ADEGUAMENTO NORMATIVO PLESSO ESISTENTE (B/1567_LOTTO_2). APPROVAZIONE DEL PROGETTO ESECUTIVO - C.U.P. G45E17000030004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807814",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 240,
+        "length": 92
+      }
+    ]
+  }
+}

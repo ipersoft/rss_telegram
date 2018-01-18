@@ -1,0 +1,21 @@
+{
+  "update_id": 202413998,
+  "channel_post": {
+    "message_id": 907,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516290690,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/sei-di-desio-se-amministratori-covocati-dai-carabinieri-per-un-post-diffamatorio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 111
+      }
+    ]
+  }
+}
