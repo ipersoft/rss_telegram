@@ -1,0 +1,21 @@
+{
+  "update_id": 202413967,
+  "channel_post": {
+    "message_id": 905,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516274603,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/regionali-giorgio-gori-in-tour-per-la-brianza-chiude-stasera-a-seregno/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 101
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202413963,
+  "channel_post": {
+    "message_id": 2932,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516273461,
+    "text": "Comune.di.Desio\n In occasione della Giornata della Memoria - Desio, Sabato 27 gennaio ore 21 in Villa Tittoni andrà in scena \"MARI’\", spettacolo teatrale proposto dall'Assessorato alla Cultura\n[ingresso libero]\nhttps://www.facebook.com/103441483073684_1660101684074315",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 211,
+        "length": 57
+      }
+    ]
+  }
+}

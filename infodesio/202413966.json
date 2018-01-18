@@ -1,0 +1,26 @@
+{
+  "update_id": 202413966,
+  "channel_post": {
+    "message_id": 2935,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516274057,
+    "text": "Comune.di.Desio\n #Desio domani venerdì 19 gennaio alle 20:45, il primo dei Cinque incontri con la pedagogia, il digitale e la fisica, proposti dall'Assessorato alle Politiche Educative in Sala Pertini in collaborazione con PerCorsi - Centro di Supporto allo Studio. \nGli insegnanti sono la categoria più a rischio per patologie psichiatriche, più di impiegati e operai. È da qui che prende spunto \"Pazzi per la scuola\", titolo dell'incontro di domani. Ne parlerà Vittorio Lodolo D’Oria, medico ematologo, specialista di \"burnout\".\nhttps://www.facebook.com/103441483073684_1660112840739866",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 531,
+        "length": 57
+      }
+    ]
+  }
+}

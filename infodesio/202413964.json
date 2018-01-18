@@ -1,0 +1,36 @@
+{
+  "update_id": 202413964,
+  "channel_post": {
+    "message_id": 2933,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516273462,
+    "text": "Comune.di.Desio\n #Desio #cittachelegge: al via il prossimo 27 gennaio Immagini e Parole: incontri per piccoli lettori, la nuova rassegna della Biblioteca Civica di Desio dedicata ai piccoli lettori. \n\nUn calendario di 6 incontri pensato per i bambini e le bambine dai 4 agli 11 anni per ascoltare letture animate, partecipare a laboratori creativi, dare spazio alle emozioni e... liberare la fantasia!\n\nLa rassegna è una proposta dell'Assessorato alla Biblioteca, organizzata in collaborazione con La Porta Socchiusa APS Associazione di promozione sociale Semidisè e Abbracciebaci.\n\nLa partecipazione gratuita.\nPer iscrizioni:\ntel: 392-1938412\ne-mail: info@laportasocchiusa.org\nhttps://www.facebook.com/103441483073684_1660106437407173",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 14
+      },
+      {
+        "type": "email",
+        "offset": 652,
+        "length": 25
+      },
+      {
+        "type": "url",
+        "offset": 678,
+        "length": 57
+      }
+    ]
+  }
+}
