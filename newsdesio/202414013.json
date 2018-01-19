@@ -1,0 +1,21 @@
+{
+  "update_id": 202414013,
+  "channel_post": {
+    "message_id": 911,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516373481,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incendio-muggio-adesso.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 60
+      }
+    ]
+  }
+}
