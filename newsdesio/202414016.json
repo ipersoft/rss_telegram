@@ -1,0 +1,21 @@
+{
+  "update_id": 202414016,
+  "channel_post": {
+    "message_id": 914,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516380675,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/chirurgia-colorettale-convegno-larson.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 75
+      }
+    ]
+  }
+}
