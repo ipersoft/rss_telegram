@@ -1,0 +1,21 @@
+{
+  "update_id": 202414007,
+  "channel_post": {
+    "message_id": 2970,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516365044,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE IN VIA MATTEOTTI \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3810243",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 81,
+        "length": 92
+      }
+    ]
+  }
+}
