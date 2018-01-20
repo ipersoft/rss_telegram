@@ -1,0 +1,21 @@
+{
+  "update_id": 202414018,
+  "channel_post": {
+    "message_id": 916,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516441268,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/pietro-grasso-in-brianza-il-lavoro-deve-essere-al-centro-della-ricostruzione-del-paese/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 117
+      }
+    ]
+  }
+}
