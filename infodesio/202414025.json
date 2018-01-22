@@ -1,0 +1,26 @@
+{
+  "update_id": 202414025,
+  "channel_post": {
+    "message_id": 2976,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516613114,
+    "text": "desiocittaonline\n VITE SOSPESE A AUSCHWITZ\nKurt Weber, Obergefreiter delle SS, il «Soldato», e Marie Krall, la «Bambina»: due vite sospese a Auschwitz \n\nIl «Soldato» e la «Bambina» cercano di sopravvivere all’isolamento dei campi di sterminio nazisti e di mantenere un legame col passato. Non si possono parlare, ma si possono guardare, incontrandosi nello spazio di un foglio a cui vengono affidati sentimenti, paure, interrogativi. Lettere e diario diventano, così, l’unica possibilità di contatto. \n\nSullo sfondo la moglie del «Soldato» (Frau Ann Schroder Weber) che vive a Berlino, lontana dall’orrore dei campi e dalla denuncia del «Soldato». \n\n«Marì», la storia del «Soldato» e della «Bambina,  sarà messa in scena da Teatrando sabato sabato 27 gennaio Il «Giorno della Memoria», il «giorno simbolo» della Shoah, quello dell’abbattimento dei cancelli del campo di concentramento di Auschwitz più di settant’anni fa, il 27 gennaio 1945.\n\nL’appuntamento è per le ore 21 in Villa Tittoni Traversi (via Lampugnani, 62). Ingresso libero.\n\nInformazioni: Ufficio Cultura (tel. 0362/392.235-245 – email: cultura@comune.desio.mb.it).\n\nNella foto Silvano Ilardo, regista e protagonista di «Marì», nei panni di Kurt Weber, il «Soldato».\nhttps://www.facebook.com/152776352012040_165506137405728",
+    "entities": [
+      {
+        "type": "email",
+        "offset": 1102,
+        "length": 26
+      },
+      {
+        "type": "url",
+        "offset": 1232,
+        "length": 56
+      }
+    ]
+  }
+}
