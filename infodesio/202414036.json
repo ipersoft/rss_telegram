@@ -1,0 +1,21 @@
+{
+  "update_id": 202414036,
+  "channel_post": {
+    "message_id": 2986,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516620648,
+    "text": "INTERVENTI DI CABLAGGIO EDIFICI SCOLASTICI (B/1590). APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO. CUP G42B17004250004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3813165",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 128,
+        "length": 92
+      }
+    ]
+  }
+}

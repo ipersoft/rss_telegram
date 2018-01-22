@@ -1,0 +1,21 @@
+{
+  "update_id": 202414032,
+  "channel_post": {
+    "message_id": 2982,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516620644,
+    "text": "LAVORI DI ADEGUAMENTO ALLA NORMATIVA ANTINCENDIO DELLA SCUOLA DELL’INFANZIA DI VIA NOVARA (B/1583 A). APPROVAZIONE IN LINEA TECNICA DEL PROGETTO ESECUTIVO. CUP G42B17002800004 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3813157",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 177,
+        "length": 92
+      }
+    ]
+  }
+}

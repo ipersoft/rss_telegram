@@ -1,0 +1,21 @@
+{
+  "update_id": 202414037,
+  "channel_post": {
+    "message_id": 2987,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516620649,
+    "text": "TRASFERIMENTO IN PROPRIETA' AREA A PARTE DEL LOTTO DE/2BIS DEL P.E.E.P. CONSORTILE; IMMOBILE DI VIA XVI MARZO NR. 7 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3813167",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 117,
+        "length": 92
+      }
+    ]
+  }
+}
