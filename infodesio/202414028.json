@@ -1,0 +1,26 @@
+{
+  "update_id": 202414028,
+  "channel_post": {
+    "message_id": 2978,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516618454,
+    "text": "Comune.di.Desio\n #Desio: stasera in programma la prima data de Essere Genitori - tre incontri . L'appuntamento è per le ore 21 in Auditorium Pertini - Via Milano 245  con \"ABBIAMO BISOGNO DI GENITORI AUTOREVOLI Aiutare gli adolescenti a diventare adulti\"\nIncontro con il dott. Matteo Lancini, psicologo e psicoterapeuta\n[ingresso libero]\nhttps://www.facebook.com/103441483073684_1664317136986103",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 338,
+        "length": 57
+      }
+    ]
+  }
+}
