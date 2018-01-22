@@ -1,0 +1,26 @@
+{
+  "update_id": 202414029,
+  "channel_post": {
+    "message_id": 2979,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1516620019,
+    "text": "desiocittaonline\n È tempo di «Immagini e parole», la rassegna della Biblioteca civica di Desio dedicata ai piccoli lettori: in programma sei incontri, da gennaio a giugno, di letture ad alta voce per i bambini da quattro a undici anni, guidati da «racconta storie» professionisti e laboratori creativi per dare spazio alle emozioni e liberare la fantasia.\n\nSi parte sabato 27 gennaio alle ore 16 con il primo appuntamento, per i bambini di 4 e 5 anni, a cura dell’Associazione di promozione sociale «Semidisè» di Milano.\n\nQuesti gli altri incontri: sabato 24 febbraio - ore 16 - 6 - 8 anni (a cura di «La Porta Socchiusa»); sabato 24 marzo - ore 16 - 9 - 11 anni (a cura di «La Porta Socchiusa»); sabato 21 aprile - ore 16 - 4 - 7 anni - a cura di («Abbracciebaci»); sabato 26 maggio - ore 16 - 8 - 11 anni - a cura di («Abbracciebaci»); sabato 23 giugno - ore 16 - 4 - 5 anni (a cura di «Semidisé»).\n\nGli incontri si svolgono presso la Biblioteca civica di Desio (via Cavalieri di Vittorio Veneto 2). La partecipazione gratuita. Per iscrizioni: «La Porta Socchiusa» - tel: 392/1938412 - email: info@laportasocchiusa.org.\nhttps://www.facebook.com/152776352012040_165539754069033",
+    "entities": [
+      {
+        "type": "email",
+        "offset": 1095,
+        "length": 25
+      },
+      {
+        "type": "url",
+        "offset": 1122,
+        "length": 56
+      }
+    ]
+  }
+}
