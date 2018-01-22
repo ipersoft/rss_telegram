@@ -1,0 +1,21 @@
+{
+  "update_id": 202414024,
+  "channel_post": {
+    "message_id": 922,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516609580,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/ecco-la-ricetta-di-attilio-fontana-per-la-brianza/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 80
+      }
+    ]
+  }
+}
