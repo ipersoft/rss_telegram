@@ -1,0 +1,26 @@
+{
+  "update_id": 202414026,
+  "channel_post": {
+    "message_id": 923,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516614449,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-rissa-nella-notte-in-piazza-xxv-aprile-due-feriti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 80
+      }
+    ]
+  }
+}
