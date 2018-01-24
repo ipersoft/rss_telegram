@@ -1,0 +1,21 @@
+{
+  "update_id": 202414043,
+  "channel_post": {
+    "message_id": 927,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516786318,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/seveso-lascia-bea-e-vende-le-quote-azionarie/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 75
+      }
+    ]
+  }
+}
