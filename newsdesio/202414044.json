@@ -1,0 +1,26 @@
+{
+  "update_id": 202414044,
+  "channel_post": {
+    "message_id": 928,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516790647,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/lissone-incidente-porsche-tampona-auto-grave-un-anziano/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 78
+      }
+    ]
+  }
+}
