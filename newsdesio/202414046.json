@@ -1,0 +1,21 @@
+{
+  "update_id": 202414046,
+  "channel_post": {
+    "message_id": 930,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516792888,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/centro-antiviolenza-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 63
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update_id": 202414045,
+  "channel_post": {
+    "message_id": 929,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516792887,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/animali-ospedali-.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 55
+      }
+    ]
+  }
+}
