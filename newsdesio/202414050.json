@@ -1,0 +1,21 @@
+{
+  "update_id": 202414050,
+  "channel_post": {
+    "message_id": 934,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516938249,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/monza-tangenti-ponzoni-in-carcere/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 57
+      }
+    ]
+  }
+}
