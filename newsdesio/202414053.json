@@ -1,0 +1,26 @@
+{
+  "update_id": 202414053,
+  "channel_post": {
+    "message_id": 937,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516961654,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/monza-massimo-ponzoni-forza-italia-condannato-in-via-definitiva/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 86
+      }
+    ]
+  }
+}
