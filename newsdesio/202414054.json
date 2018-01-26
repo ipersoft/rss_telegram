@@ -1,0 +1,21 @@
+{
+  "update_id": 202414054,
+  "channel_post": {
+    "message_id": 938,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516963631,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/ville-aperte-importante-riconoscimento-da-fondazione-cariplo-70mila-euro/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 103
+      }
+    ]
+  }
+}
