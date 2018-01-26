@@ -1,0 +1,21 @@
+{
+  "update_id": 202414055,
+  "channel_post": {
+    "message_id": 939,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1516978034,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/ponzoni-condannato-in-cassazione-a-cinque-anni-e-dieci-mesi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}
