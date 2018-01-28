@@ -1,0 +1,21 @@
+{
+  "update_id": 202414059,
+  "channel_post": {
+    "message_id": 943,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517160461,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/prima-categoria-il-tabellino-di-bulgaro-desio-23442",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 91
+      }
+    ]
+  }
+}
