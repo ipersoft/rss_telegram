@@ -1,0 +1,26 @@
+{
+  "update_id": 202414063,
+  "channel_post": {
+    "message_id": 947,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517222605,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-intervista-a-dario-violi-candidato-governatore-per-la-lombardia-m5s/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 98
+      }
+    ]
+  }
+}
