@@ -1,0 +1,21 @@
+{
+  "update_id": 202414062,
+  "channel_post": {
+    "message_id": 946,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517217486,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/retepiu-premia-desio-25-000-euro-per-il-monumento-a-papa-pio-xi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 94
+      }
+    ]
+  }
+}

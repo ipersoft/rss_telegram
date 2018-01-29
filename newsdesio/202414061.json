@@ -1,0 +1,21 @@
+{
+  "update_id": 202414061,
+  "channel_post": {
+    "message_id": 945,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517216902,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/tre-gravi-incidenti-nel-weekend-a-seveso-paura-per-un-bimbo-di-10-anni/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 101
+      }
+    ]
+  }
+}
