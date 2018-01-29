@@ -1,0 +1,26 @@
+{
+  "update_id": 202414066,
+  "channel_post": {
+    "message_id": 950,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517238490,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/varedo-trovato-morto-in-una-camera-dalbergo-probabile-suicidio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 85
+      }
+    ]
+  }
+}
