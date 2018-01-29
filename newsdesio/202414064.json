@@ -1,0 +1,21 @@
+{
+  "update_id": 202414064,
+  "channel_post": {
+    "message_id": 948,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517226205,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/meda-incidente-sul-lavoro-uomo-muore-schiacciato-da-un-albero/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 92
+      }
+    ]
+  }
+}
