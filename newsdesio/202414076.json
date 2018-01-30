@@ -1,0 +1,21 @@
+{
+  "update_id": 202414076,
+  "channel_post": {
+    "message_id": 960,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517311693,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/desio-travolto-da-sbarra-di-ferro-e-grave/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 72
+      }
+    ]
+  }
+}
