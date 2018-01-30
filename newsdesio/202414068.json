@@ -1,0 +1,21 @@
+{
+  "update_id": 202414068,
+  "channel_post": {
+    "message_id": 952,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517299994,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/cesano-schiaffeggia-una-compagna-di-classe-nei-guai-un-18enne/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 92
+      }
+    ]
+  }
+}
