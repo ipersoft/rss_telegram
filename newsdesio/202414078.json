@@ -1,0 +1,21 @@
+{
+  "update_id": 202414078,
+  "channel_post": {
+    "message_id": 962,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517321910,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/trofeo-di-scherma-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 60
+      }
+    ]
+  }
+}
