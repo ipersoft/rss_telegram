@@ -1,0 +1,21 @@
+{
+  "update_id": 202414071,
+  "channel_post": {
+    "message_id": 955,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517306006,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/cesano-pusher-si-rotola-giu-dallauto-e-scappa-fermato-il-complice/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 96
+      }
+    ]
+  }
+}

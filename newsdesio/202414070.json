@@ -1,0 +1,21 @@
+{
+  "update_id": 202414070,
+  "channel_post": {
+    "message_id": 954,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517305090,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/desio-incidente-ecosmalt.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 62
+      }
+    ]
+  }
+}
