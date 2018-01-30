@@ -1,0 +1,26 @@
+{
+  "update_id": 202414072,
+  "channel_post": {
+    "message_id": 956,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517307390,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-incidente-sul-lavoro-in-coma-un-operaio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 68
+      }
+    ]
+  }
+}

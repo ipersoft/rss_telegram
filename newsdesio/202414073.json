@@ -1,0 +1,21 @@
+{
+  "update_id": 202414073,
+  "channel_post": {
+    "message_id": 957,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517307804,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/streetfood-desio-san-patrizio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 66
+      }
+    ]
+  }
+}
