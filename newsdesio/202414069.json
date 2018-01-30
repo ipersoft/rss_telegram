@@ -1,0 +1,26 @@
+{
+  "update_id": 202414069,
+  "channel_post": {
+    "message_id": 953,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517301067,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-ricchiuti-leu-la-pedemontana-un-progetto-nato-vecchio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 82
+      }
+    ]
+  }
+}
