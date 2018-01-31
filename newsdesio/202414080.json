@@ -1,0 +1,21 @@
+{
+  "update_id": 202414080,
+  "channel_post": {
+    "message_id": 964,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517382206,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/01/a-desio-il-nuovo-centro-antiviolenza-gestito-dallassociazione-white-mathilda/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 107
+      }
+    ]
+  }
+}
