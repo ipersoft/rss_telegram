@@ -1,0 +1,21 @@
+{
+  "update_id": 202414084,
+  "channel_post": {
+    "message_id": 968,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517521945,
+    "text": "Notizie di politica, cronaca, sport Monza e Brianza – Nuova Brianza\nhttp://nuovabrianza.it/candidati-elezioni-regionali-la-lista-forza-italia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 68,
+        "length": 74
+      }
+    ]
+  }
+}
