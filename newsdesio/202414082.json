@@ -1,0 +1,21 @@
+{
+  "update_id": 202414082,
+  "channel_post": {
+    "message_id": 966,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517480893,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/cresce-lunita-di-otorinolaringoiatria-dellospedale-di-desio-chirurgia-tiroidea-e-paratiroidea-asst-monza-san-gerardo-dottore-milanesi-e-dottore-diuseppe-de-donato-otochirugia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 205
+      }
+    ]
+  }
+}
