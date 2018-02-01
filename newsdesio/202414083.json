@@ -1,0 +1,21 @@
+{
+  "update_id": 202414083,
+  "channel_post": {
+    "message_id": 967,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517481194,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/gnocco-fritto-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 56
+      }
+    ]
+  }
+}
