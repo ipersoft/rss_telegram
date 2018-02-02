@@ -1,0 +1,21 @@
+{
+  "update_id": 202414093,
+  "channel_post": {
+    "message_id": 977,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517573299,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/monza-e-brianza-che-fare-questo-weekend-ecco-gli-eventi-scelti-per-voi-14/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 104
+      }
+    ]
+  }
+}
