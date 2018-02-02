@@ -1,0 +1,21 @@
+{
+  "update_id": 202414086,
+  "channel_post": {
+    "message_id": 970,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517566120,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-statua-di-papa-xi-e-polemica-sulla-ristrutturazione/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 88
+      }
+    ]
+  }
+}
