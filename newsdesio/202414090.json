@@ -1,0 +1,21 @@
+{
+  "update_id": 202414090,
+  "channel_post": {
+    "message_id": 974,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517570899,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/inseguimento-dalla-brianza-a-milano-un-15enne-alla-guida-dellauto-in-fuga/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 104
+      }
+    ]
+  }
+}
