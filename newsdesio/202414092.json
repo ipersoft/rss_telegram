@@ -1,0 +1,21 @@
+{
+  "update_id": 202414092,
+  "channel_post": {
+    "message_id": 976,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517572113,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/devastano-la-stazione-di-ceriano-presi-quattro-baby-vandali/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 90
+      }
+    ]
+  }
+}

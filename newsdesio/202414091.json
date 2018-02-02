@@ -1,0 +1,21 @@
+{
+  "update_id": 202414091,
+  "channel_post": {
+    "message_id": 975,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517572111,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-accese-altre-sei-telecamere-di-videosorveglianza/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 85
+      }
+    ]
+  }
+}
