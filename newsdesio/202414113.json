@@ -1,0 +1,21 @@
+{
+  "update_id": 202414113,
+  "channel_post": {
+    "message_id": 986,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517841140,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/si-tingevan-barba-e-capelli-per-non-essere-beccati-presi-rapinatori-seriali/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 106
+      }
+    ]
+  }
+}
