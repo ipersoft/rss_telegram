@@ -1,0 +1,21 @@
+{
+  "update_id": 202414102,
+  "channel_post": {
+    "message_id": 983,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517831833,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-in-arrivo-il-mese-del-gusto-con-mercatini-food-truck-e-tanto-divertimento-festival-gnocco-fritto-festa-san-patrizio-griglia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 160
+      }
+    ]
+  }
+}
