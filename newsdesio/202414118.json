@@ -1,0 +1,26 @@
+{
+  "update_id": 202414118,
+  "channel_post": {
+    "message_id": 990,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517913264,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-martina-cambiaghi-lega-in-corsa-per-la-regione/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 75
+      }
+    ]
+  }
+}
