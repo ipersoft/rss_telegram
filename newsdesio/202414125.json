@@ -1,0 +1,21 @@
+{
+  "update_id": 202414125,
+  "channel_post": {
+    "message_id": 992,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1517979672,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/cgil-e-cisl-ecco-gli-stati-generali-dellaccoglienza-per-sconfigge-la-paura/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 105
+      }
+    ]
+  }
+}
