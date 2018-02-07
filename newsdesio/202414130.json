@@ -1,0 +1,21 @@
+{
+  "update_id": 202414130,
+  "channel_post": {
+    "message_id": 995,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518000081,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-il-sacco-blu-funziona-prossimo-passo-premiare-i-cittadini-piu-diligenti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 108
+      }
+    ]
+  }
+}
