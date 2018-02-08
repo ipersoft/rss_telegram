@@ -1,0 +1,21 @@
+{
+  "update_id": 202414146,
+  "channel_post": {
+    "message_id": 1002,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518106953,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/gelsia-nel-mirino-della-procura-sotto-inchiesta-appalti-sospetti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 95
+      }
+    ]
+  }
+}
