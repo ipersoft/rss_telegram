@@ -1,0 +1,21 @@
+{
+  "update_id": 202414136,
+  "channel_post": {
+    "message_id": 998,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518083480,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/liberi-e-uguali-elezioni-lista-candidati-camera-senato-regione-lombardia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 103
+      }
+    ]
+  }
+}
