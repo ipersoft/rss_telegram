@@ -1,0 +1,26 @@
+{
+  "update_id": 202414144,
+  "channel_post": {
+    "message_id": 1001,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518098545,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/seregno-mario-nava-un-seregnese-doc-in-corsa-per-la-regione/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 82
+      }
+    ]
+  }
+}
