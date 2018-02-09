@@ -1,0 +1,21 @@
+{
+  "update_id": 202414148,
+  "channel_post": {
+    "message_id": 1004,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518176834,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-piano-anticorruzione-intervista-al-sindaco-corti/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 85
+      }
+    ]
+  }
+}
