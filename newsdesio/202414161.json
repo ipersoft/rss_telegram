@@ -1,0 +1,21 @@
+{
+  "update_id": 202414161,
+  "channel_post": {
+    "message_id": 1008,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518187647,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/muggio-sigilli-al-contattore-ma-lui-lo-manomette-e-ruba-lenergia-arrestato/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 105
+      }
+    ]
+  }
+}
