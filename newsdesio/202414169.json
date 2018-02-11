@@ -1,0 +1,21 @@
+{
+  "update_id": 202414169,
+  "channel_post": {
+    "message_id": 1013,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518383131,
+    "text": "Monza News\nhttp://www.monza-news.it/brianza-calcio/prima-categoria-il-tabellino-di-vis-desio-23587",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 87
+      }
+    ]
+  }
+}
