@@ -1,0 +1,21 @@
+{
+  "update_id": 202414176,
+  "channel_post": {
+    "message_id": 1018,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518429245,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-ecco-la-storia-della-nuova-pasticceria-chapeau/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 83
+      }
+    ]
+  }
+}
