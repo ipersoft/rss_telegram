@@ -1,0 +1,21 @@
+{
+  "update_id": 202414171,
+  "channel_post": {
+    "message_id": 1015,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518418752,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/andrea-monti-si-candida-in-regione-e-a-sorpresa-arriva-pure-bossi/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 96
+      }
+    ]
+  }
+}
