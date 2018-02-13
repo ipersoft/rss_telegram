@@ -1,0 +1,26 @@
+{
+  "update_id": 202414183,
+  "channel_post": {
+    "message_id": 1021,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518516693,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/desio-persona-investita-da-un-treno-notevoli-rallentamenti-sulla-linea/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 93
+      }
+    ]
+  }
+}
