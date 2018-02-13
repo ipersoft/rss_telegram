@@ -1,0 +1,21 @@
+{
+  "update_id": 202414186,
+  "channel_post": {
+    "message_id": 1024,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518519794,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/morto-treno-oggi.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 54
+      }
+    ]
+  }
+}
