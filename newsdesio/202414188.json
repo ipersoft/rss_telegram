@@ -1,0 +1,21 @@
+{
+  "update_id": 202414188,
+  "channel_post": {
+    "message_id": 1025,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518529699,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/carnevale-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 52
+      }
+    ]
+  }
+}
