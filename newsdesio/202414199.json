@@ -1,0 +1,26 @@
+{
+  "update_id": 202414199,
+  "channel_post": {
+    "message_id": 1029,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518603199,
+    "text": "www.seregno.tv\nhttp://www.seregno.tv/varedo-trovato-il-cadavere-di-un-uomo-nell-ex-snia/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 0,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 15,
+        "length": 73
+      }
+    ]
+  }
+}
