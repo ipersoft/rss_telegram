@@ -1,0 +1,21 @@
+{
+  "update_id": 202414201,
+  "channel_post": {
+    "message_id": 1031,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518608294,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/suicidio-treno-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 58
+      }
+    ]
+  }
+}
