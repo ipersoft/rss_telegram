@@ -1,0 +1,21 @@
+{
+  "update_id": 202414194,
+  "channel_post": {
+    "message_id": 1027,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518597850,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/senzatetto-muore-nellex-area-snia-di-varedo-si-scatena-la-polemica/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 97
+      }
+    ]
+  }
+}
