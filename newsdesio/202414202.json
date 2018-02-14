@@ -1,0 +1,21 @@
+{
+  "update_id": 202414202,
+  "channel_post": {
+    "message_id": 1032,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518610148,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/mbnews-nuovo-record-di-visite-quotidiano-online-monza-e-brianza/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 94
+      }
+    ]
+  }
+}
