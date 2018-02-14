@@ -1,0 +1,21 @@
+{
+  "update_id": 202414203,
+  "channel_post": {
+    "message_id": 1033,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518620912,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/incendio-quarto-oggiaro.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 61
+      }
+    ]
+  }
+}
