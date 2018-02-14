@@ -1,0 +1,21 @@
+{
+  "update_id": 202414204,
+  "channel_post": {
+    "message_id": 1034,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518622695,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/controlli-droga-scuola-gadda-paderno.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 74
+      }
+    ]
+  }
+}
