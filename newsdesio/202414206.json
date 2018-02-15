@@ -1,0 +1,21 @@
+{
+  "update_id": 202414206,
+  "channel_post": {
+    "message_id": 1036,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1518686949,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/leu-a-desio-contro-la-mafia-tax-siamo-gli-unici-a-parlarne/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 89
+      }
+    ]
+  }
+}
