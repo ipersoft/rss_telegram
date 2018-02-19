@@ -1,0 +1,36 @@
+{
+  "update_id": 202414245,
+  "channel_post": {
+    "message_id": 3077,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519028469,
+    "text": "Comune.di.Desio\n #INFOVIABILITA' da #polizialocale #desio: via Garibaldi, tratto compreso tra via U.Foscolo e via Carcano, chiusa al transito veicolare con divieto di sosta e rimozione forzata dalle ore 8.30 alle ore 17.30 dei giorni 19 - 20 - 21 febbraio 2018 per potatura alberi.(D7)\nhttps://www.facebook.com/103441483073684_1692850777466072",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 14
+      },
+      {
+        "type": "hashtag",
+        "offset": 36,
+        "length": 14
+      },
+      {
+        "type": "hashtag",
+        "offset": 51,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 286,
+        "length": 57
+      }
+    ]
+  }
+}
