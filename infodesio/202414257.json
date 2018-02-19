@@ -1,0 +1,21 @@
+{
+  "update_id": 202414257,
+  "channel_post": {
+    "message_id": 3087,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519043550,
+    "text": "AFFIDAMENTO INCARICO PROFESSIONALE PER IL COLLAUDO TECNICO/AMMINISTRATIVO (IN CORSO D’OPERA E FINALE) DEI LAVORI RELATIVI ALLE OPERE DI URBANIZZAZIONE AFFERENTI IL PIANO ATTUATIVO (DI INIZIATIVA PRIVATA) DENOMINATO D2 – VIA SAN GIUSEPPE, ALL’ING. EMILIANO CURINA - € 4.058,28 OLTRE CNPAIA E IVA. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876390",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 297,
+        "length": 92
+      }
+    ]
+  }
+}

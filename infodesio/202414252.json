@@ -1,0 +1,21 @@
+{
+  "update_id": 202414252,
+  "channel_post": {
+    "message_id": 3082,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519043539,
+    "text": "ADESIONE ALL'ASSOCIAZIONE FRA ENTI LOCALI \"AVVISO PUBBLICO\" ANNO 2018- IMPEGNO DI SPESA € 1.000,00 – \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876380",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 102,
+        "length": 92
+      }
+    ]
+  }
+}

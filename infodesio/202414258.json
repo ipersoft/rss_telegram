@@ -1,0 +1,21 @@
+{
+  "update_id": 202414258,
+  "channel_post": {
+    "message_id": 3088,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519044411,
+    "text": "Comune.di.Desio\n A DESIO UN’ORCHESTRA IN OGNI SCUOLA\nAnche quest'anno gli strumenti musicali entrano in classe. Partito nel febbraio 2017 per volontà dell'Assessorato alla Cultura in partenariato con la Fondazione Civica Scuola di Musica e Danza - Polo delle Arti, il progetto si rivolge alle classi quinte della scuola primaria con un obiettivo ambizioso: dare a tutti i ragazzi del territorio la possibilità di sperimentare l’esperienza esaltante di fare musica insieme.\nL’obiettivo è quello di avvicinare i bambini alla conoscenza degli strumenti musicali, nella convinzione che questa esperienza sia un arricchimento significativo dell’offerta formativa e delle opportunità di crescita espressive e sociali per questa fascia d’età. \n“Portare l’emozione della musica ai bambini è sempre molto importante”- racconta il direttore artistico della Fondazione Civica Scuola di Musica e Danza - Polo delle Arti,  Fulvio Brambilla - . “È in quest’età che si rafforza nelle persone la sensibilità verso ciò che è bello, che è stimolante e che per sua natura affianca alla funzione formativa una insostituibile esperienza sociale”.\nIL PROGETTO IN DETTAGLIO\nIl primo obiettivo del progetto è una conoscenza e manipolazione degli strumenti musicali. Nelle classi entrano chitarre, violini, percussioni, flauti, trombe, tromboni, toy piano e fisarmonica. E si può suonare da subito, grazie ad un metodo didattico innovativo. Ognuno può abbracciare uno strumento, esplorarne le possibilità sonore, e quindi partecipare con un ruolo da protagonista nell’orchestra, sonorizzando in maniera creativa storie e personaggi.\nIl progetto sta coinvolgendo tutte le classi quinte delle scuole primarie di Desio, per un orizzonte temporale di cinque anni. Questo permetterà di offrire l’esperienza orchestrale a tutta la popolazione della Scuola Primaria del territorio.\nhttps://www.facebook.com/103441483073684_1693073174110499",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1850,
+        "length": 57
+      }
+    ]
+  }
+}

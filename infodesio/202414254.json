@@ -1,0 +1,21 @@
+{
+  "update_id": 202414254,
+  "channel_post": {
+    "message_id": 3084,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519043541,
+    "text": "APPROVAZIONE DOCUMENTO DISCIPLINANTE LE MODALITA' DI SVOLGIMENTO DELLA PROPAGANDA ELETTORALE PER LE CONSULTAZIONI ELETTORALI DEL 4 MARZO 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876384",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 143,
+        "length": 92
+      }
+    ]
+  }
+}

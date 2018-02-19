@@ -1,0 +1,46 @@
+{
+  "update_id": 202414249,
+  "channel_post": {
+    "message_id": 3079,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519043493,
+    "text": "Comune.di.Desio\n #Desio #sport #ginnasticaritmica: da mettere in agenda il 3 marzo 2016 il 6° Trofeo Città di Desio Ginnastica Ritmica Italiana San Giorgio '79 Desio #Italia vs #Spagna al PalaDesio.\nhttps://www.facebook.com/103441483073684_1693063750778108",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 24,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 31,
+        "length": 18
+      },
+      {
+        "type": "hashtag",
+        "offset": 166,
+        "length": 7
+      },
+      {
+        "type": "hashtag",
+        "offset": 177,
+        "length": 7
+      },
+      {
+        "type": "url",
+        "offset": 199,
+        "length": 57
+      }
+    ]
+  }
+}
