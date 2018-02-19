@@ -1,0 +1,21 @@
+{
+  "update_id": 202414265,
+  "channel_post": {
+    "message_id": 3095,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519061953,
+    "text": "La pazza scienza - risultati serissimi di ricerche stravaganti \nIncontro con l''astrofisico Luca Ferri, stella nascente della comunicazione scientifica in occasione della presentazione del suo libro di esordio.\nBiblioteca Civica - Area So-Stare sabato 3 marzo alle ore 17 \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47211",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 273,
+        "length": 74
+      }
+    ]
+  }
+}
