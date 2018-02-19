@@ -1,0 +1,21 @@
+{
+  "update_id": 202414263,
+  "channel_post": {
+    "message_id": 3093,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519054158,
+    "text": "Ma-Pa mondo \nIncontri per i genitori,  attività ludica per bambini con letture e animate e laboratori per bambini da 0 a 3 anni in biblioteca. Sabato 10 marzo ore 10.30 \"Mamma e papà: ruoli complementari\" \nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47190",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 206,
+        "length": 74
+      }
+    ]
+  }
+}
