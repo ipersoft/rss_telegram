@@ -1,0 +1,21 @@
+{
+  "update_id": 202414246,
+  "channel_post": {
+    "message_id": 1042,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519035359,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/desio-ancora-aperte-le-iscrizioni-al-corso-di-cucina-per-ragazzi-disabili/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 104
+      }
+    ]
+  }
+}
