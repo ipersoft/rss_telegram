@@ -1,0 +1,21 @@
+{
+  "update_id": 202414264,
+  "channel_post": {
+    "message_id": 3094,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519055646,
+    "text": "Il Coraggio della Pace \n\"Finchè c'è guerra c'è speranza - la logica delle armi e delle spese militari\",  incontro con Francesco Vignarca,  coordinatore Rete Italiana Disarmo - Sabato 24 febbraio ore 16.00. Desio - Casa Missionari Saveriani, Via Don Milani 2\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47208",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 258,
+        "length": 74
+      }
+    ]
+  }
+}
