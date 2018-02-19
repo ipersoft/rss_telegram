@@ -1,0 +1,21 @@
+{
+  "update_id": 202414248,
+  "channel_post": {
+    "message_id": 1043,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519036829,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/intervista-a-matteo-stocco-ecco-il-futuro-dellospedale-di-desio/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 94
+      }
+    ]
+  }
+}

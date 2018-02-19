@@ -1,0 +1,26 @@
+{
+  "update_id": 202414247,
+  "channel_post": {
+    "message_id": 3078,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519036457,
+    "text": "desiocittaonline\n LA SCIENZA PER TUTTI\nSabato 3 marzo in Biblioteca civica Luca Perri presenta il suo libro, «La pazza scienza», un tributo alla fantasia degli scienziati e dei ricercatori di tutto il mondo, vincitori del premio «IgNobel»\n\nI gatti sono solidi o liquidi? Le muffe sono intelligenti? Le relazioni che tengono in equilibrio una coda di cavallo sono le stesse che governano le interazioni fra Terra e Luna?\n\nSono soltanto alcune delle domande che si sono fatti gli scienziati nel corso del 2017 che si sono aggiudicate gli «IgNobel Prize», il premio alle dieci ricerche scientifiche più assurde e divertenti degli ultimi dodici mesi inventato dalla prestigiosa università di «Harvard» e dal «Mit» di Boston.\n\nE a raccontarle ci ha pensato Luca Perri, astrofisico e divulgatore scientifico, con il libro «La pazza scienza» (Sironi editore) che presenterà sabato 3 marzo, alle ore 17, presso la Biblioteca civica di Desio (via Cavalieri di Vittorio Veneto, 2 – ingresso libero). Un libro divertente e dissacrante, dedicato alle «ricerche che fanno prima ridere e poi riflettere», scoperte all'apparenza inutili ma forse destinate a cambiarci la vita. \n\nLuca Perri aveva spiegato su Facebook il mistero delle onde gravitazionali all'indomani della loro scoperta, il 12 febbraio 2016, tirando in ballo tra le altre cose il lardo di Colonnata. Nemmeno due ore e si ritrovò con 35mila piace al post. Era forse la prima volta che qualcuno riusciva a spiegare le «misteriose» onde gravitazionali ai profani. Perri, 31 anni, nato a Como, astrofisico e dottorando all'Università dell'Insubria e all'Osservatorio di Brera, da allora è diventato una «star» della divulgazione. \n\nInformazioni: Biblioteca civica – Tel. 0362/392317 – email: biblioteca@comune.desio.mb.it.\n\nFoto dalla pagina Facebook di Luca Perri.\nhttps://www.facebook.com/152776352012040_172973983325610",
+    "entities": [
+      {
+        "type": "email",
+        "offset": 1740,
+        "length": 29
+      },
+      {
+        "type": "url",
+        "offset": 1814,
+        "length": 56
+      }
+    ]
+  }
+}
