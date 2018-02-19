@@ -1,0 +1,36 @@
+{
+  "update_id": 202414259,
+  "channel_post": {
+    "message_id": 3089,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519045308,
+    "text": "Comune.di.Desio\n #mapamondo #desio #cittachelegge: riprendono gli incontri per genitori e attività per bambini da 0 a 3 anni. Gli incontri si terranno dalle 10.30 alle 11.30 in Sala Bambini, presso la Biblioteca Civica di Desio in \nvia Cavalieri di Vittorio Veneto 2\nPARTECIPAZIONE GRATUITA \nPRENOTAZIONE OBBLIGATORIA\n\nPer iscrizioni e informazioni \nTelefono 0362 392320 \no rivolgendosi al personale della Biblioteca \ndal martedì precedente la data dell'incontro\nhttps://www.facebook.com/103441483073684_1693092384108578",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 10
+      },
+      {
+        "type": "hashtag",
+        "offset": 28,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 35,
+        "length": 14
+      },
+      {
+        "type": "url",
+        "offset": 463,
+        "length": 57
+      }
+    ]
+  }
+}
