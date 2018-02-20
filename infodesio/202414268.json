@@ -1,0 +1,36 @@
+{
+  "update_id": 202414268,
+  "channel_post": {
+    "message_id": 3097,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519131374,
+    "text": "Comune.di.Desio\n #Desio raccolta differenziata #rifiuti: attivo da oggi anche il distributore di sacchetti in via Carcano-Prati, salgono quindi a quattro i distributori disponibili sul territorio cittadino. Ecco dove potete trovare gli altri: \n- Piazza don Giussani (sotto scala ingresso Sala Pertini del Palazzo Comunale)\n- Piattaforma Ecologica (via Einaudi, negli orari di apertura della stessa),  \n- Centro Sportivo di Via Agnesi \n\nSu https://unsaccogiusto.gelsiambiente.it/raccolta-recupero/sacco-giusto-0000101.html tutte le informazioni per una corretta raccolta diferenziata.\nhttps://www.facebook.com/103441483073684_1693972390687244",
+    "entities": [
+      {
+        "type": "hashtag",
+        "offset": 17,
+        "length": 6
+      },
+      {
+        "type": "hashtag",
+        "offset": 47,
+        "length": 8
+      },
+      {
+        "type": "url",
+        "offset": 439,
+        "length": 82
+      },
+      {
+        "type": "url",
+        "offset": 584,
+        "length": 57
+      }
+    ]
+  }
+}
