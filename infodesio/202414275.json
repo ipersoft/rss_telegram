@@ -1,0 +1,21 @@
+{
+  "update_id": 202414275,
+  "channel_post": {
+    "message_id": 3104,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519144356,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SEGANTINI - ALTEZZA CIVICO 26- IL RESPONSABILE DEL SETTORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3880277",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 139,
+        "length": 92
+      }
+    ]
+  }
+}

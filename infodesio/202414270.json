@@ -1,0 +1,21 @@
+{
+  "update_id": 202414270,
+  "channel_post": {
+    "message_id": 3099,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519144349,
+    "text": "APPROVAZIONE INTERVENTI FORMATIVI INTERSETTORIALI ANNO 2018 – ASSEGNAZIONE RISORSE E IMPEGNI DI SPESA PER FORMAZIONE SETTORIALE ANNO 2018 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3880223",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 139,
+        "length": 92
+      }
+    ]
+  }
+}

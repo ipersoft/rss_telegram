@@ -1,0 +1,21 @@
+{
+  "update_id": 202414278,
+  "channel_post": {
+    "message_id": 3107,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519145978,
+    "text": "desiocittaonline\n L’IMPORTANZA DI CHIAMARSI JACK\nhttps://www.facebook.com/152776352012040_173330706623271",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 49,
+        "length": 56
+      }
+    ]
+  }
+}

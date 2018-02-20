@@ -1,0 +1,21 @@
+{
+  "update_id": 202414272,
+  "channel_post": {
+    "message_id": 3101,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519144351,
+    "text": "INDAGINE ISTAT MULTISCOPO \"ASPETTI DELLA VITA QUOTIDIANA\" - ANNO 2018 - INDIVIDUAZIONE RESPONSABILE DELL'INDAGINE E NOMINA RILEVATORE \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3880227",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 135,
+        "length": 92
+      }
+    ]
+  }
+}

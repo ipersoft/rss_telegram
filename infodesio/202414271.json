@@ -1,0 +1,21 @@
+{
+  "update_id": 202414271,
+  "channel_post": {
+    "message_id": 3100,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519144350,
+    "text": "INTERVENTI DI MANUTENZIONE STRAORDINARIA PRESSO IL CENTRO SPORTIVO COMUNALE DI VIA AGNESI” (D1188). PRESO D'ATTO PROCEDURA DI GARA DESERTA ED APPROVAZIONE NUOVA DETERMINAZIONE A CONTRARRE. CODICE CIG: Z84225B20F \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3880225",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 213,
+        "length": 92
+      }
+    ]
+  }
+}
