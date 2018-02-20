@@ -1,0 +1,36 @@
+{
+  "update_id": 202414269,
+  "channel_post": {
+    "message_id": 3098,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519142659,
+    "text": "desiocittaonline\n CICLABILI, AL VIA LA MAPPATURA\nUn «Biciplan» per ripensare la mobilità a «impatto zero». E il Comune cerca volontari per fare il check-up delle piste cittadine. Scadenza domande il 23 febbraio\n\nCome se la passano le piste ciclabili a disposizione dei ciclisti desiani? «Biciplan DesioinBici», il progetto per una nuova mobilità sostenibile, prende il via. Il Comune di Desio cerca «volontari civici» per fare il check-up delle piste ciclabili e ciclopedonali cittadine.\n\nI volontari dovranno mappare le piste esistenti e i tracciati di quelle da realizzare: lo stato e le caratteristiche, la segnaletica, l’arredo urbano, i marciapiedi, l’illuminazione pubblica, gli spazi verdi e le attività commerciali. \n\nIl report dei «volontari civici» sarà utilizzato per giungere, in tempi brevi, alla realizzazione del «Piano Generale del Traffico Urbano» («PGTU»), per la parte della mobilità lenta e la redazione del «Biciplan DesioinBici» per aumentare il numero dei ciclisti urbani che usano la bicicletta come mezzo di trasporto principale nei loro spostamenti quotidiani.\n\nInsomma, non un progetto tutto orientato sulla bicicletta, ma piuttosto sulla ridefinizione dell’uso migliore di un bene di tutti, cioè la strada pubblica, da parte di tutti gli utenti partendo dal presupposto che devono essere incentivati gli spostamenti sostenibili, non inquinanti né rumorosi.\n\nIl progetto durerà fino a dicembre secondo orari concordati dal Comune con i volontari. L’avviso è aperto a tutti i cittadini che abbiano compiuto i diciotto anni e siano in possesso di una bicicletta.\n\nIl Comune garantisce la formazione (un corso di due giornate sulla sicurezza e un percorso formativo «on the job») e copertura assicurativa. I volontari saranno selezionati tramite un colloquio conoscitivo e motivazionale.\n\nLa domanda di partecipazione andrà presentata entro venerdì 23 febbraio a mezzogiorno. Il modulo può essere scaricato dal sito del Comune di Desio (www.comune.desio.mb.it) e consegnato a mano all’Ufficio Protocollo (dal lunedì al venerdì dalle 8.30 alle 12.30, martedì e giovedì anche dalle 15.30 alle  17.30) oppure inviato all’indirizzo email partecipazione@comune.desio.mb.it, allegando anche scansione del proprio documento di identità e il curriculum vitae.\n\nInformazioni: Servizio Partecipazione e Cittadinanza Attiva - Tel. 0362/392.291 - email: partecipazione@comune.desio.mb.it.\nhttps://www.facebook.com/152776352012040_173322636624078",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1961,
+        "length": 22
+      },
+      {
+        "type": "email",
+        "offset": 2158,
+        "length": 33
+      },
+      {
+        "type": "email",
+        "offset": 2366,
+        "length": 33
+      },
+      {
+        "type": "url",
+        "offset": 2401,
+        "length": 56
+      }
+    ]
+  }
+}
