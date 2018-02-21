@@ -1,0 +1,21 @@
+{
+  "update_id": 202414288,
+  "channel_post": {
+    "message_id": 3113,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519216333,
+    "text": "ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA MAZZINI - NEL TRATTO COMPRESO TRA VIA DALLA CHIESA E L'AREA ANTISTANTE L'INGRESSO DEL PRESIDIO OSPEDALIERO - \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3882015",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 231,
+        "length": 92
+      }
+    ]
+  }
+}
