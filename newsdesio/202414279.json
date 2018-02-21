@@ -1,0 +1,21 @@
+{
+  "update_id": 202414279,
+  "channel_post": {
+    "message_id": 1045,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519194634,
+    "text": "Meteo Desio\nTemperatua corrente: 1\nMinima:1 Massima: 10 \nUmidità: 78%\nMostly Sunny\n https://ifttt.com/images/weather/sunny.png\nIFTT",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 84,
+        "length": 42
+      }
+    ]
+  }
+}
