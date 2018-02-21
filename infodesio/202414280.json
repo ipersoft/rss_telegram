@@ -1,0 +1,21 @@
+{
+  "update_id": 202414280,
+  "channel_post": {
+    "message_id": 3108,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519197448,
+    "text": "SERVIZIO DI SUPPORTO AL PERSONALE COMUNALE PER ALLESTIMENTO E DISALLESTIMENTO DEI TABELLONI ELETTORALI E ALLESTIMENTO E DISALLESTIMENTO SEGGI ELETTORALI PER ELEZIONI POLITICHE E REGIONALI ANNO 2018. INTEGRAZIONE IMPEGNO DI SPESA DI € 8.820,40= OLTRE IVA - CIG ZD121C1D17 \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3880391",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 272,
+        "length": 92
+      }
+    ]
+  }
+}
