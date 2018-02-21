@@ -1,0 +1,21 @@
+{
+  "update_id": 202414291,
+  "channel_post": {
+    "message_id": 1049,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519229835,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/furto-ospedale-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 58
+      }
+    ]
+  }
+}
