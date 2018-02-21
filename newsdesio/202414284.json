@@ -1,0 +1,21 @@
+{
+  "update_id": 202414284,
+  "channel_post": {
+    "message_id": 1046,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519205048,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/allarme-a-concorrezzo-nei-campi-polpette-piene-di-puntine/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 88
+      }
+    ]
+  }
+}
