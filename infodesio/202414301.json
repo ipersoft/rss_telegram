@@ -1,0 +1,21 @@
+{
+  "update_id": 202414301,
+  "channel_post": {
+    "message_id": 3120,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519309893,
+    "text": "1^ EMISSIONE 2018 AVVISI DI ACCERTAMENTO IMU 2013, IMU 2013/2016 E TASI 2014/2016. \nhttp://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3884983",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 84,
+        "length": 92
+      }
+    ]
+  }
+}
