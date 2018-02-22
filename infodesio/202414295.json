@@ -1,0 +1,21 @@
+{
+  "update_id": 202414295,
+  "channel_post": {
+    "message_id": 3116,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519298950,
+    "text": "desiocittaonline\n IL CORAGGIO DELLA PACE\nSabato 24 febbraio incontro con Francesco Vignarca, coordinatore della «Rete Italiana per il Disarmo»\n\nIl Nobel per la pace nel 2017 è stato assegnato all’«International Campaign to Abolish Nuclear Weapons» («ICAN»), l'organizzazione per il bando alle armi nucleari. E in quel Nobel c'è anche un po' d'Italia. Il partner italiano della «Campagna internazionale per l’abolizione delle armi nucleari», infatti, è la «Rete Italiana per il Disarmo». Ne parlerà Francesco Vignarca, coordinatore della Rete, sabato 24 febbraio alle ore 16 nell'incontro «Finchè c'è guerra c'è speranza - la logica delle armi e delle spese militari» in programma alla «Casa Missionari Saveriani» (via Don Milani, 2).\n\nL’«Ican» è nata nel 2007 in Australia e ha sede in Svizzera, a Ginevra, e lavora per promuovere l’adesione e la piena attuazione del trattato sul divieto delle armi nucleari presentato nel luglio 2017 alle Nazioni Unite e firmato da 122 Paesi (compresa l'Italia). Sono, invece, 200 le organizzazioni non profit della società civile, come la «Rete italiana per il disarmo», di circa 100 Stati in tutto il mondo che fanno parte della «Campagna».\n\nL'iniziativa è promossa dai Missionari Saveriani, dall'associazione «Desio Città Aperta» e dal Centro culturale «Lazzati», con la collaborazione del Comune di Desio.\nhttps://www.facebook.com/152776352012040_173817356574606",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1346,
+        "length": 56
+      }
+    ]
+  }
+}
