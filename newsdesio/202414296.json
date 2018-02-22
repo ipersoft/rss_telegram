@@ -1,0 +1,21 @@
+{
+  "update_id": 202414296,
+  "channel_post": {
+    "message_id": 1053,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519303635,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/cronaca/nefrologia-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 54
+      }
+    ]
+  }
+}
