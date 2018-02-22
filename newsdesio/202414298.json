@@ -1,0 +1,21 @@
+{
+  "update_id": 202414298,
+  "channel_post": {
+    "message_id": 1054,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519306767,
+    "text": "MBNews\nhttps://www.mbnews.it/2018/02/mistero-allospedale-di-desio-3mila-euro-spariti-dalla-cassaforte/",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 7,
+        "length": 95
+      }
+    ]
+  }
+}
