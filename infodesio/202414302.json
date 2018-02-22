@@ -1,0 +1,21 @@
+{
+  "update_id": 202414302,
+  "channel_post": {
+    "message_id": 3121,
+    "chat": {
+      "id": "-1001077404345",
+      "title": "DesioChannel",
+      "username": "infodesio",
+      "type": "channel"
+    },
+    "date": 1519311636,
+    "text": "Nuovo portale e nuovi servizi on line in Biblioteca \nDal 28 febbraio on line il nuovo portale di Brianza Biblioteche  con nuove modalità di accesso e nuovi servizi\nhttp://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47234",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 164,
+        "length": 74
+      }
+    ]
+  }
+}
