@@ -1,0 +1,21 @@
+{
+  "update_id": 202414294,
+  "channel_post": {
+    "message_id": 1052,
+    "chat": {
+      "id": "-1001104220133",
+      "title": "NewsDesio",
+      "username": "newsdesio",
+      "type": "channel"
+    },
+    "date": 1519292223,
+    "text": "MonzaToday\nhttp://www.monzatoday.it/eventi/old-star-game-desio.html",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 11,
+        "length": 56
+      }
+    ]
+  }
+}
